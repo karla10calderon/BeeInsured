@@ -8,6 +8,11 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f 
 RewriteRule ^(.*)$ $1.html
 
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.html -f 
+RewriteRule ^(.*)$ $1.html
+
 ErrorDocument 403 /errors/error.php
 ErrorDocument 404 /errors/error.php
 ErrorDocument 405 /errors/error.php
