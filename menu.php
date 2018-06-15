@@ -6,21 +6,24 @@
             <!--CAJA HIJO1-->
             <ul class="social-media">
                 <li>
-                    <a href="https://www.facebook.com/YourHomeKYC" target="_blank">
+                    <a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank">
                         <amp-img src="/img/social-media/Facebook-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
-                <li>
+                <li><a href="https://twitter.com/InsuredBee" target="_blank">
                     <amp-img src="/img/social-media/Twitter-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                    </a>
                 </li>
-                <li>
+                <li><a href="#" target="_blank">
                     <amp-img src="/img/social-media/Instagram-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                    </a>
                 </li>
-                <li>
+                <li><a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank">
                     <amp-img src="/img/social-media/Youtube-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                    </a>
                 </li>
             </ul>
-
+            
             <!--CAJA HIJO2-->
             <div class="navbar">
                 <a href="/index.php">Home&#127; &#127; &#127; &#124;</a>
@@ -88,20 +91,20 @@
                     
                  <ul class="social-media">
                 <li>
-                    <a href="https://www.facebook.com/YourHomeKYC" target="_blank">
+                    <a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank">
                         <amp-img src="/img/social-media/Facebook-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
                 <li>
-                      <a href="https://www.facebook.com/YourHomeKYC" target="_blank">
+                      <a href="https://twitter.com/InsuredBee" target="_blank">
                     <amp-img src="/img/social-media/Twitter-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a></li>
                 <li>
-                      <a href="https://www.facebook.com/YourHomeKYC" target="_blank">
+                      <a href="#" target="_blank">
                     <amp-img src="/img/social-media/Instagram-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a></li>
                 <li>
-                      <a href="https://www.facebook.com/YourHomeKYC" target="_blank">
+                    <a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank">
                     <amp-img src="/img/social-media/Youtube-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a></li>
             </ul>

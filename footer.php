@@ -3,18 +3,21 @@
         <p class="follow-us">Follow Us</p>
         <ul>
             <li>
-                <a href="https://www.facebook.com/YourHomeKYC" target="_blank">
-                    <amp-img src="/img/social-media/Facebook-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                <a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank">
+                    <amp-img src="../img/social-media/Facebook-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a>
             </li>
-            <li>
-                <amp-img src="/img/social-media/Twitter-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+            <li><a href="https://twitter.com/InsuredBee" target="_blank">
+                <amp-img src="../img/social-media/Twitter-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                </a>
             </li>
-            <li>
-                <amp-img src="/img/social-media/Instagram-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+            <li> <a href="#" target="_blank">
+                <amp-img src="../img/social-media/Instagram-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                </a>
             </li>
-            <li>
-                <amp-img src="/img/social-media/Youtube-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+            <li><a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank">
+                <amp-img src="../img/social-media/Youtube-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                </a>
             </li>
         </ul>
     </div>
