@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>Privacy statement by Bee Insured</title>
+    <link rel="canonical" lang="en" href="http://beeinsured.com/privacy-statement">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="We care about your information, read our privacy statement for know how Bee Insured use and protect your data.">
+    <meta name="keywords" content="Bee Insured Privacy Statement">
     <meta name="author" content="BeeInsured">
 
 

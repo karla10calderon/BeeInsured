@@ -26,7 +26,7 @@
             
             <!--CAJA HIJO2-->
             <div class="navbar">
-                <a href="/index.php">Home&#127; &#127; &#127; &#124;</a>
+                <a href="/index">Home&#127; &#127; &#127; &#124;</a>
                 <div class="dropdown">
                    <button class="dropbtn">Services&#127; &#127; &#127; &#124;</button>
                     <div class="dropdown-content">

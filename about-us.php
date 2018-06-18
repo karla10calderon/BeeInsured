@@ -3,15 +3,15 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>About Bee Insured</title>
+    <link rel="canonical" lang="en" href="http://beeinsured.com/about-us">
     
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="Bee Insured was formed in 2013 with the goal of providing high-quality insurance services to all our customers in California.">
+    <meta name="keywords" content="Insurance services California, California Insurance, Bee Insured Insurance California">
     <meta name="author" content="BeeInsured">
      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
@@ -94,8 +94,8 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/about-us.php" class="active">About Us</a></li>
+        <li><a href="/index">Home /</a></li>
+        <li><a href="/about-us" class="active">About Us</a></li>
     </ol>
 
 

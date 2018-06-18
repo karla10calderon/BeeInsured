@@ -9,8 +9,8 @@
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency, but as a partner in both their business and personal affairs.">
+    <meta name="keywords" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency">
     <meta name="author" content="BeeInsured">
 
 
@@ -21,6 +21,13 @@
     <meta name="twitter:title" content="Lorem Ipsum">
     <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
     <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
+<meta property="og:type"               content="article" />
+<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
+<meta property="og:description"        content="How much does culture influence creative thinking?" />
+<meta property="og:image"              content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+   
     <!--CARROUSEL AMP -->
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <!--GOOGLE FONTS -->
@@ -45,12 +52,14 @@
   "url": "www.beeinsured.com"
 }
 </script>
+ <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
   "url": "http://www.beeinsured.com",
-  "logo": "http://www.beeinsured.com/img/logo.png"
+  "logo": "http://www.beeinsured.com/images/logo.png"
 }
+</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -104,7 +113,6 @@
   }
 }
 </script>
-<!--FALTA AGREGAR LOGO Y CAMBIAR NUMERO DE TELEFONO -->
  <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -129,6 +137,7 @@
   ]
 }
 </script>
+ <script type="application/ld+json">
  {
   "@context": "http://schema.org",
   "@type": "Organization",
@@ -140,7 +149,7 @@
     }
   ]
 }
-
+</script>
  <style amp-custom>*{padding:0;margin:0}header{position:fixed;top:0;width:100%;z-index:100}.top{background:#eda921;height:200px;display:flex;align-items:center}.top .logo{display:block;margin-left:auto;margin-right:auto}.menu-desktop{background:#000;height:70px;overflow:hidden;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-items:center}.social-media{float:left}.social-media li{display:inline-block;padding:20px}hr{border:1px solid #fff;margin:10px}.navbar{font-family:'Open Sans';display:block;margin-left:auto;margin-right:auto}.navbar a{float:left;font-size:24px;color:#fff;text-align:center;padding:13px;text-decoration:none}.dropdown{float:left;overflow:hidden}.dropdown .dropbtn{font-size:24px;border:0;outline:0;color:#fff;padding:13px;background-color:inherit;font-family:inherit;margin:0}.navbar a:hover{color:#eda921}.dropdown:hover .dropbtn{color:#eda921}.dropdown-content{display:none;position:absolute;background-color:#4f4f4f;min-width:160px;box-shadow:0 8px 16px 0 rgba(0,0,0,.5);z-index:1}.dropdown-content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;text-align:left}.dropdown-content a:hover{background-color:#eda921;color:#000}.dropdown:hover .dropdown-content{display:block}.searchboxelements{display:inline-block}.searchboxelements input[type=search]{background-color:#00000000;background-image:url(/img/search%20copy.png);background-position:3px 3px;background-repeat:no-repeat;padding-left:38px;-webkit-transition:width 0.5s ease-in-out;transition:width 0.5s ease-in-out;height:35px;color:#fff;font-family:'Open Sans';width:20%;box-sizing:border-box;border:none;border-radius:4px;font-size:16px;float:right}.searchboxelements input[type=search]:focus{width:100%;background-color:#fff;color:#000}.lang{float:right;margin-right:30px;margin-left:30px}.lang a{text-decoration:none;font-family:'Open Sans';font-size:18px;padding:10px;color:#fff}.lang a:hover{color:#eda921}a:active{color:#eda921}.menu-responsive{background:#000;height:70px;font-family:'Open Sans';width:100%}.menu-responsive .hamburger{float:right;background-color:#000;color:#fff;margin:8px;padding:5px;border:0;font-size:36px;outline:0}.menu-responsive .hamburger:hover{color:#eda921}.content{display:none;position:absolute;background-color:#4f4f4f;width:100%;top:260px;box-shadow:0 8px 16px 0 rgba(0,0,0,.5);z-index:1;text-align:center}.content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;border-bottom:1px solid #000}.content a:hover{background-color:#eda921;color:#000}.menu-responsive:hover .content{display:block}.menu-responsive .content .searchboxelements{padding:10px;height:30px}.menu-responsive .espanol a{border:0;background:0}.menu-responsive .espanol{display:flex;background-color:#000;border:0;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:center}amp-carousel{margin-top:270px;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center;position:relative}amp-carousel a{text-decoration:none}amp-carousel a p{background-color:#214460;color:#fff;font-family:'Open Sans';font-size:36px;text-align:left;font-weight:lighter;padding:1.8%;border-radius:8px;position:absolute;top:26%;left:12%;z-index:1}.formulario{margin:5px;background-color:#fff;text-align:center;padding:15px;margin-top:40px;margin-bottom:40px}.formulario fieldset{border:none}.formulario form{background-color:#fff;padding:18px;border-radius:10px;font-family:'Open Sans';border:2px solid #ccc}.formulario .quote{width:30%;display:block;margin-left:auto;margin-right:auto}.formulario .quote input[type=text],.formulario input[type=email]{background-color:#fff;display:block;margin-left:auto;margin-right:auto;margin-bottom:-10px;width:95%;height:20px;font-family:'Open Sans';font-size:18px;padding:8px;border-radius:8px;border:1px solid #ccc;color:#000}.formulario .quote input[type=text]::placeholder,.formulario .quote input[type=email]::placeholder{color:#b2b2b2;opacity:1}.formulario fieldset{border:none}.formulario input[type=submit]{background-color:#EDA921;color:#000;font-weight:700;text-decoration:none;padding:10px;font-family:'Open Sans';font-size:18px;border-radius:9px;margin-top:15px;float:right;border:none;-webkit-transition:background-color 0.4s ease-out;-moz-transition:background-color 0.4s ease-out;-o-transition:background-color 0.4s ease-out;transition:background-color 0.4s ease-out}.formulario input[type=submit]:hover{background-color:#000;color:#EDA921;cursor:pointer}.formulario .options{display:flex;flex-direction:row-reverse;flex-wrap:nowrap;justify-content:flex-start;align-items:center;width:95%;font-family:'Open Sans';font-size:16px;padding:8px;margin-bottom:-10px;margin-left:auto;margin-right:auto;background-color:#fff;border-radius:8px;border:1px solid #ccc}.formulario .options .opt{padding:7px;color:#000;font-weight:700;height:auto;overflow:inherit;width:55%;font-family:'Open Sans';font-size:14px}.formulario .options #status{right:0;padding:7px;width:45%;text-align:center;background:url(/img/arrow-down2-56.png) no-repeat 2px;background-color:#fff;background-position:right;font-family:'Open Sans';font-size:14px;border-left:1px solid #ccc}.formulario .options select{border:0;background:#fff;-webkit-appearance:none}.our-services{background:#fff;width:100%;margin-top:30px;margin-bottom:40px}.our-services .title-section{text-align:center;display:inline;margin-bottom:40px}.our-services a{text-decoration:none;color:#000}.our-services .box .son{background:#fff;max-width:335px;height:155px;border:5px #000 solid;border-radius:20px;text-align:center;padding:25px;margin:25px}.box{overflow:hidden;display:flex;width:100%;height:auto;justify-content:center;flex-wrap:wrap}h1{font-family:'Open Sans';font-size:36px;font-weight:700;text-align:center;margin-bottom:40px}h2{font-family:'Open Sans';font-size:24px;font-weight:700;text-align:center}p{font-family:'Open Sans';font-size:16px;font-weight:300;text-align:left}.slogan{height:280px;width:100%;align-items:center;display:flex;justify-content:center}.slogan p{font-family:'Open Sans';font-size:48px;font-weight:400;text-align:center}footer{background:#000;width:100%;height:260px;display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;flex-direction:row}footer .statement{font-family:'Open Sans';color:#fff;font-size:18px;font-weight:700;margin:auto;display:inline-block}footer .statement a{font-family:'Open Sans';color:#fff;font-size:12px;font-weight:700;font-style:none;text-decoration:none}footer .follow{display:block;margin-left:auto;margin-right:auto}footer .follow p{font-family:'Open Sans';color:#fff;font-size:12px;font-weight:700;text-align:center}footer .follow li{display:inline-block;padding:10px}.parallaxamp{position:relative;overflow:hidden}.parallaxamp h3{font-family:'Open Sans';position:absolute;text-align:left;z-index:1;overflow:hidden;font-size:26px;margin-left:40%;margin-right:5%}.opinion{background-color:black;color:#fff}.parallax-image-window{overflow:hidden}.parallax-image-window amp-img{margin-bottom:-30%}@media only screen and (max-width:600px){.menu-desktop{display:none}.parallaxamp h3{font-size:12px;margin-left:15%;margin-right:5%}amp-carousel a p{font-size:12px;padding:5px;top:9%;left:6%}amp-carousel .quote{display:none}.formulario .quote{width:90%}}@media only screen and (max-width:1199px) and (min-width:601px){.menu-desktop{display:none}.parallaxamp h3{font-size:16px;margin-left:20%;margin-right:5%}amp-carousel a p{font-size:16px;padding:10px;top:10%;left:12%}.formulario .quote{width:70%}}@media(min-width:1200px){.menu-responsive{display:none}}.scrollToTop{color:#000;font-size:1.4em;box-shadow:0 1px 1.5px 0 rgba(0,0,0,.12),0 1px 1px 0 rgba(0,0,0,.24);width:50px;height:50px;border-radius:100px;border:none;outline:none;background:#eda921;z-index:200;bottom:10px;right:10px;position:fixed;opacity:0;visibility:hidden}#marker{position:absolute;top:100px;width:0;height:0}</style>
 </head>
 
@@ -197,7 +206,7 @@
 
     <!--CARROUSEL-->
     <amp-carousel width="1920" height="395" layout="responsive" type="slides" autoplay delay="3500">
-        <a href="/services/workers-compensation.php"><p><b>We help</b> hundreds of<br> contractors in California<br>with their <b>Insurance Needs</b></p>
+        <a href="/services/workers-compensation"><p><b>We help</b> hundreds of<br> contractors in California<br>with their <b>Insurance Needs</b></p>
             <amp-img src="img/carrousel/workers-compensation.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
        </a>
         <a href="#">
@@ -206,7 +215,7 @@
         <a href="#">
             <amp-img src="img/carrousel/service-3.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
         </a>
-        <a href="/services/certificates.php"><p>Get your <strong>Insurance<br>Certificate</strong> today</p>
+        <a href="/services/certificates"><p>Get your <strong>Insurance<br>Certificate</strong> today</p>
             <amp-img src="img/carrousel/insurance-certificate.jpg" width="1920" height="395" layout="responsive" alt="Get your Insurance Certificate" title="Insurance Certificate"></amp-img>
         </a>
     </amp-carousel>
@@ -217,7 +226,7 @@
         <div class="formulario">
   
        <form method="post"
-    action-xhr="https://example.com/subscribe"
+    action-xhr="resultados-form.php"
     target="_top"
     class="quote">
     <fieldset>
@@ -284,17 +293,17 @@
             <a href="our-services"><h1>Our Services &#127;</h1></a>
         </div>
         <div class="box">
-            <a href="/services/business-loans.php"><div class="son">
+            <a href="/services/business-loans"><div class="son">
                 <amp-img src="img/services/business-loans.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Business Loans</h2><br><!-- 
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
-           <a href="/services/insurance-services.php"> <div class="son">
+           <a href="/services/insurance-services"> <div class="son">
                 <amp-img src="img/services/insurance-service.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Insurance Service</h2><br>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
-           <a href="/services/certificates.php"> <div class="son">
+           <a href="/services/certificates"> <div class="son">
                 <amp-img src="img/services/certificates.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Certificates</h2><br>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->

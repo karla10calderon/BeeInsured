@@ -3,22 +3,22 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>Business Loans for startups and small business</title>
+    <link rel="canonical" lang="en" href="http://beeinsured.com/services/business-loans">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="Small business grows faster with the right business loans for their needs. Be sure to contact us and get your insurance quote now. ">
+    <meta name="keywords" content="small business Loans, business loans, business loans for bad credit, star up business loans, small business insurance">
     <meta name="author" content="BeeInsured">
 
 
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
+    <meta name="twitter:creator" content="BeeInsured">
     <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
+    <meta name="twitter:description" content="Small business grows faster with the right business loans for their needs. Be sure to contact us and get your insurance quote now.">
     <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
    
     <!--GOOGLE FONTS -->

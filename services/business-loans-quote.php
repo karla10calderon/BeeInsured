@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <link rel="canonical" lang="en" href="http://beeinsured.com/services/business-loans-quote">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="Get your quote now to grow your startup
+     with our business loans service.">
+    <meta name="keywords" content="small business Loans, business loans, business loans for bad credit, star up business loans, small business insurance">
     <meta name="author" content="BeeInsured">
-
 
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">

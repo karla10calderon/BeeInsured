@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
+    <title>Bee Insured Insurance's Services</title>
     <link rel="canonical" lang="en" href="http://beeinsured.com">
     
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
@@ -11,7 +11,7 @@
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="keywords" content="Insurance Services Palm Springs, California Workers comp, workers compensation california, workers comp">
     <meta name="author" content="BeeInsured">
      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">

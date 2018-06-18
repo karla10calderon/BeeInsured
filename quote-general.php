@@ -13,7 +13,7 @@
             
         <!--FORMULARIO CORTO DE CONTACTO-->
        <form method="post"
-    action-xhr="https://example.com/subscribe"
+    action-xhr="resultados-form.php"
     target="_top"
     class="quote">
     <fieldset>
@@ -47,9 +47,9 @@
   <br>
        <div class="options">
             <select name=“Service” id="status">
-                <option value=“Business Loans”>Business Loans</option>
+                <option value=“Business”>Business Loans</option>
                 <option value=“Certificates”>Certificates</option>
-<option value=“Insurance Services”>Insurance Services</option>
+<option value=“Insurance”>Insurance Services</option>
            </select> 
            <label for="Service"
       class="opt">Service</label>   
