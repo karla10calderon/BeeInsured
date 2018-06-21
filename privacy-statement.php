@@ -4,7 +4,9 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Privacy statement by Bee Insured</title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com/privacy-statement">
+ 
+    <link rel="canonical" hreflang="en" href="http://beeinsured.com/privacy-statement">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/aviso-privacidad">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">

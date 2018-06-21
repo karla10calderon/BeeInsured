@@ -3,13 +3,16 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>Business Insurance Service by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+    
+    
+     <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/business-insurance">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/seguro-negocio">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="Business Insurance services by Bee Insured provides you the right Insurance at the lower cost.">
+    <meta name="keywords" content="business insurance california, small business insurance, business insurance quote, Business insurance Los angeles">
     <meta name="author" content="BeeInsured">
 
 

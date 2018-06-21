@@ -3,15 +3,17 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>Certificates by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
-    <meta name="author" content="BeeInsured">
 
+     <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/certificates">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/certificados">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="Get your insurance certificate online just in minutes with Bee Insured">
+    <meta name="keywords" content="insurance certificates, insurance certificates online, certificates for insurance">
+    <meta name="author" content="BeeInsured">
 
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">

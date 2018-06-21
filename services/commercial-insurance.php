@@ -3,13 +3,16 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>Commercial Insurance by Bee Insured</title>
      <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
+ 
+     <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/commercial-insurance">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/seguros-comerciales">
+
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">
+    <meta name="keywords" content="commercial insurance services california, commercial insurance LLC">
     <meta name="author" content="BeeInsured">
 
 

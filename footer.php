@@ -32,7 +32,8 @@
         </ul>
     </div>
     <div class="statement">
-        <p>Powered By: KYC Insurance Sevices LLC<br>
+        <p>Bee Insured Powered By:<br>KYC Insurance Sevices LLC<br>
+           Agency License #0I32333<br>
             <a href="/privacy-statement">Privacy Statement</a></p>
         <amp-img src="/img/icon-white.png" class="icon" width="40" height="35" alt="#" title="#"></amp-img>
     </div>

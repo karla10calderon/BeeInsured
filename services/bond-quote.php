@@ -3,14 +3,18 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <title>Bond Insurance Quote by Bee Insured</title>
+     <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/bond-quote">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/serivices/fianza-formulario">
+    
+    
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="Cover all your bond Insurance needs with Bee Insured, fill the form and will be in contact soon for helping you.">
+    <meta name="keywords" content="bond services of california, California Insurance Services, security bond insurance">
     <meta name="author" content="BeeInsured">
+
 
 
     <!-- Twitter Card tags -->

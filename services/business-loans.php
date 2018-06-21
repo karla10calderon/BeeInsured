@@ -3,8 +3,14 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Business Loans for startups and small business</title>
+    <title>Business Loans Service by Bee Insured</title>
     <link rel="canonical" lang="en" href="http://beeinsured.com/services/business-loans">
+    
+    
+      <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/business-loans">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/serivices/prestamos-negocios">
+    
+    
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">

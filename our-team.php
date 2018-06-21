@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured Work Team</title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com/our-team">
+      <link rel="canonical" hreflang="en" href="http://beeinsured.com/our-team">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/equipo">
     
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 

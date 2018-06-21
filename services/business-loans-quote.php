@@ -3,8 +3,10 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com/services/business-loans-quote">
+    <title>Business Loans Quote by Bee Insured</title>
+      <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/business-loans-quote">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/serivices/prestamos-negocios-formulario">
+    
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">

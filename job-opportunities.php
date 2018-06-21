@@ -3,8 +3,9 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Work with Bee Insured</title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com/job-opportunities">
+    <title>Work with Bee Insured</title>    
+      <link rel="canonical" hreflang="en" href="http://beeinsured.com/job-opportunities">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/bolsa-trabajo">
     
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
