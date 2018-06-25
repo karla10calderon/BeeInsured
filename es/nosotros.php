@@ -97,19 +97,18 @@
     </ol>
 <!--About Us-->
       <div class="our-services">
- <amp-img src="/img/about-us-48.png" width="1946" height="1173" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
+ <amp-img src="../es/img/nosotros.png" width="1946" height="1173" alt="Logo de Bee Insured" title="Logo de Bee Insured" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
-             <amp-img src="/img/LogoBee%20Insured-OrangeandBlack.png" width="915" height="299"  layout="responsive" alt="#" title="#"></amp-img>
+             <amp-img src="../es/img/LogoBee%20Insured-OrangeandBlack-min.png" width="915" height="299"  layout="responsive" alt="Logo de Bee Insured" title="Logo de Bee Insured"></amp-img>
                
             <p>Bee Insured fue fundado en 2013 bajo el nombre de KYC Insurance Services, LLC. para atender las necesidades de la industria de la construcción- a pesar de que también proporcionamos protección de la más alta calidad de seguros comerciales par todas las industrias.<br><br>Nuestro compromiso es asegurar que cada cliente tenga una comprensión clara de sus necesidades de seguro, la cobertura que necesita y la póliza que está comprando. Nos centramos en el cliente a largo plazo, que nos ve no sólo como una agencia de seguros, sino como un socio en sus negocios y asuntos personales.<br><br>
-
 Bee Insured se enfoca en la relación entre los agentes y los clientes, y garantizar la satisfacción del cliente sobre todo lo demás. somos una agencia de seguros de servicio completo, capaz de manejar las necesidades de seguros personales y de su negocios</p>
            </div>
         </div>
 <!--WHAT MAKES US DIFFERENT?-->
   <div class="our-services reverse">
- <amp-img amp-fx="fade-in-scroll" src="/img/about-us-49.png" width="3106" height="1192" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
+ <amp-img amp-fx="fade-in-scroll" src="../es/img/nosotros-1.png" width="3106" height="1192" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 1050px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
             <h2>¿Qué nos hace diferentes?</h2><br>

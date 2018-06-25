@@ -98,7 +98,7 @@
        <li><a href="/services/homeowners-quote.php" class="active">Formulario Seguro de vivienda</a></li>
     </ol>
     <div class="info">
-        <amp-img src="../img/services/homeowner.png" width="126" height="126"  alt="#" title="#"></amp-img>
+        <amp-img src="../../es/img/services/vivienda.png" width="126" height="126"  alt="#" title="#"></amp-img>
   <p>Cuéntenos un poco sobre usted. <strong>Comience su cotización </strong>proporcionándonos su información de contacto y el <strong>tipo de póliza que usted está buscando</strong>. En breve, una de nuestros agentes estará en contacto con usted con una cita completa.</p></div>
     
    

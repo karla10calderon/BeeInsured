@@ -4,12 +4,9 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
-    
+    <link rel="canonical" lang="en" href="http://beeinsured.com">  
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+ <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="DESCRIP">
     <meta name="keywords" content="KEYWORDS">
     <meta name="author" content="BeeInsured">
@@ -102,7 +99,7 @@
         <div class="our-team">
     
           <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Kevin Arita</p> 
               <p class="job">CEO</p>
               
@@ -110,7 +107,7 @@
            </div>
            
            <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Jair Rodríguez</p>
               <p class="job">COO</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -124,21 +121,21 @@
           
            <div class="our-team">
            <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">David Bass</p> 
               <p class="job">Aprobación</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
            </div>
            
                      <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Kimberly Romero</p> 
               <p class="job">Servicio al cliente</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
            </div>
            
            <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Patty Castañeda</p> 
               <p class="job">Servicio al cliente</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -153,7 +150,7 @@
        <p class="section">Seguros personales</p>
       <div class="our-team">
           <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Sylvia Alfonso</p> 
               <p class="job">Agente de líneas comerciales</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -166,7 +163,7 @@
            <p class="section">Seguros comerciales</p>
       <div class="our-team">
           <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Sandra Cardeña</p> 
               <p class="job">Agenete de seguros comerciales</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -175,7 +172,7 @@
            
            
          <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Henry Vela</p> 
               <p class="job">Agente de seguros</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -183,7 +180,7 @@
            
            
             <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="../es/img/equipo.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Alexander Herrera</p> 
               <p class="job">Agente de seguros</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>

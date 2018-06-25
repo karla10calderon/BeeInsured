@@ -98,7 +98,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/inland-marine-tool-equipment-1-26.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/services/seguro-herramienta.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
     <div class="info">
         <p>Cubre sus herramientas de mano, eléctricas y otras herramientas diarias de robo, vandalismo y daño físico. Excepto mercancías en general y desgarro.</p>
        

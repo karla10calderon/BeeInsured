@@ -91,7 +91,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/commercial-vehicle-banner.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/services/vehiculo-comercial-baner.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
     <div class="info">
         <p>Cuando usted es dueño de un negocio, usted tiene mucho que proteger y la cobertura de seguro correcta puede ser importante para su éxito continuo. Es por eso que en Bee Insured trabajamos duro para encontrar lo mejor en seguros con tarifas más bajas para su vehículos comerciales<br><br>
 

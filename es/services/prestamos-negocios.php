@@ -93,7 +93,7 @@
         <li><a href="/services/prestamos-negocios.php" class="active">Préstamos a negocios</a></li>
     </ol>
 
-  <amp-img src="/img/carrousel/service-6.png" width="1920" height="395" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/services/prestamos-negocios-1.png" width="1920" height="395" layout="responsive" title="#"></amp-img>
     <div class="intro">
         <p>¡Ahora podemos <strong>ayudar a financiar su negocio!</strong><br>
 Los préstamos ascienden desde $15.000 a $5 millones con una amortización de hasta 10 años.</p>

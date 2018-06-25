@@ -98,10 +98,8 @@
         <li><a href="../services/personal-lines.php" class="active">Seguros personale</a></li>
     </ol>
 
-
-<!--BUSINESS LOANS-->
          <a href="/services/personal-auto.php"><div class="our-services">
- <amp-img src="../img/services/personal-auto-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
+ <amp-img src="../../es/img/services/auto-personal.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
              <amp-img src="../img/services/personal-auto.png" width="60" height="60"  alt="#" title="#"></amp-img>
@@ -109,12 +107,11 @@
             <p>Su seguro de auto no es sólo una buena acción el proteger económicamente en caso de un accidente ya que en muchos Estados es obligatorio.</p>
            </div>
         </div></a>
-<!--INSURANCE SERVICES-->
    <a href="/services/homeowners.php"><div class="our-services reverse">
  <amp-img amp-fx="fade-in-scroll" src="../img/services/homeowners-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
-             <amp-img src="../img/services/homeowner.png" width="60" height="60"  alt="#" title="#"></amp-img>
+             <amp-img src="../../es/img/services/vivienda.png" width="60" height="60"  alt="#" title="#"></amp-img>
                 <h2>Seguro de vivienda</h2><br>
             <p>El seguro de propietario es una forma de seguro de propiedad que cubre las pérdidas y daños a la casa de un individuo y a los activos en el hogar.</p>
            </div>

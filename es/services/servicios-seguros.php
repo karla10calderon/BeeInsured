@@ -90,7 +90,7 @@
         <li><a href="/services/servicios-seguros" class="active">Servicios de seguros</a></li>
     </ol>
 
-  <amp-img src="/img/carrousel/service-5-26.jpg" width="1920" height="395" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/carrousel/service-5.jpg" width="1920" height="395" layout="responsive" title="#"></amp-img>
     <div class="intro">
        <!--  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
        
@@ -99,12 +99,12 @@
      
        <div class="box"><a href="/services/seguros-personales">
             <div class="son">
-                <amp-img src="/img/services/personal-lines.png" width="60" height="60" alt="#" title="#"></amp-img>
+                <amp-img src="../../es/img/services/prestamos-personales.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Seguros personales</h2><br>
                 <p>No se trata solo de estar asegurado. Se trata de disfrutar la vida y estar tranquilo, porque estás protegido contra cualquier situación que pueda perjudicarte a ti o a tu familia.</p>
             </div></a>
             <a href="/services/seguros-comerciales"><div class="son">
-                <amp-img src="/img/services/commercial-insurance.png" width="60" height="60" alt="#" title="#"></amp-img>
+                <amp-img src="../../es/img/services/seguro-comercial.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Seguros comerciales</h2><br>
                 <p>Cuando usted es dueño de un negocio, usted tiene mucho que proteger y la cobertura de seguro correcta puede ser importante para su éxito continuo.</p>
             </div></a>

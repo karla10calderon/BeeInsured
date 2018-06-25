@@ -97,33 +97,33 @@
         
         <div class="box">
             <div class="son"><a href="/services/responsabilidad-general">
-                 <amp-img src="/img/services/general-liability.png" width="60" height="60" alt="#" title="#"></amp-img>
+                 <amp-img src="../../es/img/services/responsabilidad-general.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Seguro de Responsabilidad General</h2><br>
                 <p>La cobertura de seguro de responsabilidad general puede proteger su negocio de estos gastos inesperados, así que es esencial que usted comprenda lo que hace y no cubre.</p>
            </a> </div>
             <div class="son"><a href="/services/compensacion-trabajadores">
-                 <amp-img src="/img/services/workers-compensation.png" width="60" height="60" alt="#" title="#"></amp-img>
+                 <amp-img src="../../es/img/services/compensacion-trabajadores.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Seguro Compensación a los trabajadores</h2><br>
                 <p>El seguro de compensación de trabajadores está diseñado para ayudar a las compañías para pagar la protección de sus empleados.</p>
             </a></div>
              <div class="son"><a href="/services/seguro-negocio">
-                 <amp-img src="/img/services/business-insurance.png" width="60" height="60" alt="#" title="#"></amp-img>
+                 <amp-img src="../../es/img/services/seguros-negocios.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Seguros de negocios</h2><br>
                 <p>Coverages: General Liability Insurance, Business Owner's Policy, Commercial Auto Insurance and Workers Compensation</p>
             </a></div>
              <div class="son"><a href="/services/fianza">
-                 <amp-img src="/img/services/bond.png" width="60" height="60" alt="#" title="#"></amp-img>
+                 <amp-img src="../../es/img/services/fianza.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Fianza</h2><br>
                 <p>Una fianza por incumplimiento, puede ser comparado como Bond para garantizar los pagos de intereses y al principal en el Bond a sus tenedores de fianza (Bond) en caso de incumplimiento de contrato o que el emisor por defecto.
 </p>
             </a></div>
              <div class="son"><a href="/services/vehiculo-comercial">
-                 <amp-img src="/img/services/commercial-vehicle.png" width="60" height="60" alt="#" title="#"></amp-img>
+                 <amp-img src="../../es/img/services/vehiculo-comercial.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Vehiculo comercial</h2><br>
                 <p>Cobertura: Daño físico, Carga/Marine interior, Auto comercial, Auto-mono comercial, Auto-camioneros comerciales, Transporte, Camioneros y Rastreo</p>
             </a></div>
              <div class="son"><a href="/services/equipo-herramienta">
-                 <amp-img src="/img/services/inland-marine-tool-equipment.png" width="60" height="60" alt="#" title="#"></amp-img>
+                 <amp-img src="../../es/img/services/equipo.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Seguro de equipo y herramienta de trabajo</h2><br>
                 <p>Cubre sus herramientas de mano, eléctricas y otras herramientas diarias de robo, vandalismo y daño físico. Excepto mercancías en general y desgarro.
 </p>

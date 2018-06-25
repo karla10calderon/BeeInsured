@@ -92,7 +92,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/bond-banner.jpg" width="1680" height="570" layout="responsive" title="Bond Insurance" alt="Get your bond quote"></amp-img>
+  <amp-img src="../../es/img/services/fianza-banner.jpg" width="1680" height="570" layout="responsive" title="Bond Insurance" alt="Get your bond quote"></amp-img>
     <div class="info">
        <p> 
        Una  <strong>fianza por incumplimiento o más conocido como Bond</strong>, puede ser comparado como fianza (Bond) para garantizar los pagos de intereses y al principal en el Bond a sus tenedores de fianza (Bond) en caso de incumplimiento de contrato o que el emisor por defecto.<br><br>

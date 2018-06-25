@@ -92,7 +92,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/business-insurance-banner.jpg" width="1680" height="570" layout="responsive" title="Business Insurance" alt="Business Insurance Service"></amp-img>
+  <amp-img src="../../es/img/services/seguros-negocios.jpg" width="1680" height="570" layout="responsive" title="Business Insurance" alt="Business Insurance Service"></amp-img>
     <div class="info">
         <p> Cuando eres <strong>dueño de un negocio</strong>, tienes mucho que protejer, y tener la mejor cobertura de seguro es importante para seguir teniendo éxito, por eso en Bee Insured trabajamos duro hasta encontrar el <strong>mejor seguro al menor precio</strong> para tu negocio.</p>
        

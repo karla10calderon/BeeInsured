@@ -20,8 +20,3 @@ ErrorDocument 408 /errors/error.php
 ErrorDocument 500 /errors/error.php
 ErrorDocument 502 /errors/error.php
 ErrorDocument 504 /errors/error.php
-
-<FilesMatch "\.(css|js|ico|pdf|flv|jpg|jpeg|png|gif|swf|mp3|mp4)$">
-Header set Cache-Control "public"
-Header set Expires "Thu, 25 Apr 2025 20:00:00 GMT"  
-</FilesMatch>﻿

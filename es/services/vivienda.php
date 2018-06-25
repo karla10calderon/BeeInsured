@@ -92,7 +92,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/homeowners-banner.jpg" width="1680" height="570" layout="responsive" title="Homeowners insurance service" alt="Homeowners Insurance Service, get your quote"></amp-img>
+  <amp-img src="../../es/img/services/vivienda-banner.jpg" width="1680" height="570" layout="responsive" title="Homeowners insurance service" alt="Homeowners Insurance Service, get your quote"></amp-img>
     <div class="info">
         <p>El <strong>seguro de propietario</strong> es una forma de seguro de propiedad que cubre las pérdidas y daños a la casa de un individuo y a los activos en el hogar.</p>
        

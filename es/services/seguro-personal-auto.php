@@ -97,7 +97,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/personal-auto-1-26.png" width="1680" height="570" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/services/auto-personal.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
     <div class="info">
         <p><strong>Seguro de auto</strong> no es sólo una buena acción el proteger económicamente en caso de un accidente ya que en muchos Estados es obligatorio.<br>
 Todas las compañías de seguros que representamos proporcionan una amplia gama de productos de seguros de automóviles a un precio justo. Su precio se pone aún mejor si usted califica para cualquiera de nuestros descuentos disponibles.  Al solicitar un seguro de auto, se le pregunta por lo general, si desea una colisión y/o cobertura completa, qué tan alto quiere que sea su deducible, qué límites de responsabilidad desea, y si desea cualquier tipo de cobertura opcional.</p></div>

@@ -5,19 +5,14 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Steps that build your future </title>
     <link rel="canonical" lang="en" href="http://beeinsured.com">
-    
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+   <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+ <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="DESCRIP">
     <meta name="keywords" content="KEYWORDS">
     <meta name="author" content="BeeInsured">
      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
-
-    <!-- Twitter Card tags -->
+ <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@AMPhtml">
     <meta name="twitter:creator" content="@AMPhtml">
@@ -103,7 +98,7 @@
  <amp-img src="img/services/business-loans-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
-             <amp-img src="img/services/business-loans.png" width="60" height="60"  alt="#" title="#"></amp-img>
+             <amp-img src="../es/img/services/prestamos-negocios.png" width="60" height="60"  alt="#" title="#"></amp-img>
                 <h2>Préstamos a negocios</h2><br>
          <!--    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
            </div>
@@ -113,7 +108,7 @@
  <amp-img amp-fx="fade-in-scroll" src="img/services/insurance-service-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
-             <amp-img src="img/services/insurance-service.png" width="60" height="60"  alt="#" title="#"></amp-img>
+             <amp-img src="../es/img/services/servicios-seguros.png" width="60" height="60"  alt="#" title="#"></amp-img>
                 <h2>Servicios de seguros</h2><br>
          <!--    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
            </div>
@@ -123,7 +118,7 @@
  <amp-img amp-fx="fade-in-scroll" src="img/services/certificates-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
-             <amp-img src="img/services/certificates.png" width="60" height="60"  alt="#" title="#"></amp-img>
+             <amp-img src="../es/img/services/certificados.png" width="60" height="60"  alt="#" title="#"></amp-img>
                 <h2>Certificados</h2><br>
         <!--     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
            </div>

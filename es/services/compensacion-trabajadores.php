@@ -76,7 +76,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/workers-compensation-1-26.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/services/compensacion-trabajadores.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
     <div class="info">
         <p><b>Seguro Compensación a los trabajadores</b> <i>**Requerido por Ley en casi todos los Estados**</i><br><br>
 

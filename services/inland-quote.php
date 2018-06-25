@@ -3,23 +3,45 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+   <title>Inland marine tool and equipment Quote by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/inland-quote">
+    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/equipo-herramienta-formulario">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
-    <meta name="keywords" content="KEYWORDS">
+    <meta name="description" content="#">
+    <meta name="keywords" content="Insurance quote for Tools, Insurance quote for equipment">
     <meta name="author" content="BeeInsured">
 
 
+<link rel="author" href=" https://plus.google.com/[Google+_Profile]/posts"/>
+<link rel="publisher" href="https://plus.google.com/[Google+_Page_Profile]"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="The Name or Title Here">
+<meta itemprop="description" content="This is the page description">
+<meta itemprop="image" content=" http://www.example.com/image.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@AMPhtml">
     <meta name="twitter:creator" content="@AMPhtml">
     <meta name="twitter:title" content="Lorem Ipsum">
     <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
     <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:image:alt" content="AMP by Example">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="When Great Minds Don’t Think Alike" />
+<meta property="og:description" content="How much does culture influence creative thinking?" />
+<meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+<meta property="fb:app_id" content="254325784911610" />
+<meta property="og:site_name" content="AMP by Example" />
+<meta property="article:published_time" content="{{datePublished}}" />
+<meta property="article:modified_time" content="{{dateModified}}" />
+<meta property="article:section" content="Article Section" />
+<meta property="article:tag" content="Article Tag" />
+<meta property="fb:admins" content="Facebook numberic ID" />
     <!--CARROUSEL AMP -->
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <!--GOOGLE FONTS -->

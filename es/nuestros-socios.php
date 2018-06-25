@@ -81,9 +81,8 @@
            <h2>Trabajamos duro para ofrecerle <br>
            la tasa más baja en su poliza de seguro</h2><br>
            
- <amp-img src="/img/our-partners.png" width="1729" height="549" alt="#" title="#" layout="responsive"></amp-img>
- 
-        </div>
+ <amp-img src="../es/img/nuestros-socios.png" width="1729" height="549" alt="#" title="#" layout="responsive"></amp-img>
+    </div>
 
         
         

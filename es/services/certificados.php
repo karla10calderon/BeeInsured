@@ -88,7 +88,7 @@
         <li><a href="/services/certificados.php" class="active">Certificados</a></li>
     </ol>
 
-  <amp-img src="/img/carrousel/insurance-certificate.jpg" width="1920" height="395" layout="responsive" title="#"></amp-img>
+  <amp-img src="../../es/img/carrousel/certificados-seguros.jpg" width="1920" height="395" layout="responsive" title="#"></amp-img>
 <div class="intro">
         <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
        

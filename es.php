@@ -27,7 +27,6 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--PARALLAX -->
     <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
-    
     <!--BACK TO TOP-->  
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
@@ -92,23 +91,20 @@
 
     <!--CARROUSEL-->
     <amp-carousel width="1920" height="395" layout="responsive" type="slides" autoplay delay="3500">
-        <a href="/services/compensacion-trabajadores.php"><p><b>Ayudanos a</b> cientos de<br> contratistas en California<br>con sus <b>necesidades de seguros</b></p>
-            <amp-img src="img/carrousel/workers-compensation.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+        <a href="/services/compensacion-trabajadores.php"><p><b>Ayudamos a</b> cientos de<br> contratistas en California<br>con sus <b>necesidades de seguros</b></p>
+            <amp-img src="es/img/carrousel/compensacion-trabajadores.jpg" width="1920" height="395" layout="responsive" alt="Seguro compensación para trabajadores" title="Seguro compensación para trabajadores"></amp-img>
        </a>
         <a href="#">
-            <amp-img src="img/carrousel/service-2.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
+            <amp-img src="es/img/carrousel/service-2.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
         </a>
         <a href="#">
             <amp-img src="img/carrousel/service-3.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
         </a>
         <a href="/services/certificados.php"><p>Obtenga un <strong>Certificado<br> de seguros</strong> hoy</p>
-            <amp-img src="img/carrousel/insurance-certificate.jpg" width="1920" height="395" layout="responsive" alt="Get your Insurance Certificate" title="Insurance Certificate"></amp-img>
+            <amp-img src="es/img/carrousel/certificados-seguros.jpg" width="1920" height="395" layout="responsive" alt="Certificados de seguros" title="Certificados de seguros"></amp-img>
         </a>
     </amp-carousel>
 
-   
-   
-     
         <div class="formulario">
   
        <form method="post"
@@ -180,17 +176,17 @@
         </div>
         <div class="box">
             <a href="/services/prestamos-negocios.php"><div class="son">
-                <amp-img src="img/services/business-loans.png" width="60" height="60" alt="#" title="#"></amp-img>
+                <amp-img src="es/img/services/prestamos-negocios.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Préstamos a negocios</h2><br><!-- 
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
            <a href="/services/servicios-seguros.php"> <div class="son">
-                <amp-img src="img/services/insurance-service.png" width="60" height="60" alt="#" title="#"></amp-img>
+                <amp-img src="es/img/services/servicios-seguros.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Servicios de seguros</h2><br>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
            <a href="/services/certificados.php"> <div class="son">
-                <amp-img src="img/services/certificates.png" width="60" height="60" alt="#" title="#"></amp-img>
+                <amp-img src="es/img/services/certificados.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Certificados</h2><br>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
@@ -202,7 +198,7 @@
         <span class="opinion">"Mi negocio completó varios contratos de construcción a lo largo del año y han sido muy útiles para cumplir con todos de los requisitos para mi empresa y para mis clientes” <br> <br>-JERRY O. 
 </span>
     </h3>
-    <amp-img width="3501" height="1191" layout="responsive" src="img/Banner-index-notext.png"></amp-img>
+    <amp-img width="3501" height="1191" layout="responsive" src="es/img/opinion.png"></amp-img>
     </div>
 
 

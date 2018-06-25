@@ -5,11 +5,8 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Steps that build your future </title>
     <link rel="canonical" lang="en" href="http://beeinsured.com">
-    
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+ <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="DESCRIP">
     <meta name="keywords" content="KEYWORDS">
     <meta name="author" content="BeeInsured">
@@ -101,13 +98,13 @@
         <div class="hijo">
             <p class="section">Llámanos</p>
             <div class="info">
-           <amp-img src="/img/call-us-icon.png" width="55" height="58" alt="#" title="#"></amp-img>
+           <amp-img src="../es/img/llama.png" width="55" height="58" alt="#" title="#"></amp-img>
               <ul>
                <li>562-437-4080</li>
                  <li>1-844-468-7400</li></ul>
             </div>
             <div class="info">  
-                <amp-img src="/img/email-icon.png" width="55" height="48" alt="#" title="#"></amp-img>  
+                <amp-img src="../es/img/correo.png" width="55" height="48" alt="#" title="#"></amp-img>  
                  <ul>
                   <li>info@beeinsured.com</li>
                 <li><b>Lic #0I32333</b></li>
@@ -179,7 +176,7 @@
     </amp-iframe>
         
          <div class="dir">
-             <amp-img src="/img/map-icon.png" width="45" height="52" alt="#" title="#"></amp-img>
+             <amp-img src="../es/img/mapa.png" width="45" height="52" alt="Mapa de Bee Insured" title="Mapa de Bee Insured"></amp-img>
          <p class="section">177777 Center Court Drive N, Suite 600<br>
 Cerritos CA 90703</p>
              </div>

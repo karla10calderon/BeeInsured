@@ -92,7 +92,7 @@
        
     </ol>
 
-  <amp-img src="../img/services/general-liabilty-banner.jpg" width="1680" height="570" layout="responsive" title="general liabily quote" alt="general liabily quote"></amp-img>
+  <amp-img src="../../es/img/services/responsabilidad-general-baner.jpg" width="1680" height="570" layout="responsive" title="general liabily quote" alt="general liabily quote"></amp-img>
     <div class="info">
         <p>Cada negocio necesita protegerse de accidentes o lesiones que puedan ocurrir en sus terrenos de negocios. La cobertura de seguro de responsabilidad general puede proteger su negocio de estos gastos inesperados, así que es esencial que usted comprenda lo que hace y no cubre.<br><br>
         

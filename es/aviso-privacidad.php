@@ -89,7 +89,7 @@
        
     </ol>
 
-  <amp-img src="img/services/business-insurance-1.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
+  <amp-img src="../es/img/services/seguros-negocios.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
     <div class="info">
        
       <p> <b>Cómo Recopilamos y usamos información:</b><br>
