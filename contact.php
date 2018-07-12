@@ -1,33 +1,43 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Contact your Bee Insured Agent for your quote</title>
-   <link rel="canonical" hreflang="en" href="http://beeinsured.com/contact">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/contacto">
-    
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-
+   <link rel="canonical" href="https://beeinsured.co/contact">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/contacto">
+   <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Contact us Today to get your quote and start with the Insurance Service that you need">
     <meta name="keywords" content="Insurance Service California, California Insurance, Los Angeles Insurance Agency">
     <meta name="author" content="BeeInsured">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
+     
+    <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Contact your Bee Insured Agent for your quote">
+<meta itemprop="description" content="Contact us Today to get your quote and start with the Insurance Service that you need">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-   
+    <meta name="twitter:site" content="Bee Insured">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Contact your Bee Insured Agent for your quote">
+    <meta name="twitter:description" content="Contact us Today to get your quote and start with the Insurance Service that you need">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Insurance Service California, California Insurance, Los Angeles Insurance Agency">
+    <!--FACEBOOK CARDS-->
+      <meta property="og:url"                content="https://beeinsured.co/contact" />
+<meta property="og:type"               content="website" />
+<meta property="og:title"              content="Contact your Bee Insured Agent for your quote" />
+<meta property="og:description"        content="Contact us Today to get your quote and start with the Insurance Service that you need" />
+<meta property="og:image"              content="https://beeinsured.co/img/fb/index-fb-card.jpg" />
    
     <!--FORMULARIOS -->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <!--MUSTACHE FORMULARIO-->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--GOOGLE MAPS-->
@@ -96,24 +106,24 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index">Home /</a></li>
-        <li><a href="/about-us">About Us /</a></li>
-        <li><a href="/contact" class="active">Contact</a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/about-us">About Us /</a></li>
+        <li><a href="https://beeinsured.co/contact" class="active">Contact</a></li>
     </ol>
 
     <div class="padre">
         <div class="hijo">
             <p class="section">Call Us</p>
             <div class="info">
-           <amp-img src="/img/call-us-icon.png" width="55" height="58" alt="#" title="#"></amp-img>
+           <amp-img src="https://beeinsured.co/img/call-us-icon.png" width="55" height="58" alt="#" title="#"></amp-img>
               <ul>
                <li>562-437-4080</li>
                  <li>1-844-468-7400</li></ul>
             </div>
             <div class="info">  
-                <amp-img src="/img/email-icon.png" width="55" height="48" alt="#" title="#"></amp-img>  
+                <amp-img src="https://beeinsured.co/img/email-icon.png" width="55" height="48" alt="#" title="#"></amp-img>  
                  <ul>
-                  <li>info@beeinsured.com</li>
+                  <li>info@beeinsured.co</li>
                 <li><b>Lic #0I32333</b></li>
             </ul>
             </div></div>

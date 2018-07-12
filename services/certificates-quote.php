@@ -6,8 +6,8 @@
     <title>Certificate Quote by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
-     <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/certificates-quote">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/certificados-formulario">
+     <link rel="canonical" hreflang="en" href="https://beeinsured.co/services/certificates-quote">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/services/certificados-formulario">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Get your insurance certificate online just in minutes with Bee Insured">

@@ -1,31 +1,45 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured partners</title>
- <link rel="canonical" hreflang="en" href="http://beeinsured.com/our-partners">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/nuestros-socios">
+ <link rel="canonical" href="https://beeinsured.co/our-partners">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/nuestros-socios">
     
-    <link rel="icon" href="../img/favicon.ico" type="image/x-icon">
-
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services.">
     <meta name="keywords" content="Insurance agency, California Insurance Services">
     <meta name="author" content="BeeInsured">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
-
+ 
+    <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Bee Insured Partners">
+<meta itemprop="description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services.">
+<meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-   
+    <meta name="twitter:site" content="Bee Insured Home page">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Bee Insured partners">
+    <meta name="twitter:description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services.">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Bee Insured Partners">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/our-partners" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bee Insured partners" />
+<meta property="og:description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services." />
+<meta property="og:image" content="https://beeinsured.co/img/fb/index-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured" />
+<meta property="article:tag" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency" />
+
+ 
    
    <!--CAROUSEL-->
   <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
@@ -76,9 +90,9 @@
             <h1>Our Partners &#127;
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/about-us.php" >About Us /</a></li>
-        <li><a href="/our-partners.php" class="active">Our Partners </a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/about-us" >About Us /</a></li>
+        <li><a href="https://beeinsured.co/our-partners" class="active">Our Partners </a></li>
     </ol>
 
 
@@ -86,7 +100,7 @@
      <div class="our-services">
            <h2>We work hard to offer you <br>
            the lower rate on your policy</h2><br>
- <amp-img src="/img/our-partners.png" width="1729" height="549" alt="#" title="#" layout="responsive"></amp-img>
+ <amp-img src="https://beeinsured.co/img/our-partners.png" width="1729" height="549" alt="#" title="#" layout="responsive"></amp-img>
  
         </div>
 
@@ -94,14 +108,14 @@
         
           <!--CAROUSEL-->
   <amp-carousel width="1260" height="320" layout="responsive" type="slides" autoplay delay="2000">
-    <amp-img src="/img/carrousel/partners/partners-40.png" width="1260" height="320" layout="responsive" alt="a sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-41.png" width="1260" height="320"layout="responsive" alt="another sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-42.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-43.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-44.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-45.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-46.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
-    <amp-img src="/img/carrousel/partners/partners-47.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-40.png" width="1260" height="320" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-41.png" width="1260" height="320"layout="responsive" alt="another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-42.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-43.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-44.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-45.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-46.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
+    <amp-img src="https://beeinsured.co/img/carrousel/partners/partners-47.png" width="1260" height="320" layout="responsive" alt="and another sample image"></amp-img>
   </amp-carousel>
         
    

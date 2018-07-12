@@ -1,35 +1,48 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bond Insurance Service by Bee Insured</title>
-      <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/bond">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/serivices/fianza">
+      <link rel="canonical" href="https://beeinsured.co/services/bond">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/serivices/fianza">
     
     
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Bond Insurance is created to guarantee scheduled payments of interest and principal on the Bond to its bondholders in case the issuer defaults.">
     <meta name="keywords" content="bond services of california, California Insurance Services, security bond insurance">
     <meta name="author" content="BeeInsured">
-
-
+ <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Bond Insurance Service by Bee Insured">
+<meta itemprop="description" content="Bond Insurance is created to guarantee scheduled payments of interest and principal on the Bond to its bondholders in case the issuer defaults.">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/bond-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-    <!--CARROUSEL AMP -->
-    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <meta name="twitter:site" content="Bee Insured">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Bond Insurance Service by Bee Insured">
+    <meta name="twitter:description" content="Bond Insurance is created to guarantee scheduled payments of interest and principal on the Bond to its bondholders in case the issuer defaults.">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/bond-tw-card.jpg">
+    <meta name="twitter:image:alt" content="bond services of california, California Insurance Services, security bond insurance">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/services/bond" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bond Insurance Service by Bee Insured" />
+<meta property="og:description" content="Bond Insurance is created to guarantee scheduled payments of interest and principal on the Bond to its bondholders in case the issuer defaults." />
+<meta property="og:image" content="https://beeinsured.co/img/fb/bond-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured" />
+  
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--PARALLAX -->
     <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
-
+<!--MUSTACHE FORM-->
+   <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--BACK TO TOP-->
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
@@ -91,15 +104,15 @@
             <h1>Bond &#127;
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/our-services.php">Services /</a></li>
-        <li><a href="/services/insurance-services.php">Insurance Services /</a></li>
-        <li><a href="/services/commercial-insurance.php">Commericial Insurance /</a></li>
-        <li><a href="/services/bond.php" class="active">Bond</a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/our-services">Services /</a></li>
+        <li><a href="https://beeinsured.co/services/insurance-services">Insurance Services /</a></li>
+        <li><a href="https://beeinsured.co/services/commercial-insurance">Commericial Insurance /</a></li>
+        <li><a href="https://beeinsured.co/services/bond" class="active">Bond</a></li>
        
     </ol>
 
-  <amp-img src="../img/services/bond-banner.jpg" width="1680" height="570" layout="responsive" title="Bond Insurance" alt="Get your bond quote"></amp-img>
+  <amp-img src="https://beeinsured.co/img/services/bond-banner.jpg" width="1680" height="570" layout="responsive" title="Bond Insurance" alt="Get your bond quote"></amp-img>
     <div class="info">
         <p>An issuer of a Bond can purchase <strong>Bond Insurance</strong> to guarantee scheduled payments of interest and principal on the Bond to its bond holders in case the issuer defaults.<br><br>
 Different surety needs are met by different classes of surety bonds.<br><br>

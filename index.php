@@ -1,56 +1,53 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>    
-    <link rel="canonical" hreflang="en" href="http://beeinsured.com">
-    <link rel="alternate" hreflang="es"href="http://beeinsured.com/es.php">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Bee Insured, Steps that build your future</title>    
+    <link rel="canonical" href="https://beeinsured.co">
+    <link rel="alternate" hreflang="es"href="https://beeinsured.co/es">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency, but as a partner in both their business and personal affairs.">
+    <meta name="description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency.">
     <meta name="keywords" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency">
     <meta name="author" content="BeeInsured">
 
     
     <!-- Google Authorship and Publisher Markup -->
-<link rel="author" href=" https://plus.google.com/[Google+_Profile]/posts"/>
-<link rel="publisher" href="https://plus.google.com/[Google+_Page_Profile]"/>
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="The Name or Title Here">
-<meta itemprop="description" content="This is the page description">
-<meta itemprop="image" content=" http://www.example.com/image.jpg">
+<meta itemprop="name" content="Bee Insured">
+<meta itemprop="description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency.">
+<meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
+    <meta name="twitter:site" content="Bee Insured Home page">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Bee Insured, Steps that build your future">
+    <meta name="twitter:description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency.">
     <!-- Twitter summary card with large image must be at least 280x150px -->
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-    <meta name="twitter:image:alt" content="AMP by Example">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
     <!--FACEBOOK CARDS-->
-<meta property="og:url" content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="When Great Minds Don’t Think Alike" />
-<meta property="og:description" content="How much does culture influence creative thinking?" />
-<meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
-<meta property="fb:app_id" content="254325784911610" />
-<meta property="og:site_name" content="AMP by Example" />
-<meta property="article:published_time" content="{{datePublished}}" />
-<meta property="article:modified_time" content="{{dateModified}}" />
-<meta property="article:section" content="Article Section" />
-<meta property="article:tag" content="Article Tag" />
-<meta property="fb:admins" content="Facebook numberic ID" />
+<meta property="og:url" content="https://beeinsured.co" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bee Insured, Steps that build your future" />
+<meta property="og:description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency." />
+<meta property="og:image" content="https://beeinsured.co/img/fb/index-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured" />
+<meta property="article:tag" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency" />
 
- 
  
   <meta name="geo.region" content="US-CA" />
 <meta name="geo.placename" content="cerritos" />
 <meta name="geo.position" content="33.8686023;-118.0612772" />
 <meta name="ICBM" content="33.8686023, -118.0612772" />
-   
+
+<!--GOOGLE ANALYTICS-->
+ <script async custom-element="amp-analytics"
+    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>  
     <!--CARROUSEL AMP -->
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <!--GOOGLE FONTS -->
@@ -72,15 +69,15 @@
   "@type": "WebSite",
   "name": "Bee Insured",
   "alternateName": "Bee Insured Powered by KYC Insurance LLC",
-  "url": "www.beeinsured.com"
+  "url": "www.beeinsured.co"
 }
 </script>
  <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "url": "http://www.beeinsured.com",
-  "logo": "http://www.beeinsured.com/images/logo.png"
+  "url": "http://www.beeinsured.co",
+  "logo": "http://www.beeinsured.co/images/logo.png"
 }
 </script>
 <script type="application/ld+json">
@@ -88,9 +85,9 @@
   "@context": "http://schema.org",
   "@type": "InsuranceAgency",
   "name": "Bee Insured",
-  "image": "http://www.beeinsured.com/img/schema/index.jpg",
+  "image": "http://www.beeinsured.co/img/schema/index.jpg",
   "@id": "",
-  "url": "http://www.beeinsured.com",
+  "url": "http://www.beeinsured.co",
   "telephone": "1-844-468-7400",
   "priceRange": "1000",
   "address": {
@@ -128,10 +125,10 @@
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "https://www.beeinsured.com/",
+  "url": "https://www.beeinsured.co/",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://query.beeinsured.com/search?q={search_term_string}",
+    "target": "https://query.beeinsured.co/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -142,7 +139,7 @@
   "@type": "Corporation",
   "name": "Bee Insured",
   "alternateName": "Bee Insured California",
-  "url": "https://www.beeinsured.com/",
+  "url": "https://www.beeinsured.co/",
   "logo": "",
   "contactPoint": {
     "@type": "ContactPoint",
@@ -164,7 +161,7 @@
  {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "url": "http://www.beeinsured.com",
+  "url": "http://www.beeinsured.co",
   "contactPoint": [
     { "@type": "ContactPoint",
       "telephone": "+1-844-468-7400",
@@ -177,6 +174,24 @@
 </head>
 
 <body>
+   
+   <!--SEGUMIENTO DE ANALYTICS -->
+   <amp-analytics type="googleanalytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "UA-122019596-1"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+   
     <div id="top-page"></div>
     <amp-animation id="showAnim"
   layout="nodisplay">
@@ -230,16 +245,16 @@
     <!--CARROUSEL-->
     <amp-carousel width="1920" height="395" layout="responsive" type="slides" autoplay delay="3500">
         <a href="/services/workers-compensation"><p><b>We help</b> hundreds of<br> contractors in California<br>with their <b>Insurance Needs</b></p>
-            <amp-img src="img/carrousel/workers-compensation.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+            <amp-img src="https://beeinsured.co/img/carrousel/workers-compensation.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
        </a>
         <a href="#">
-            <amp-img src="img/carrousel/service-2.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
+            <amp-img src="https://beeinsured.co/img/carrousel/service-2.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
         </a>
         <a href="#">
-            <amp-img src="img/carrousel/service-3.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
+            <amp-img src="https://beeinsured.co/img/carrousel/service-3.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
         </a>
         <a href="/services/certificates"><p>Get your <strong>Insurance<br>Certificate</strong> today</p>
-            <amp-img src="img/carrousel/insurance-certificate.jpg" width="1920" height="395" layout="responsive" alt="Get your Insurance Certificate" title="Insurance Certificate"></amp-img>
+            <amp-img src="https://beeinsured.co/img/carrousel/insurance-certificate.jpg" width="1920" height="395" layout="responsive" alt="Get your Insurance Certificate" title="Insurance Certificate"></amp-img>
         </a>
     </amp-carousel>
 
@@ -295,16 +310,7 @@
     </fieldset>
     
     <!--ESTILOS Y APARICION DE ENVIO EXITOSO-FALLIDO, AUN FALTA -->
-    <div submit-success>
-      <template type="amp-mustache">
-        Subscription successful!
-      </template>
-    </div>
-    <div submit-error>
-      <template type="amp-mustache">
-        Subscription failed!
-      </template>
-    </div>
+
   </form>      
                  </div>
    
@@ -316,18 +322,18 @@
             <a href="our-services"><h1>Our Services &#127;</h1></a>
         </div>
         <div class="box">
-            <a href="/services/business-loans"><div class="son">
-                <amp-img src="img/services/business-loans.png" width="60" height="60" alt="#" title="#"></amp-img>
+            <a href="https://beeinsured.co/services/business-loans"><div class="son">
+                <amp-img src="https://beeinsured.co/img/services/business-loans.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Business Loans</h2><br><!-- 
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
-           <a href="/services/insurance-services"> <div class="son">
-                <amp-img src="img/services/insurance-service.png" width="60" height="60" alt="#" title="#"></amp-img>
+           <a href="https://beeinsured.co/services/insurance-services"> <div class="son">
+                <amp-img src="https://beeinsured.co/img/services/insurance-service.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Insurance Service</h2><br>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
-           <a href="/services/certificates"> <div class="son">
-                <amp-img src="img/services/certificates.png" width="60" height="60" alt="#" title="#"></amp-img>
+           <a href="https://beeinsured.co/services/certificates"> <div class="son">
+                <amp-img src="https://beeinsured.co/img/services/certificates.png" width="60" height="60" alt="#" title="#"></amp-img>
                 <h2>Certificates</h2><br>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
             </div></a>
@@ -339,7 +345,7 @@
         <span class="opinion">"My business completes several construction contracts throughout the year and they have been very helpful in meeting all of the requirements for my company and for my clients” <br> <br>-JERRY O. 
 </span>
     </h3>
-    <amp-img width="3501" height="1191" layout="responsive" src="img/Banner-index-notext.png"></amp-img>
+    <amp-img width="3501" height="1191" layout="responsive" src="https://beeinsured.co/img/Banner-index-notext.png"></amp-img>
     </div>
 
 
@@ -351,4 +357,5 @@
   class="scrollToTop">⌃</button>
 </body>
 <?php include ('footer.php'); ?>
+
 </html>

@@ -5,8 +5,8 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Personal auto quote by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/personal-auto-quote">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/personal-auto-formulario">
+    <link rel="canonical" hreflang="en" href="https://beeinsured.co/services/personal-auto-quote">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/services/personal-auto-formulario">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="#">

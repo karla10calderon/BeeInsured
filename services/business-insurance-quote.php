@@ -1,28 +1,45 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Business Insurance Quote by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-     <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/business-insurance-quote">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/seguro-negocio-formulario">
+     <link rel="canonical" href="https://beeinsured.co/services/business-insurance-quote">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/services/seguro-negocio-formulario">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Find the right option for insured your business at the lower price and the best quality">
     <meta name="keywords" content="business insurance california, small business insurance, business insurance quote, Business insurance Los angeles">
     <meta name="author" content="BeeInsured">
 
+   <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+   
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Business Insurance Service by Bee Insured">
+<meta itemprop="description" content="Find the right option for insured your business at the lower price and the best quality">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/business-tw-card.jpg">
+   
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-    <!--CARROUSEL AMP -->
-    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <meta name="twitter:site" content="Bee Insured">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Business Insurance Quote by Bee Insured">
+    <meta name="twitter:description" content="Find the right option for insured your business at the lower price and the best quality">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/business-tw-card.jpg">
+    <meta name="twitter:image:alt" content="business insurance california, small business insurance, business insurance quote, Business insurance Los angeles">
+    
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/services/business-insurance-quote" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Business Insurance Quote by Bee Insured" />
+<meta property="og:description" content="Find the right option for insured your business at the lower price and the best quality" />
+<meta property="og:image" content="https://beeinsured.co/img/fb/business-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured"/>
+   <!--MUSTACHE FORM-->
+  <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--FORMULARIOS -->

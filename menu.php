@@ -7,47 +7,47 @@
             <ul class="social-media">
                 <li>
                     <a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank">
-                        <amp-img src="/img/social-media/Facebook-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                        <amp-img src="https://beeinsured.co/img/social-media/Facebook-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
                 <li><a href="https://twitter.com/InsuredBee" target="_blank">
-                    <amp-img src="/img/social-media/Twitter-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                    <amp-img src="https://beeinsured.co/img/social-media/Twitter-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
                 <li><a href="#" target="_blank">
-                    <amp-img src="/img/social-media/Instagram-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                    <amp-img src="https://beeinsured.co/img/social-media/Instagram-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
                 <li><a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank">
-                    <amp-img src="/img/social-media/Youtube-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
+                    <amp-img src="https://beeinsured.co/img/social-media/Youtube-BeeInsured.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
             </ul>
             
             <!--CAJA HIJO2-->
             <div class="navbar">
-                <a href="/index">Home&#127; &#127; &#127; &#124;</a>
+                <a href="https://beeinsured.co/index">Home&#127; &#127; &#127; &#124;</a>
                 <div class="dropdown">
                    <button class="dropbtn">Services&#127; &#127; &#127; &#124;</button>
                     <div class="dropdown-content">
-                        <a href="/services/business-loans.php">Business Loans</a>
+                        <a href="https://beeinsured.co/services/business-loans">Business Loans</a>
                         <hr>
-                        <a href="/services/insurance-services.php">Insurance Services</a>
+                        <a href="https://beeinsured.co/services/insurance-services">Insurance Services</a>
                         <hr>
-                        <a href="/services/certificates.php">Certificates</a>
+                        <a href="https://beeinsured.co/services/certificates">Certificates</a>
                     </div>
                 </div>
                <!-- <a href="/blog">Blog&#127; &#127; &#127; &#124;</a> -->
                 <div class="dropdown">
                     <button class="dropbtn">About Us</button>
                     <div class="dropdown-content">
-                        <a href="/contact.php">Contact</a>
+                        <a href="https://beeinsured.co/contact">Contact</a>
                         <hr>
-                        <a href="/our-partners.php">Our Partners</a>
+                        <a href="https://beeinsured.co/our-partners">Our Partners</a>
                         <hr>
-                        <a href="/our-team.php">Team</a>
+                        <a href="https://beeinsured.co/our-team">Team</a>
                         <hr>
-                        <a href="/job-opportunities.php">Job Opportunities</a>
+                        <a href="https://beeinsured.co/job-opportunities">Job Opportunities</a>
                     </div>
                 </div>
 
@@ -63,7 +63,7 @@
 
             <!--CAJA HIJO4-->
             <div class="lang">
-                <a href="/es.php">Español</a>
+                <a href="https://beeinsured.co/es">Español</a>
 
             </div>
             
@@ -74,10 +74,10 @@
         <div class="menu-responsive">
             <button class="hamburger">&#9776;</button>
             <div class="content">
-                <a href="/index.php">Home</a>
-                    <a href="/our-services.php">Services</a>
+                <a href="https://beeinsured.co/index">Home</a>
+                    <a href="https://beeinsured.co/our-services">Services</a>
                <!-- <a href="/blog">Blog</a> -->
-          <a href="/about-us.php">About Us</a>
+          <a href="https://beeinsured.co/about-us">About Us</a>
                 
                 <form method="GET" class="searchbox" action="/components/amp-form/submit-form" target="_top">
                 <div class="searchboxelements">
@@ -92,20 +92,20 @@
                  <ul class="social-media">
                 <li>
                     <a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank">
-                        <amp-img src="/img/social-media/Facebook-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                        <amp-img src="https://beeinsured.co/img/social-media/Facebook-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                     </a>
                 </li>
                 <li>
                       <a href="https://twitter.com/InsuredBee" target="_blank">
-                    <amp-img src="/img/social-media/Twitter-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                    <amp-img src="https://beeinsured.co/img/social-media/Twitter-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a></li>
                 <li>
                       <a href="#" target="_blank">
-                    <amp-img src="/img/social-media/Instagram-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                    <amp-img src="https://beeinsured.co/img/social-media/Instagram-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a></li>
                 <li>
                     <a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank">
-                    <amp-img src="/img/social-media/Youtube-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
+                    <amp-img src="https://beeinsured.co/img/social-media/Youtube-BeeInsured-White.png" alt="" title="" height="30" width="30"></amp-img>
                 </a></li>
             </ul>
                 </div>

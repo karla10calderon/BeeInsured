@@ -5,8 +5,8 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
    <title>Inland marine tool and equipment Quote by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/inland-quote">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/equipo-herramienta-formulario">
+    <link rel="canonical" hreflang="en" href="https://beeinsured.co/services/inland-quote">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/services/equipo-herramienta-formulario">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="#">

@@ -1,31 +1,48 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Business Loans Quote by Bee Insured</title>
-      <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/business-loans-quote">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/serivices/prestamos-negocios-formulario">
+      <link rel="canonical" href="https://beeinsured.co/services/business-loans-quote">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/serivices/prestamos-negocios-formulario">
     
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Get your quote now to grow your startup
      with our business loans service.">
     <meta name="keywords" content="small business Loans, business loans, business loans for bad credit, star up business loans, small business insurance">
     <meta name="author" content="BeeInsured">
-
+ <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Business Loans Service by Bee Insured">
+<meta itemprop="description" content="Get your quote now to grow your startup with our business loans service.">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/businessloans-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:site" content="Bee Insured">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Business Loans Service by Bee Insured">
+    <meta name="twitter:description" content="Get your quote now to grow your startup with our business loans service.">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/businessloans-tw-card.jpg">
+    <meta name="twitter:image:alt" content="small business Loans, business loans, business loans for bad credit, star up business loans, small business insurance">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/services/business-loans-quote" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Business Loans Service by Bee Insured" />
+<meta property="og:description" content="Get your quote now to grow your startup with our business loans service." />
+<meta property="og:image" content="https://beeinsured.co/img/fb/businessloans-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured" />
+   
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--FORMULARIOS -->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <!--MUSTACHE FORM -->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--BACK TO TOP-->
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>

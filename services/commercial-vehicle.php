@@ -5,8 +5,8 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Commercial Vehicle by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/commercial-vehicle">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/services/vehiculo-comercial">
+    <link rel="canonical" hreflang="en" href="https://beeinsured.co/services/commercial-vehicle">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/services/vehiculo-comercial">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">

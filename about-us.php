@@ -1,32 +1,46 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>About Bee Insured</title>
-     <link rel="canonical" hreflang="en" href="http://beeinsured.com/about-us">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/nosotros">
-    
-    
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+     <link rel="canonical" href="https://beeinsured.co/about-us">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/nosotros">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Bee Insured was formed in 2013 with the goal of providing high-quality insurance services to all our customers in California.">
     <meta name="keywords" content="Insurance services California, California Insurance, Bee Insured Insurance California">
     <meta name="author" content="BeeInsured">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
-
+ 
+    <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Bee Insured">
+<meta itemprop="description" content="Bee Insured was formed in 2013 with the goal of providing high-quality insurance services to all our customers in California.">
+<meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-   
+    <meta name="twitter:site" content="Bee Insured Home page">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Bee Insured, Steps that build your future">
+    <meta name="twitter:description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency.">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/about-us" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bee Insured, Steps that build your future" />
+<meta property="og:description" content="Bee Insured was formed in 2013 with the goal of providing high-quality insurance services to all our customers in California." />
+<meta property="og:image" content="https://beeinsured.co/img/fb/index-fb-card.jpg"/>
+<meta property="og:site_name" content="Bee Insured" />
+<meta property="article:tag" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency" />
+
+
+ 
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--PARALLAX -->
@@ -96,17 +110,17 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index">Home /</a></li>
-        <li><a href="/about-us" class="active">About Us</a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/about-us" class="active">About Us</a></li>
     </ol>
 
 
 <!--About Us-->
       <div class="our-services">
- <amp-img src="/img/about-us-48.png" width="1946" height="1173" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
+ <amp-img src="https://beeinsured.co/img/about-us-48.png" width="1946" height="1173" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
-             <amp-img src="/img/LogoBee%20Insured-OrangeandBlack.png" width="915" height="299"  layout="responsive" alt="#" title="#"></amp-img>
+             <amp-img src="https://beeinsured.co/img/LogoBee%20Insured-OrangeandBlack.png" width="915" height="299"  layout="responsive" alt="#" title="#"></amp-img>
                
             <p>Bee Insured was formed in 2013 as KYC Insurance Services, LLC. to service the needs of the construction industry - although we also provide quality insurance protection to a variety of industries.<br><br>Our commitment is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency, but as a partner in both their business and personal affairs.<br><br>
 
@@ -115,7 +129,7 @@ Bee Insured focuses on the relationship between agents and customers, and ensuri
         </div>
 <!--WHAT MAKES US DIFFERENT?-->
   <div class="our-services reverse">
- <amp-img amp-fx="fade-in-scroll" src="/img/about-us-49.png" width="3106" height="1192" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
+ <amp-img amp-fx="fade-in-scroll" src="https://beeinsured.co/img/about-us-49.png" width="3106" height="1192" alt="#" title="#" sizes="(max-width: 1100px) 100vw, 
             (max-width: 1050px) 75vw, 1200px" layout="responsive"></amp-img>
   <div class="texto">
             <h2>What Makes Us Different?</h2><br>

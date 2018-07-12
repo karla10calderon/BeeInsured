@@ -1,0 +1,5 @@
+User-Agent: Googlebot
+Allow:/
+Sitemap: https://www.beeinsured.co/sitemap.xml
+Sitemap: https://www.beeinsured.co/sitemap-images.xml
+Sitemap: https://www.beeinsured.co/sitemap-videos.xml

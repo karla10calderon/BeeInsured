@@ -1,30 +1,38 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured Work Team</title>
-      <link rel="canonical" hreflang="en" href="http://beeinsured.com/our-team">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/equipo">
-    
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-
+      <link rel="canonical"href="https://beeinsured.co/our-team">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/equipo">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Know more about Bee Insurance's work team,  and contact us Today for start with the best Insurance plan for your needs ">
     <meta name="keywords" content="Bee Insurance's Team, California Insurance Services, Los Angeles Insurance Agency">
     <meta name="author" content="BeeInsured">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
-
+         <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Bee Insured Work Team">
+<meta itemprop="description" content="Know more about Bee Insurance's work team,  and contact us Today for start with the best Insurance plan for your needs">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:site" content="Bee Insured">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Bee Insured Work Team">
+    <meta name="twitter:description" content="Know more about Bee Insurance's work team,  and contact us Today for start with the best Insurance plan for your needs">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Insurance Service California, California Insurance, Los Angeles Insurance Agency">
+    <!--FACEBOOK CARDS-->
+      <meta property="og:url"                content="https://beeinsured.co/our-team" />
+<meta property="og:type"               content="website" />
+<meta property="og:title"              content="Bee Insured Work Team" />
+<meta property="og:description"        content="Know more about Bee Insurance's work team,  and contact us Today for start with the best Insurance plan for your needs" />
+<meta property="og:image"              content="https://beeinsured.co/img/fb/index-fb-card.jpg" />
    
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -95,9 +103,9 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/about-us.php">About Us /</a></li>
-        <li><a href="/our-team.php" class="active">Our Team</a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/about-us">About Us /</a></li>
+        <li><a href="https://beeinsured.co/our-team" class="active">Our Team</a></li>
     </ol>
 
 
@@ -109,7 +117,7 @@
         <div class="our-team">
     
           <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Kevin Arita</p> 
               <p class="job">CEO</p>
               
@@ -117,7 +125,7 @@
            </div>
            
            <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Jair Rodríguez</p>
               <p class="job">COO</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -132,21 +140,21 @@
           
            <div class="our-team">
            <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">David Bass</p> 
               <p class="job">Underwriting Manager</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
            </div>
            
                      <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Kimberly Romero</p> 
               <p class="job">Customer Service</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
            </div>
            
            <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Patty Castañeda</p> 
               <p class="job">Customer Service</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -164,7 +172,7 @@
           </p>
       <div class="our-team">
           <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Sylvia Alfonso</p> 
               <p class="job">Personal Lines Broker</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -180,7 +188,7 @@
           </p>
       <div class="our-team">
           <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Sandra Cardeña</p> 
               <p class="job">Insurance Broker</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -189,7 +197,7 @@
            
            
          <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Henry Vela</p> 
               <p class="job">Insurance Broker</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>
@@ -197,7 +205,7 @@
            
            
             <div class="person">  
- <amp-img src="/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
+ <amp-img src="https://beeinsured.co/img/shutterstock_109441394.jpg" width="250" height="250" alt="#" title=""></amp-img>
   <p class="name">Alexander Herrera</p> 
               <p class="job">Insurance Broker</p>
                   <div class="info">"One of my main goals is to travel to Hawaii with my family and write a book about econony"</div>

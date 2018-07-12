@@ -1,32 +1,46 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Work with Bee Insured</title>    
-      <link rel="canonical" hreflang="en" href="http://beeinsured.com/job-opportunities">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/bolsa-trabajo">
+      <link rel="canonical" href="https://beeinsured.co/job-opportunities">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/bolsa-trabajo">
     
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Send your CV to work with Bee Insured. We have excellent opportunities to grow and learn.">
-    <meta name="keywords" content="job opportunities call center california, california insurance department,">
+    <meta name="keywords" content="job opportunities call center california, california insurance department">
     <meta name="author" content="BeeInsured">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
+   
+    <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Bee Insured">
+<meta itemprop="description" content="Send your CV to work with Bee Insured. We have excellent opportunities to grow and learn.">
+<meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-   
+    <meta name="twitter:site" content="Bee Insured Home page">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Work with Bee Insured">
+    <meta name="twitter:description" content="Send your CV to work with Bee Insured. We have excellent opportunities to grow and learn.">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="job opportunities call center california, california insurance department">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url"                content="https://beeinsured.co/job-opportunities" />
+<meta property="og:type"               content="webiste" />
+<meta property="og:title"              content="Work with Bee Insured" />
+<meta property="og:description"        content="Send your CV to work with Bee Insured. We have excellent opportunities to grow and learn." />
+<meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
+
    
     <!--FORMULARIOS -->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <!--MUSTACHE FORM-->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--BACK TO TOP-->

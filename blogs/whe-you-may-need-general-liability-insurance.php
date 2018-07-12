@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <link rel="canonical" lang="en" href="https://beeinsured.co">
     
     <link rel="icon" href="../img/favicon.ico" type="image/x-icon">
 

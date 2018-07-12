@@ -1,32 +1,40 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured Insurance's Services</title>
-    
-      <link rel="canonical" hreflang="en" href="http://beeinsured.com/our-services">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/servicios">
-    
-    
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-
-
+      <link rel="canonical" href="https://beeinsured.co/our-services">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/servicios">
+   <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
+   
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="DESCRIP">
+    <meta name="description" content="We can offer you the best insurance acording to your needs">
     <meta name="keywords" content="Insurance Services Palm Springs, California Workers comp, workers compensation california, workers comp">
     <meta name="author" content="BeeInsured">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
-
+      <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Bee Insured">
+<meta itemprop="description" content="We can offer you the best insurance acording to your needs">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:site" content="Bee Insured Home page">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Work with Bee Insured">
+    <meta name="twitter:description" content="We can offer you the best insurance acording to your needs">
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Insurance Services Palm Springs, California Workers comp, workers compensation california, workers comp">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url"                content="https://beeinsured.co/our-services" />
+<meta property="og:type"               content="webiste" />
+<meta property="og:title"              content="Bee Insured Insurance's Services" />
+<meta property="og:description"        content="We can offer you the best insurance acording to your needs" />
+<meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
+
+   
    
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -46,50 +54,7 @@
 </head>
 
 <body>
-    <div id="top-page"></div>
-    <amp-animation id="showAnim"
-  layout="nodisplay">
-  <script type="application/json">
-    {
-      "duration": "200ms",
-      "fill": "both",
-      "iterations": "1",
-      "direction": "alternate",
-      "animations": [{
-        "selector": "#scrollToTopButton",
-        "keyframes": [{
-          "opacity": "1",
-          "visibility": "visible"
-        }]
-      }]
-    }
-  </script>
-</amp-animation>
 
-
-<amp-animation id="hideAnim"
-  layout="nodisplay">
-  <script type="application/json">
-    {
-      "duration": "200ms",
-      "fill": "both",
-      "iterations": "1",
-      "direction": "alternate",
-      "animations": [{
-        "selector": "#scrollToTopButton",
-        "keyframes": [{
-          "opacity": "0",
-          "visibility": "hidden"
-        }]
-      }]
-    }
-  </script>
-</amp-animation>
-<div id="marker">
-  <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start"
-    layout="nodisplay">
-  </amp-position-observer>
-</div>
 <?php include('menu.php');?>
    
     <div class="title-section">
@@ -133,7 +98,7 @@
         </div></a>
         
         
-        
+<div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div> 
         
         
   <button id="scrollToTopButton"

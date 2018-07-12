@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
  <title>Something went wrong</title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <link rel="canonical" lang="en" href="https://beeinsured.co">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
 

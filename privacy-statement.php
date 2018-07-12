@@ -1,27 +1,44 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Privacy statement by Bee Insured</title>
  
-    <link rel="canonical" hreflang="en" href="http://beeinsured.com/privacy-statement">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/aviso-privacidad">
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://beeinsured.co/privacy-statement">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/aviso-privacidad">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="We care about your information, read our privacy statement for know how Bee Insured use and protect your data.">
-    <meta name="keywords" content="Bee Insured Privacy Statement">
+    <meta name="keywords" content="Bee Insured Privacy Statement, data protection">
     <meta name="author" content="BeeInsured">
 
-
+ <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Privacy statement by Bee Insured">
+<meta itemprop="description" content="We care about your information, read our privacy statement for know how Bee Insured use and protect your data.">
+<meta itemprop="image" content="https://www.beeinsured.co/img/fb/privacy-fb-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="@AMPhtml">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:site" content="Privacy statement">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Privacy statement by Bee Insured">
+    <meta name="twitter:description" content="We care about your information, read our privacy statement for know how Bee Insured use and protect your data.">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/privacy-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Privacy statement, data protection">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/privacy-statement" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Privacy statement by Bee Insured" />
+<meta property="og:description" content="We care about your information, read our privacy statement for know how Bee Insured use and protect your data." />
+<meta property="og:image" content="https://beeinsured.co/img/fb/privacy-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured" />
+<meta property="article:published_time" content="07-10-2018" />
+<meta property="article:modified_time" content="07-10-2018" />
+<meta property="article:section" content="Privacy statement" />
+<meta property="article:tag" content="Bee Insured Privacy Statement, data protection" />
+<meta property="fb:admins" content="2141655912734790" />
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--PARALLAX -->
@@ -95,7 +112,7 @@
        
     </ol>
 
-  <amp-img amp-fx="parallax" data-parallax-factor="1.1" src="img/services/business-insurance-1.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
+  <amp-img amp-fx="parallax" data-parallax-factor="1.1" src="https://www.beeinsured.co/img/services/business-insurance-1.jpg" width="1680" height="570" layout="responsive" title="#"></amp-img>
     <div class="info">
         <p>
             <b>HOW WE COLLECT AND USE INFORMATION:</b><br>
@@ -157,8 +174,8 @@ You have the right, upon request to us, to access to and reproduction of nonpubl
  
 If you wish to modify or delete your personal information, or opt-out of future communications, please contact us using the information below:<br><br>
  
-www.beeinsured.com<br>
-info@beeinsured.com
+www.beeinsured.co<br>
+info@beeinsured.co
 </p>
        
     </div>

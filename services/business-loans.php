@@ -1,16 +1,11 @@
 <!doctype html>
-<html amp>
+<html amp  lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Business Loans Service by Bee Insured</title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com/services/business-loans">
-    
-    
-      <link rel="canonical" hreflang="en" href="http://beeinsured.com/services/business-loans">
-    <link rel="alternate" hreflang="es" href="http://beeinsured.com/es/serivices/prestamos-negocios">
-    
-    
+    <link rel="canonical" href="https://beeinsured.co/services/business-loans">
+    <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/serivices/prestamos-negocios">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -18,20 +13,39 @@
     <meta name="keywords" content="small business Loans, business loans, business loans for bad credit, star up business loans, small business insurance">
     <meta name="author" content="BeeInsured">
 
-
+    <!-- Google Authorship and Publisher Markup -->
+<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+<link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
+    <!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Business Loans Service by Bee Insured">
+<meta itemprop="description" content="Small business grows faster with the right business loans for their needs. Be sure to contact us and get your insurance quote now.">
+<meta itemprop="image" content="https://beeinsured.co/img/tw/businessloans-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@AMPhtml">
-    <meta name="twitter:creator" content="BeeInsured">
-    <meta name="twitter:title" content="Lorem Ipsum">
-    <meta name="twitter:description" content="Small business grows faster with the right business loans for their needs. Be sure to contact us and get your insurance quote now.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:site" content="Bee Insured">
+    <meta name="twitter:creator" content="Bee Insured">
+    <meta name="twitter:title" content="Business Loans Service by Bee Insured">
+    <meta name="twitter:description" content="Small business grows faster with the right business loans for their needs. Be sure to contact us and get your insurance quote now. ">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image" content="https://beeinsured.co/img/tw/businessloans-tw-card.jpg">
+    <meta name="twitter:image:alt" content="Business Loans loans, business loans">
+    <!--FACEBOOK CARDS-->
+<meta property="og:url" content="https://beeinsured.co/services/business-loans" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Business Loans Service by Bee Insured" />
+<meta property="og:description" content="Small business grows faster with the right business loans for their needs. Be sure to contact us and get your insurance quote now. " />
+<meta property="og:image" content="https://beeinsured.co/img/fb/businessloans-fb-card.jpg" />
+<meta property="og:site_name" content="Bee Insured" />
+<meta property="article:tag" content="small business Loans, business loans, business loans for bad credit, star up business loans, small business insurance" />
+
+ 
    
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-   
     <!--FORMULARIOS -->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <!--MUSTACHE FORM-->
+<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--BACK TO TOP-->
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
@@ -94,12 +108,12 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/our-services.php">Services /</a></li>
-        <li><a href="/services/business-loans.php" class="active">Business Loans</a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/our-services">Services /</a></li>
+        <li><a href="https://beeinsured.co/services/business-loans" class="active">Business Loans</a></li>
     </ol>
 
-  <amp-img src="/img/carrousel/service-6.png" width="1920" height="395" layout="responsive" title="#"></amp-img>
+  <amp-img src="https://beeinsured.co/img/carrousel/service-6.png" width="1920" height="395" layout="responsive" title="#"></amp-img>
     <div class="intro">
         <p>Now we can <strong>help to fund your business!</strong><br>
 Loans amounts from $15,000 to $5,000,000 with up to 10 year amortization.</p>

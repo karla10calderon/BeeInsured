@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="http://beeinsured.com">
+    <link rel="canonical" lang="en" href="https://beeinsured.co">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="DESCRIP">
@@ -106,7 +106,7 @@
             <div class="info">  
                 <amp-img src="../es/img/correo.png" width="55" height="48" alt="#" title="#"></amp-img>  
                  <ul>
-                  <li>info@beeinsured.com</li>
+                  <li>info@beeinsured.co</li>
                 <li><b>Lic #0I32333</b></li>
             </ul>
             </div></div>
