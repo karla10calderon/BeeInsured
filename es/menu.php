@@ -23,9 +23,9 @@
 
             <!--CAJA HIJO2-->
             <div class="navbar">
-                <a href="../es.php">Inicio&#127; &#127; &#127; &#124;</a>
+                <a href="../es.php">Inicio   &#124;</a>
                 <div class="dropdown">
-                   <button class="dropbtn">Servicios&#127; &#127; &#127; &#124;</button>
+                   <button class="dropbtn">Servicios   &#124;</button>
                     <div class="dropdown-content">
                         <a href="/services/prestamos-negocios.php">Préstamos a negocios</a>
                         <hr>
@@ -34,7 +34,7 @@
                         <a href="/services/certificates.php">Certificados</a>
                     </div>
                 </div>
-               <!-- <a href="/blog">Blog&#127; &#127; &#127; &#124;</a> -->
+               <!-- <a href="/blog">Blog   &#124;</a> -->
                 <div class="dropdown">
                     <button class="dropbtn">Nosotros</button>
                     <div class="dropdown-content">

@@ -12,7 +12,6 @@
     <meta name="description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency.">
     <meta name="keywords" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency">
     <meta name="author" content="BeeInsured">
-
     
     <!-- Google Authorship and Publisher Markup -->
 <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
@@ -31,14 +30,12 @@
     <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
     <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
     <!--FACEBOOK CARDS-->
-<meta property="og:url" content="https://beeinsured.co" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Bee Insured, Steps that build your future" />
-<meta property="og:description" content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency." />
-<meta property="og:image" content="https://beeinsured.co/img/fb/index-fb-card.jpg" />
-<meta property="og:site_name" content="Bee Insured" />
-<meta property="article:tag" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency" />
-
+<meta property="og:url"                content="https://beeinsured.co"/>
+<meta property="og:type"               content="website"/>
+<meta property="og:title"              content="Bee Insured, Steps that build your future" />
+<meta property="og:description"        content="Our commitment as Insurance Agency is to ensure every customer has a clear understanding of their insurance needs, the coverage they need, and the policy they are purchasing. We are focused on the long-term customer, who sees us not only as an insurance agency." />
+<meta property="og:image"              content="https://beeinsured.co/img/fb/index-fb-card.jpg" />    
+    
  
   <meta name="geo.region" content="US-CA" />
 <meta name="geo.placename" content="cerritos" />
@@ -54,11 +51,15 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!--PARALLAX -->
     <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
-    
+     <!--VIDEOS -->
+     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+     <!--ACORDION FORMULARIO-->
+     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+    <!--MUSTACHE FORM-->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--BACK TO TOP-->  
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-      
     <!--SEARCH BOX-->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -170,7 +171,651 @@
   ]
 }
 </script>
- <style amp-custom>*{padding:0;margin:0}header{position:fixed;top:0;width:100%;z-index:100}.top{background:#eda921;height:200px;display:flex;align-items:center}.top .logo{display:block;margin-left:auto;margin-right:auto}.menu-desktop{background:#000;height:70px;overflow:hidden;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-items:center}.social-media{float:left}.social-media li{display:inline-block;padding:20px}hr{border:1px solid #fff;margin:10px}.navbar{font-family:'Open Sans';display:block;margin-left:auto;margin-right:auto}.navbar a{float:left;font-size:24px;color:#fff;text-align:center;padding:13px;text-decoration:none}.dropdown{float:left;overflow:hidden}.dropdown .dropbtn{font-size:24px;border:0;outline:0;color:#fff;padding:13px;background-color:inherit;font-family:inherit;margin:0}.navbar a:hover{color:#eda921}.dropdown:hover .dropbtn{color:#eda921}.dropdown-content{display:none;position:absolute;background-color:#4f4f4f;min-width:160px;box-shadow:0 8px 16px 0 rgba(0,0,0,.5);z-index:1}.dropdown-content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;text-align:left}.dropdown-content a:hover{background-color:#eda921;color:#000}.dropdown:hover .dropdown-content{display:block}.searchboxelements{display:inline-block}.searchboxelements input[type=search]{background-color:#00000000;background-image:url(/img/search%20copy.png);background-position:3px 3px;background-repeat:no-repeat;padding-left:38px;-webkit-transition:width 0.5s ease-in-out;transition:width 0.5s ease-in-out;height:35px;color:#fff;font-family:'Open Sans';width:20%;box-sizing:border-box;border:none;border-radius:4px;font-size:16px;float:right}.searchboxelements input[type=search]:focus{width:100%;background-color:#fff;color:#000}.lang{float:right;margin-right:30px;margin-left:30px}.lang a{text-decoration:none;font-family:'Open Sans';font-size:18px;padding:10px;color:#fff}.lang a:hover{color:#eda921}a:active{color:#eda921}.menu-responsive{background:#000;height:70px;font-family:'Open Sans';width:100%}.menu-responsive .hamburger{float:right;background-color:#000;color:#fff;margin:8px;padding:5px;border:0;font-size:36px;outline:0}.menu-responsive .hamburger:hover{color:#eda921}.content{display:none;position:absolute;background-color:#4f4f4f;width:100%;top:260px;box-shadow:0 8px 16px 0 rgba(0,0,0,.5);z-index:1;text-align:center}.content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;border-bottom:1px solid #000}.content a:hover{background-color:#eda921;color:#000}.menu-responsive:hover .content{display:block}.menu-responsive .content .searchboxelements{padding:10px;height:30px}.menu-responsive .espanol a{border:0;background:0}.menu-responsive .espanol{display:flex;background-color:#000;border:0;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:center}amp-carousel{margin-top:270px;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center;position:relative}amp-carousel a{text-decoration:none}amp-carousel a p{background-color:#214460;color:#fff;font-family:'Open Sans';font-size:36px;text-align:left;font-weight:lighter;padding:1.8%;border-radius:8px;position:absolute;top:26%;left:12%;z-index:1}.formulario{margin:5px;background-color:#fff;text-align:center;padding:15px;margin-top:40px;margin-bottom:40px}.formulario fieldset{border:none}.formulario form{background-color:#fff;padding:18px;border-radius:10px;font-family:'Open Sans';border:2px solid #ccc}.formulario .quote{width:30%;display:block;margin-left:auto;margin-right:auto}.formulario .quote input[type=text],.formulario input[type=email]{background-color:#fff;display:block;margin-left:auto;margin-right:auto;margin-bottom:-10px;width:95%;height:20px;font-family:'Open Sans';font-size:18px;padding:8px;border-radius:8px;border:1px solid #ccc;color:#000}.formulario .quote input[type=text]::placeholder,.formulario .quote input[type=email]::placeholder{color:#b2b2b2;opacity:1}.formulario fieldset{border:none}.formulario input[type=submit]{background-color:#EDA921;color:#000;font-weight:700;text-decoration:none;padding:10px;font-family:'Open Sans';font-size:18px;border-radius:9px;margin-top:15px;float:right;border:none;-webkit-transition:background-color 0.4s ease-out;-moz-transition:background-color 0.4s ease-out;-o-transition:background-color 0.4s ease-out;transition:background-color 0.4s ease-out}.formulario input[type=submit]:hover{background-color:#000;color:#EDA921;cursor:pointer}.formulario .options{display:flex;flex-direction:row-reverse;flex-wrap:nowrap;justify-content:flex-start;align-items:center;width:95%;font-family:'Open Sans';font-size:16px;padding:8px;margin-bottom:-10px;margin-left:auto;margin-right:auto;background-color:#fff;border-radius:8px;border:1px solid #ccc}.formulario .options .opt{padding:7px;color:#000;font-weight:700;height:auto;overflow:inherit;width:55%;font-family:'Open Sans';font-size:14px}.formulario .options #status{right:0;padding:7px;width:45%;text-align:center;background:url(/img/arrow-down2-56.png) no-repeat 2px;background-color:#fff;background-position:right;font-family:'Open Sans';font-size:14px;border-left:1px solid #ccc}.formulario .options select{border:0;background:#fff;-webkit-appearance:none}.our-services{background:#fff;width:100%;margin-top:30px;margin-bottom:40px}.our-services .title-section{text-align:center;display:inline;margin-bottom:40px}.our-services a{text-decoration:none;color:#000}.our-services .box .son{background:#fff;max-width:335px;height:155px;border:5px #000 solid;border-radius:20px;text-align:center;padding:25px;margin:25px}.box{overflow:hidden;display:flex;width:100%;height:auto;justify-content:center;flex-wrap:wrap}h1{font-family:'Open Sans';font-size:36px;font-weight:700;text-align:center;margin-bottom:40px}h2{font-family:'Open Sans';font-size:24px;font-weight:700;text-align:center}p{font-family:'Open Sans';font-size:16px;font-weight:300;text-align:left}.slogan{height:280px;width:100%;align-items:center;display:flex;justify-content:center}.slogan p{font-family:'Open Sans';font-size:48px;font-weight:400;text-align:center}footer{background:#000;width:100%;height:260px;display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;flex-direction:row}footer .statement{font-family:'Open Sans';color:#fff;font-size:18px;font-weight:700;margin:auto;display:inline-block}footer .statement a{font-family:'Open Sans';color:#fff;font-size:12px;font-weight:700;font-style:none;text-decoration:none}footer .follow{display:block;margin-left:auto;margin-right:auto}footer .follow p{font-family:'Open Sans';color:#fff;font-size:12px;font-weight:700;text-align:center}footer .follow li{display:inline-block;padding:10px}.parallaxamp{position:relative;overflow:hidden}.parallaxamp h3{font-family:'Open Sans';position:absolute;text-align:left;z-index:1;overflow:hidden;font-size:26px;margin-left:40%;margin-right:5%}.opinion{background-color:black;color:#fff}.parallax-image-window{overflow:hidden}.parallax-image-window amp-img{margin-bottom:-30%}@media only screen and (max-width:600px){.menu-desktop{display:none}.parallaxamp h3{font-size:12px;margin-left:15%;margin-right:5%}amp-carousel a p{font-size:12px;padding:5px;top:9%;left:6%}amp-carousel .quote{display:none}.formulario .quote{width:90%}}@media only screen and (max-width:1199px) and (min-width:601px){.menu-desktop{display:none}.parallaxamp h3{font-size:16px;margin-left:20%;margin-right:5%}amp-carousel a p{font-size:16px;padding:10px;top:10%;left:12%}.formulario .quote{width:70%}}@media(min-width:1200px){.menu-responsive{display:none}}.scrollToTop{color:#000;font-size:1.4em;box-shadow:0 1px 1.5px 0 rgba(0,0,0,.12),0 1px 1px 0 rgba(0,0,0,.24);width:50px;height:50px;border-radius:100px;border:none;outline:none;background:#eda921;z-index:200;bottom:10px;right:10px;position:fixed;opacity:0;visibility:hidden}#marker{position:absolute;top:100px;width:0;height:0}</style>
+ <style amp-custom>
+     
+     *{padding:0;
+       margin:0}
+  .top{
+         background-color: #EDA921;
+         text-align: center;
+         align-items: center;
+         position: relative;
+     }
+     .top amp-img{
+         margin: 15px;
+     }
+     
+     .top .contact{
+         position: absolute;
+         top: 0;
+         right: 0;
+         padding-right: 80px;
+         list-style: none;
+         display: flex;
+         flex-wrap: wrap;
+         flex-direction: row;
+         justify-content: space-around;
+         align-items:center;
+         margin-top: 15px;
+     }
+     
+     .top .contact amp-img{
+         margin-right: 10px;
+     }
+     .top .contact p{
+         font-family: 'Open Sans';
+         font-size: 25px;
+         font-weight: 700;
+         color: #000;
+         text-align: left;
+     }
+     .top .contact li{
+         display: inline-block;
+         float: left;
+  }
+.menu-desktop{
+         width: 100%;
+         height: 60px;
+         background-color: #000000;
+
+ }
+    
+/* MENU COMPUTADORAS*/
+
+.menu-desktop ul {
+    list-style-type:none;
+  position: absolute; 
+}
+     
+     .menu-desktop .barra{
+         width:  110px;
+         padding-left: 5px;
+         padding-right: 5px;
+     }
+   
+.menu-desktop .nav{
+padding-left: 4%;
+     }
+/*Create a horizontal list with spacing*/
+.menu-desktop  li {
+display:inline-block;  
+}  
+/*Style for menu links*/
+.menu-desktop  li a {
+    display:block;
+    min-width:130px;
+    height: 60px;
+    text-align: center;
+    line-height: 50px;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+/*Hover state for top level links*/
+.menu-desktop  li:hover a {
+    color: #EDA921;
+}
+/*Style for dropdown links*/
+.menu-desktop  li:hover ul a {
+    background: #214460;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,.5) ;
+  
+}
+/*Hover state for dropdown links*/
+.menu-desktop  li:hover ul a:hover {
+    background: #EDA921;
+    color: #fff;
+}
+     
+/*Hide dropdown links until they are needed*/
+.menu-desktop  li ul {
+    display: none;
+    /*PRUEBA MEGA MENU*/
+  z-index: 1;
+    
+}
+     
+/*Make dropdown links vertical*/
+.menu-desktop  li ul li {
+    display: block;
+    float: none;
+}
+/*Prevent text wrapping*/
+.menu-desktop  li ul li a {
+   
+    min-width: 100px;
+    padding: 0 20px;
+}
+/*Display the dropdown on hover*/
+.menu-desktop  ul li a:hover + .hidden, .hidden:hover {
+    display: block;
+}
+.menu-desktop  .column {
+  float: left;
+ width: 250px;
+}
+/*BUSCADOR E IDIOMA*/
+     .nav2{
+         float: right;
+         display: flex;
+         flex-direction: row;
+         flex-wrap: nowrap;
+         justify-content: space-between;
+         align-items: center;
+     }
+     
+   
+     .nav2 .lang a{
+         text-decoration: none;
+         font-family: 'Open Sans';
+         font-size: 16px;
+         color: #fff;
+         font-weight: 700;
+        margin-left: 5px;
+          margin-right: 5px;
+   }
+     
+     .nav2 .lang a:hover, .nav2 .lang a:focus, .nav2 .lang a:active {
+         color: #eda921;
+     }
+.nav2 .searchboxelements {
+    display: inline-block;
+     margin: 10px;
+    padding-right: 6%;
+}
+
+.nav2 .searchboxelements input[type=search] {
+    background-image: url(/img/search.png);
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    padding-left: 38px;
+    height: 40px;
+    font-family: 'Open Sans';
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #000;
+    font-weight: 100;
+}
+
+/*MENU RESPONSIVO*/
+     .menu-responsive{
+    background: #000;
+    height: 50px;
+    font-family: 'Open Sans';
+    width: 100%;
+    
+}
+
+.menu-responsive .hamburger {
+    float: right;
+    background-color: #000;
+    color: #fff;
+    margin-right: 25px;
+    border: 0;
+    font-size: 36px;
+    outline: 0;
+}
+
+.menu-responsive .hamburger:hover, .menu-responsive .hamburger:focus, .menu-responsive .hamburger:active {
+    color: #eda921;
+}
+     
+     .menu-responsive li:hover{
+      color: #eda921;
+     }
+
+.content {
+    display: none;
+    position: absolute;
+    background-color: #000;
+    width: 60%;
+    top: 144px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,.5);
+    z-index: 1000;
+    text-align: center;
+    right: 0;
+    list-style: none;
+     }
+
+.content a{
+    float: none;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    border-bottom: solid .5px #2c2c2c;
+    border-top: solid .5px #2c2c2c; 
+}
+
+.content li:hover, .content li:focus, .content li:active {
+    background-color: #eda921;
+    color: #000;
+    transition: all .4s ease;
+-webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+  -o-transition: all .4s ease;
+}
+     .content amp-accordion section ul{
+         background-color: #214460;
+     }
+     .content amp-accordion h4{
+         font-family: 'Open Sans';
+         font-size: 16px;
+         color: #fff;
+         font-weight: normal;
+     }
+     .content animate section{
+         background-color: #000;
+     }
+     
+     amp-accordion section[expanded]{
+         text-align: center;
+     }
+     amp-accordion section[expanded] h4 {
+         border: none;
+         border-bottom: solid 1px rgba(0,0,0,0.5);
+         height: 40px;
+         background-color: #000;
+         
+          margin-top: 8px;
+        
+  }
+  amp-accordion section:not([expanded]) h4 {
+         border: none;
+         border-bottom: solid 1px rgba(0,0,0,0.5);
+         height: 40px;
+         background-color: #000;
+       margin-top: 8px;
+   }
+
+     /*ARROWDOWN*/
+i {
+border: solid #eda921;
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 3px;
+margin: 4px;        
+}
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+} 
+.menu-responsive:hover .content {
+    display: block
+}
+.menu-responsive:active .content {
+    display: block
+}
+.menu-responsive:focus .content {
+    display: block
+}
+.menu-responsive .searchboxelements {
+    display: inline-block;
+}
+.menu-responsive .searchboxelements input[type=search] {
+    background-image: url(/img/search.png);
+    background-position: 5px 5px;
+    background-repeat: no-repeat;
+    padding-left: 45px;
+    height: 50px;
+    font-family: 'Open Sans';
+    box-sizing: border-box;
+    border: none;
+    font-size: 16px;
+    background-color: #fff;
+    color: #000;
+    min-width: 610px;
+}
+.menu-responsive .espanol a {
+    border: 0;
+    background: 0
+}
+
+.menu-responsive .espanol {
+    display: flex;
+    background-color: #000;
+    border: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center
+}  
+     /*CUERPO*/
+     .center{
+         margin: 120px;
+         max-width: 1080px;
+         margin-left: auto;
+         margin-right: auto;
+     }
+
+     .center .texto, h1{
+         text-align: center;
+         font-family: 'Open Sans';
+         font-weight: normal;
+         font-size: 24px;
+         margin: 10px;
+         margin-bottom: 80px;
+     }
+      .center .services, .otros{ 
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     align-items: center;
+}
+   
+   .center .services .frame {
+  height: 360px;
+  width: 360px;
+  border-radius: 50%;
+  overflow: hidden;
+       position: relative;
+    margin: 25px;
+}
+    
+.center .services .foto {
+  height: 360px;
+  width: 360px;
+       border-radius: 50%;
+    position: absolute;
+}
+.center .services .foto:hover, .center .services .foto:focus, .center .services .foto:active{
+    -webkit-filter: blur(4px);
+           -moz-filter:blur(4px);
+               -o-filter: blur(4px);
+               -ms-filter: blur(4px);
+          filter: blur(4px): blur(4px);     
+           transform: scale(1.1);
+            -webkit-transform:scale(1.1);
+    -webkit-transition: transform .5s ease-in-out;
+    -moz-transition:transform .5s ease-in-out;
+    -ms-transition:transform .5s ease-in-out;
+     } 
+
+     .center .services .middle{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+     }   
+.center .services .circle a .middle{
+              text-decoration: none;
+              font-family: 'Open Sans';
+              font-weight: 700;
+              font-size: 32px;
+              color: #fff;
+line-height: 95%;
+      }
+.center .otros{
+         margin-top: 55px;
+     }
+     .center .otros .secundarios{
+      border: 3px solid #000; 
+      border-radius: 50%;
+       padding: 25px;
+       text-align: center;
+         max-width: 120px;
+         margin: 10px;
+         overflow: hidden;
+         max-height: 120px;  
+     }
+    
+.center .otros .secundarios a{
+text-decoration: none;
+font-family: 'Open Sans';
+font-weight: 700;
+font-size: 18px;
+color: #000; }
+
+/*FORMULARIO*/
+  .cotizacion p {
+    background-color: #eda921;
+    border-radius: 15px;
+    color: #000;
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 40px;
+    width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      padding: 5px;
+}
+
+.cotizacion .formulario {
+    background-color: #214460;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 540px;
+}
+
+.formulario form {
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 8px;
+    font-family: 'Open Sans';
+    padding-top: 20px
+}
+
+.formulario .quote {
+    width: 650px;
+    margin-bottom: 25px;
+    margin-top: 25px
+}
+
+.formulario .quote input[type=text],
+.formulario input[type=email] {
+    background-color: #fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -10px;
+    width: 95%;
+    height: 20px;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    color: #000
+}
+
+.formulario fieldset {
+    border: none
+}
+
+.formulario input[type=submit] {
+    background-color: #EDA921;
+    color: #000;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    border-radius: 9px;
+    margin-top: 15px;
+    float: right;
+    border: none;
+    -webkit-transition: background-color 0.4s ease-out;
+    -moz-transition: background-color 0.4s ease-out;
+    -o-transition: background-color 0.4s ease-out;
+    transition: background-color 0.4s ease-out
+}
+
+.formulario input[type=submit]:hover {
+    background-color: #000;
+    color: #EDA921;
+    cursor: pointer
+}
+
+.formulario .options {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 95%;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    padding: 8px;
+    margin-bottom: -10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #ccc
+}
+
+.formulario .options .opt {
+    padding: 7px;
+    color: #000;
+    font-weight: 700;
+    height: auto;
+    overflow: inherit;
+    width: 55%;
+    font-family: 'Open Sans';
+    font-size: 14px
+}
+
+.formulario .options #status {
+    right: 0;
+    padding: 7px;
+    width: 45%;
+    text-align: center;
+    background: url(/img/arrow-down2-56.png) no-repeat 2px;
+    background-color: #fff;
+    background-position: right;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    border-left: 1px solid #ccc
+}
+
+.formulario .options select {
+    border: 0;
+    background: #fff;
+    -webkit-appearance: none
+}
+     
+     .submit-suceess{
+         width: 100%;
+         height: 100%;
+         text-align: center;
+         font-size: 26px;
+         font-family: 'Open Sans';
+         background-color: #214460;
+         color: #fff;
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         z-index: 5;
+     }
+  
+     footer{
+         background-color: #000;
+         width: 100%;
+         min-height: 200px;
+         text-align: center; 
+     }  
+     
+     footer p, footer a{
+          color: #fff;
+         font-family: 'Open Sans';
+         font-size: 14px;
+         font-weight: 100;
+         text-decoration: none;
+     }
+     footer .follow{
+         padding: 55px;
+         text-align: center;
+     }
+     footer .follow ul{
+      text-align: center;
+     }
+     
+     footer .follow li{
+         display: inline-block;
+         padding: 15px;
+     }
+     footer .info{
+         width: 100%;
+         min-height: 100px;
+         background-color: #000;
+
+     }
+
+     footer .info .statement{
+           padding: 25px;
+     }
+     footer .info .statement a{
+         font-weight: 700;
+     }
+   /*BOTON TOP*/
+   .scrollToTop{color:#000;font-size:1.4em;box-shadow:0 1px 1.5px 0 rgba(0,0,0,.12),0 1px 1px 0 rgba(0,0,0,.24);width:50px;height:50px;border-radius:100px;border:none;outline:none;background:#eda921;z-index:200;bottom:10px;right:10px;position:fixed;opacity:0;visibility:hidden}#marker{position:absolute;top:100px;width:0;height:0}
+       
+     
+     
+     /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+     
+       .formulario .quote {
+        width: 80%
+    }
+     .menu-desktop{display: none;}
+     
+      .top .contact{display: none;
+     }
+     }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {  
+          .formulario .quote {
+        width: 80%
+    }
+     .menu-desktop{display: none;}
+    
+    
+      .top .contact{display: none;}
+     }  
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 1049.98px) {
+     
+     .menu-desktop{display: none;}
+    
+      .top .contact{display: none;}
+     }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 1050px) and (max-width: 1199.98px) {
+        .menu-responsive{
+        display: none;
+    }}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .menu-responsive{
+        display: none;
+    } 
+    }
+     
+
+      </style>
 </head>
 
 <body>
@@ -236,33 +881,107 @@
     layout="nodisplay">
   </amp-position-observer>
 </div>
-  
+  <header>
+   <?php require('menu.php'); ?>
+  </header>
+ <amp-carousel width="1920" height="395" layout="responsive" type="slides" autoplay delay="5000">
+       <amp-video width="1920" height="395" src="/img/carrousel/web_video.mp4"
+             poster="/img/carrousel/web_video.mp4"
+             layout="responsive"
+             controls
+             autoplay>
+    <div fallback>
+      <p>Your browser doesn't support HTML5 video.</p>
+    </div>
+   
+  </amp-video>
 
-      <?php include ('menu.php'); ?>
-    
-
-
-    <!--CARROUSEL-->
-    <amp-carousel width="1920" height="395" layout="responsive" type="slides" autoplay delay="3500">
-        <a href="/services/workers-compensation"><p><b>We help</b> hundreds of<br> contractors in California<br>with their <b>Insurance Needs</b></p>
+        <a href="#">
             <amp-img src="https://beeinsured.co/img/carrousel/workers-compensation.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
        </a>
         <a href="#">
-            <amp-img src="https://beeinsured.co/img/carrousel/service-2.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
+            <amp-img src="img/carrousel/new-service-1.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
         </a>
         <a href="#">
-            <amp-img src="https://beeinsured.co/img/carrousel/service-3.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
+            <amp-img src="img/carrousel/new-service-2.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
         </a>
-        <a href="/services/certificates"><p>Get your <strong>Insurance<br>Certificate</strong> today</p>
-            <amp-img src="https://beeinsured.co/img/carrousel/insurance-certificate.jpg" width="1920" height="395" layout="responsive" alt="Get your Insurance Certificate" title="Insurance Certificate"></amp-img>
+         <a href="#">
+            <amp-img src="img/carrousel/new-service-4.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
+        </a>
+        <a href="https://beeinsured.co/services/certificates">
+            <amp-img src="img/carrousel/new-service-3.jpg" width="1920" height="395" layout="responsive" alt="Get your Insurance Certificate" title="Insurance Certificate"></amp-img>
+        </a>
+         <a href="#">
+            <amp-img src="img/carrousel/new-service-5.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
         </a>
     </amp-carousel>
+    
+<div class="center"> <!--AQUI VA TEXTO CON UN H1-->
+    <div class="texto">We help hundreds of contractors in California with their Insurance Needs</div>
+
+  <div class="services">
+   <div class="circle frame">
+<a href="https://beeinsured.co/services/workers-compensation"><amp-img class="foto" src="img/circle-2.jpg" width="360" height="360"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img> <div class="middle">  <amp-img class="icon" src="img/services/workers-compensation-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>Workers Compensation</p> </div>   </a>
+</div>
+
+
+
+ <div class="circle frame">
+   <a href="https://beeinsured.co/services/general-liability"><amp-img class="foto" src="img/circle-1.jpg" width="360" height="360"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <div class="middle">  <amp-img class="icon" src="img/services/general-liability-white.png" width="110" height="110"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>General Liability</p> </div> </a>
+  </div> 
+  
+    <div class="circle frame">
+<a href="https://beeinsured.co/services/commercial-vehicle"><amp-img class="foto" src="img/circle-3.jpg" width="360" height="360"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img> <div class="middle">  <amp-img class="icon" src="img/services/commercial-vehicle-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>Commercial Vehicle</p> </div>   </a>
+</div>
+
+
+ <div class="circle frame">
+   <a href="https://beeinsured.co/services/bond"><amp-img class="foto" src="img/circle-4.jpg" width="360" height="360"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <div class="middle">  <amp-img class="icon" src="img/services/bond-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>Bond</p> </div> </a>
+  </div> 
 
    
+</div> 
+ 
+  <div class="otros">
+   <div class="secundarios">
+          <a href="#"><amp-img class="icon" src="img/services/business-insurance.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <p>Small Business</p></a>
+   </div>
    
      
+    <div class="secundarios">
+          <a href="#"><amp-img class="icon" src="img/services/inland-marine-tool-equipment.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <p>Tool & Equipment</p> </a>
+   </div>
+   
+    <div class="secundarios">
+          <a href="#"><amp-img class="icon" src="img/services/umbrella.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <p>Excess and Umbrella</p> </a>
+   </div>
+    <div class="secundarios">
+          <a href="#"><amp-img class="icon" src="img/services/personal-lines.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <p>Personal Lines</p> </a>
+   </div>
+    </div> 
+   
+   </div>
+    <!--FORMULARIO-->
+   
+      <div class="cotizacion">
+        <p class="getyour">
+       Get your <br>quote Today!
+        </p>
+        
+     
+        
         <div class="formulario">
-  
+        
+         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
+         
+            
+        <!--FORMULARIO CORTO DE CONTACTO-->
        <form method="post"
     action-xhr="resultados-form.php"
     target="_top"
@@ -298,9 +1017,8 @@
   <br>
        <div class="options">
             <select name=“Service” id="status">
-                <option value=“Business”>Business Loans</option>
+               <option value=“Insurance”>Insurance Services</option>
                 <option value=“Certificates”>Certificates</option>
-<option value=“Insurance”>Insurance Services</option>
            </select> 
            <label for="Service"
       class="opt">Service</label>   
@@ -308,54 +1026,25 @@
       <input type="submit"
         value="Send">
     </fieldset>
-    
-    <!--ESTILOS Y APARICION DE ENVIO EXITOSO-FALLIDO, AUN FALTA -->
-
+    <div submit-success>
+      <template type="amp-mustache">
+        Subscription successful!
+      </template>
+    </div>
+    <div submit-error>
+      <template type="amp-mustache">
+        Subscription failed!
+      </template>
+    </div>
   </form>      
                  </div>
-   
-
-
-   
-    <div class="our-services">
-        <div class="title-section">
-            <a href="our-services"><h1>Our Services &#127;</h1></a>
-        </div>
-        <div class="box">
-            <a href="https://beeinsured.co/services/business-loans"><div class="son">
-                <amp-img src="https://beeinsured.co/img/services/business-loans.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Business Loans</h2><br><!-- 
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
-            </div></a>
-           <a href="https://beeinsured.co/services/insurance-services"> <div class="son">
-                <amp-img src="https://beeinsured.co/img/services/insurance-service.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Insurance Service</h2><br>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
-            </div></a>
-           <a href="https://beeinsured.co/services/certificates"> <div class="son">
-                <amp-img src="https://beeinsured.co/img/services/certificates.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Certificates</h2><br>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
-            </div></a>
-        </div>
     </div>
-
-<div class="parallaxamp">
-    <h3 amp-fx="parallax" data-parallax-factor="0.8">
-        <span class="opinion">"My business completes several construction contracts throughout the year and they have been very helpful in meeting all of the requirements for my company and for my clients” <br> <br>-JERRY O. 
-</span>
-    </h3>
-    <amp-img width="3501" height="1191" layout="responsive" src="https://beeinsured.co/img/Banner-index-notext.png"></amp-img>
-    </div>
-
-
-    <div class="slogan">
-        <p>Steps that build your future</p>
-    </div>
-  <button id="scrollToTopButton"
+<!--BACK TO TOP-->
+ <button id="scrollToTopButton"
   on="tap:top-page.scrollTo(duration=200)"
   class="scrollToTop">⌃</button>
 </body>
-<?php include ('footer.php'); ?>
+<?php require('footer.php');?>
 
+    
 </html>

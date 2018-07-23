@@ -154,7 +154,7 @@ hr {
 }
         .searchboxelements input[type=search]{
             background-color: #00000000;
-            background-image: url('/img/search%20copy.png');
+            background-image: url('/img/search.png');
             background-position: 3px 3px;
             background-repeat: no-repeat;
             padding-left: 38px;
@@ -553,7 +553,7 @@ footer .follow li {
 <?php include('menu.php');?>
    
     <div class="title-section">
-            <h1>Equipo &#127;
+            <h1>Equipo 
                  
          </h1></div>
     <ol class="breadcrumbs">

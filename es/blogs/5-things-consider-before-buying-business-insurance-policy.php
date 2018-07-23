@@ -155,7 +155,7 @@ hr {
 }
         .searchboxelements input[type=search]{
             background-color: #00000000;
-            background-image: url('/img/search%20copy.png');
+            background-image: url('/img/search.png');
             background-position: 3px 3px;
             background-repeat: no-repeat;
             padding-left: 38px;
@@ -483,7 +483,7 @@ footer .follow li {
 <?php include('../menu.php');?>
    
     <div class="title-section">
-            <h1>5 things to consider before buying your business insurance policy &#127;
+            <h1>5 things to consider before buying your business insurance policy 
                 <amp-img src="../img/icon.png" width="35" height="35" alt="#" title="#"></amp-img>
          </h1></div>
     <ol class="breadcrumbs">
