@@ -806,9 +806,8 @@ h1 {
         
          <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
  <!--Certificates Quote-->
-        <form method="get"
-        id="requestForm"
-    action="http://104.236.136.43/methods"
+        <form method="post"
+       action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

@@ -757,8 +757,9 @@ input[type=submit] {
             </div></div>
         <div class="hijo">
              <p class="section">Get a quote</p>
-            <form method="post"
-  action-xhr="/components/amp-form/submit-form-input-text-xhr"
+            <form 
+            method="post"
+            action-xhr="http://104.236.136.43/api/addRequest"       
   target="_top">
  
   <div class="jobform">
@@ -769,7 +770,7 @@ input[type=submit] {
       required>
       <input type="text"
       class="#"
-      name="name"
+      name="lastName"
       placeholder="Last Name"
       required>
     <input type="email"

@@ -789,9 +789,8 @@ As Workers Compensations rates continue to rise, so do operating costs which dim
          <amp-img src="https://beeinsured.co/img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
        
  <!--WORKERS COMPENSATION-->
-        <form method="get"
-        id="requestForm"
-    action="http://104.236.136.43/methods"
+        <form method="post"
+       action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

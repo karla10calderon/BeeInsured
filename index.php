@@ -982,8 +982,9 @@ color: #000; }
          
             
         <!--FORMULARIO CORTO DE CONTACTO-->
-       <form method="post"
-    action-xhr="resultados-form.php"
+       <form 
+       method="post"
+       action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>
@@ -996,31 +997,31 @@ color: #000; }
       <br>
       <label>
         <input type="text"
-          name="Last Name"
+          name="lastName"
           placeholder="Last Name"
           required>
       </label>
       <br>
       <label>
         <input type="email"
-          name="Email"
+          name="email"
           placeholder="Email"
           required>
       </label>
       <br>
       <label>
          <input type="text"
-          name="Phone"
+          name="phone"
           placeholder="Phone"
           required>
       </label>
   <br>
        <div class="options">
-            <select name=“Service” id="status">
+            <select name=“service” id="status">
                <option value=“Insurance”>Insurance Services</option>
                 <option value=“Certificates”>Certificates</option>
            </select> 
-           <label for="Service"
+           <label for="service"
       class="opt">Service</label>   
         </div>
       <input type="submit"

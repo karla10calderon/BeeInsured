@@ -802,8 +802,9 @@ We deal only with the most trusted sureties, and have a proven record of placing
         
          <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
  <!--Bond Quote-->
-        <form method="post"
-    action-xhr="https://example.com/subscribe"
+        <form 
+        method="post"
+       action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>
@@ -816,35 +817,35 @@ We deal only with the most trusted sureties, and have a proven record of placing
       <br>
       <label>
         <input type="text"
-          name="Last Name"
+          name="lastName"
           placeholder="Last Name"
           required>
       </label>
       <br>
       <label>
         <input type="email"
-          name="Email"
+          name="email"
           placeholder="Email"
           required>
       </label>
       <br>
       <label>
          <input type="text"
-          name="Phone"
+          name="phone"
           placeholder="Phone"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Home Phone"
+          name="homePhone"
           placeholder="Home Phone"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Address"
+          name="address"
           placeholder="Address"
           required>
       </label>
@@ -858,53 +859,53 @@ We deal only with the most trusted sureties, and have a proven record of placing
       <br>
       <label>
         <input type="text"
-          name="State"
+          name="state"
           placeholder="State"
           required>
       </label>
       <br>
         <label>
         <input type="text"
-          name="Zip Code"
+          name="zipCode"
           placeholder="Zip Code"
           required>
       </label>
       <br>
        <label>
         <input type="text"
-          name="Company Name"
+          name="companyName"
           placeholder="Company Name"
           required>
       </label>
       <br>
       <div class="options">
-            <select name="Entity?" id="status">
+            <select name="entity" id="status">
                 <option value="INC">INC</option>
                 <option value="Individual">Individual</option>
                 <option value="LLC">LLC</option>
                 <option value="Other">Other</option>
            </select> 
-           <label for="Entity?"
+           <label for="entity"
       class="opt">Entity?</label>   
         </div>
       <br>
       <label>
         <input type="text"
-          name="Personal Indemnitor"
+          name="personalIndemnitor"
           placeholder="Personal Indemnitor"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Social Security Number"
+          name="socialSecurityNumber"
           placeholder="Social Security Number"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Date of Birth"
+          name="BirthDate"
           placeholder="Date of Birth"
           required>
       </label>

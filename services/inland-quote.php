@@ -155,7 +155,7 @@
          <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
  <!--Inland Quote-->
         <form method="post"
-    action-xhr="https://example.com/subscribe"
+       action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>
@@ -168,63 +168,63 @@
       <br>
       <label>
         <input type="text"
-          name="Last Name"
+          name="lastName"
           placeholder="Last Name"
           required>
       </label>
       <br>
       <label>
         <input type="email"
-          name="Email"
+          name="email"
           placeholder="Email"
           required>
       </label>
       <br>
       <label>
          <input type="text"
-          name="Phone"
+          name="phone"
           placeholder="Phone"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Office Contents"
+          name="officeContents"
           placeholder="Office Contents"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Miscellaneous Tools ($1,500 in value and under)"
+          name="miscellaneousTools"
           placeholder="Miscellaneous Tools ($1,500 in value and under)"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Computer Systems - Equipment"
+          name="computerSystemsEquipment"
           placeholder="Computer Systems - Equipment"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Computer Systems - Data and Media"
+          name="computerSystemsDataAndMedia"
           placeholder="Computer Systems - Data and Media"
           required>
       </label>
       <br>
         <label>
         <input type="text"
-          name="Computer Systems - Extra Expense"
+          name="computerSystemsExtraExpense"
           placeholder="Computer Systems - Extra Expense"
           required>
       </label>
       <br>
        <label>
         <input type="text"
-          name="Scheduled Equipment"
+          name="scheduledEquipment"
           placeholder="Scheduled Equipment"
           required>
       </label>
@@ -233,14 +233,14 @@
       <br>
       <label>
         <input type="text"
-          name="Installation Floater"
+          name="installationFloater"
           placeholder="Installation Floater"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Rented/Leased Equipment"
+          name="rentedOrLeasedEquipment"
           placeholder="Rented/Leased Equipment"
           required>
       </label>

@@ -803,7 +803,7 @@ h1 {
          <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
  <!--Business Loans Quote-->
         <form method="post"
-    action-xhr="https://example.com/subscribe"
+       action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>
@@ -816,35 +816,35 @@ h1 {
       <br>
       <label>
         <input type="text"
-          name="Last Name"
+          name="lastName"
           placeholder="Last Name"
           required>
       </label>
       <br>
       <label>
         <input type="email"
-          name="Email"
+          name="email"
           placeholder="Email"
           required>
       </label>
       <br>
       <label>
          <input type="text"
-          name="Phone"
+          name="phone"
           placeholder="Phone"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Home Phone"
+          name="homePhone"
           placeholder="Home Phone"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Address"
+          name="address"
           placeholder="Address"
           required>
       </label>
@@ -858,106 +858,106 @@ h1 {
       <br>
       <label>
         <input type="text"
-          name="State"
+          name="state"
           placeholder="State"
           required>
       </label>
       <br>
         <label>
         <input type="text"
-          name="Zip Code"
+          name="zipCode"
           placeholder="Zip Code"
           required>
       </label>
       <br>
        <label>
         <input type="text"
-          name="Owner Name"
+          name="ownerName"
           placeholder="Owner Name"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Business Name"
+          name="businessName"
           placeholder="Business Name"
           required>
       </label>
       <br>
       <div class="options">
-            <select name="Entity?" id="status">
+            <select name="entity" id="status">
                 <option value="INC">INC</option>
                 <option value="Individual">Individual</option>
                 <option value="LLC">LLC</option>
                 <option value="Other">Other</option>
            </select> 
-           <label for="Entity?"
+           <label for="entity"
       class="opt">Entity?</label>   
         </div>
       <br>
       <label>
         <input type="text"
-          name="Tax ID Number"
+          name="taxIdNumber"
           placeholder="Tax ID Number"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Year Built"
+          name="yearBuilt"
           placeholder="Year Built"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Last time building was remodel (Type of remodel)"
+          name="lastTimeBuildingWasRemodel"
           placeholder="Last time building was remodel (Type of remodel)"
           required>
       </label>
       <br>
      <label>
         <input type="text"
-          name="Annual Sales"
+          name="annualSales"
           placeholder="Annual Sales"
           required>
       </label>
       <br>
       <label>
         <input type="text"
-          name="Property Value & Merchandise Value"
+          name="propertyValueAndMerchandiseValue"
           placeholder="Property Value & Merchandise Value"
           required>
       </label>
       <br>
         <label>
         <input type="text"
-          name="SQF of Building"
+          name="sqfOfBuilding"
           placeholder="SQF of Building"
           required>
       </label>
       <br>
        <label>
         <input type="text"
-          name="Type of Roof"
+          name="typeOfRoof"
           placeholder="Type of Roof"
           required>
       </label>
       <br>
         <div class="options">
-            <select name="construction type" id="status">
+            <select name="constructionType" id="status">
                 <option value="Frame">Frame</option>
                 <option value="Metal">Metal</option>
                 <option value="Masonry">Masonry</option>
                 <option value="Concrete">Concrete</option>
            </select> 
-           <label for="Construction type"
+           <label for="constructionType"
       class="opt">Construction type</label>   
         </div>
       <br>
         <label>
         <input type="text"
-          name="Years in Business"
+          name="yearsInBusiness"
           placeholder="Years in Business"
           required>
       </label>
