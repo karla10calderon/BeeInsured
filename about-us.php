@@ -362,7 +362,7 @@ margin: 4px;
     
 
 
-.title-section {
+.title-section {line-height: 0.95;
     margin-top: 80px;
     text-align: center
 }
@@ -380,9 +380,9 @@ p {
     
 }
 
-.breadcrumbs {
+  .breadcrumbs { padding-left: 30px; padding-right: 30px;   margin-left: auto;     margin-right: auto;
     margin-top: 20px;
-    margin-left: 25px;
+   
     margin-bottom: 45px
 }
 

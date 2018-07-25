@@ -382,9 +382,10 @@ margin: 4px;
     
 
 
-.title-section {
+.title-section {line-height: 0.95;
     margin-top: 50px;
-    text-align: center
+    text-align: center;
+    padding: 10px;
 }
 
 p {
@@ -394,9 +395,9 @@ p {
     text-align: center
 }
 
-.breadcrumbs {
+  .breadcrumbs { padding-left: 30px; padding-right: 30px;   margin-left: auto;     margin-right: auto;
     margin-top: 20px;
-    margin-left: 25px;
+   
     margin-bottom: 45px
 }
 
@@ -438,19 +439,13 @@ p {
     margin-bottom: 50px;
 }
 
-.cotizacion p {
-    background-color: #eda921;
-    color: #000;
-    font-family: 'Open Sans';
-    font-size: 36px;
-    font-weight: 700;
-    text-align: center;
-    margin-bottom: 40px;
-    width: 280px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
+.cotizacion amp-img{
+ display: block;
+         margin-left: auto;
+         margin-right: auto;
+         max-width: 571px;
+         max-height: 358px;
+    }
 
 .cotizacion .formulario {
     background-color: #214460;
@@ -796,15 +791,10 @@ h1 {
      
 
       <div class="cotizacion">
-        <p class="getyour">
-        Get your <br>quote Today!
-        </p>
-        
+        <amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
      
         
         <div class="formulario">
-        
-         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
        
  <!--General Liability Quote-->
         <form method="get"

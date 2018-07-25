@@ -300,7 +300,7 @@ p {
 
         .breadcrumbs{
             margin-top: 20px;
-            margin-left: 25px;
+           
             margin-bottom: 45px;
         }
         .breadcrumbs li{

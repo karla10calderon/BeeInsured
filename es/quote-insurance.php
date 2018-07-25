@@ -1,13 +1,13 @@
  <div class="cotizacion">
         <p class="getyour">
-        Get your <br>quote Today!
+        Get your <br>quote today!
         </p>
         
      
         
         <div class="formulario">
         
-         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
+         <amp-img src="../img/John.png" width="262" height="304"  alt="#" title="#"></amp-img>
          
             
         <!--FORMULARIO CORTO DE CONTACTO-->

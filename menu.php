@@ -2,7 +2,7 @@
          <ul class="contact">
              <li> <amp-img src="https://beeinsured.co/img/Black-Phone-Icon.png" alt="#" title="#" height="35" width="35" ></amp-img></li><li><p>1 844 468 7400</p></li>
          </ul>
-         <a href="https://beeinsured.co"><amp-img class="logo" src="https://beeinsured.co/img/Logo-BeeInsured.png" alt="Bee Insured Steps that build your future" title="Logo Bee Insured" height="69" width="210" ></amp-img></a>
+         <a href="https://beeinsured.co"><amp-img class="logo" src="https://beeinsured.co/img/Logo-BeeInsured.png" alt="Bee Insured Steps that build your future" title="Logo Bee Insured" height="83" width="252" ></amp-img></a>
         </div>
         
           <div class="menu-desktop">

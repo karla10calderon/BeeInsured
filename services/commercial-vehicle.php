@@ -1,11 +1,11 @@
 <!doctype html>
-<html amp>
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Commercial Vehicle by Bee Insured</title>
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" hreflang="en" href="https://beeinsured.co/services/commercial-vehicle">
+    <link rel="canonical" href="https://beeinsured.co/services/commercial-vehicle">
     <link rel="alternate" hreflang="es" href="https://beeinsured.co/es/services/vehiculo-comercial">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -384,9 +384,10 @@ margin: 4px;
     
 
 
-.title-section {
+.title-section {line-height: 0.95;
     margin-top: 50px;
-    text-align: center
+    text-align: center;
+    padding: 10px;
 }
 
 p {
@@ -396,9 +397,9 @@ p {
     text-align: center
 }
 
-.breadcrumbs {
+  .breadcrumbs { padding-left: 30px; padding-right: 30px;   margin-left: auto;     margin-right: auto;
     margin-top: 20px;
-    margin-left: 25px;
+   
     margin-bottom: 45px
 }
 
@@ -440,19 +441,13 @@ p {
     margin-bottom: 50px;
 }
 
-.cotizacion p {
-    background-color: #eda921;
-    color: #000;
-    font-family: 'Open Sans';
-    font-size: 36px;
-    font-weight: 700;
-    text-align: center;
-    margin-bottom: 40px;
-    width: 280px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
+.cotizacion amp-img{
+ display: block;
+         margin-left: auto;
+         margin-right: auto;
+         max-width: 571px;
+         max-height: 358px;
+    }
 
 .cotizacion .formulario {
     background-color: #214460;
@@ -799,16 +794,11 @@ h1 {
         
      
   <div class="cotizacion">
-        <p class="getyour">
-        Get your <br>quote Today!
-        </p>
-        
-     
-        
+         <amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
+      
         <div class="formulario">
-        
-         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
- <!--Business Loans Quote-->
+      
+ <!--Commercial Vehicle-->
         <form method="get"
         id="requestForm"
     action="http://104.236.136.43/methods"

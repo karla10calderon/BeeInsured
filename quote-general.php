@@ -1,16 +1,11 @@
 
       <div class="cotizacion">
-        <p class="getyour">
-       Get your <br>quote Today!
-        </p>
+          <amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
         
      
         
         <div class="formulario">
-        
-         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
-         
-            
+
         <!--FORMULARIO CORTO DE CONTACTO-->
        <form method="post"
     action-xhr="resultados-form.php"

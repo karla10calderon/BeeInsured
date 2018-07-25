@@ -384,9 +384,10 @@ margin: 4px;
     
 
 
-.title-section {
+.title-section {line-height: 0.95;
     margin-top: 50px;
-    text-align: center
+    text-align: center;
+    padding: 10px;
 }
 
 p {
@@ -396,9 +397,9 @@ p {
     text-align: center
 }
 
-.breadcrumbs {
+  .breadcrumbs { padding-left: 30px; padding-right: 30px;  
+     margin-left: auto;     margin-right: auto;
     margin-top: 20px;
-    margin-left: 25px;
     margin-bottom: 45px
 }
 
@@ -440,19 +441,13 @@ p {
     margin-bottom: 50px;
 }
 
-.cotizacion p {
-    background-color: #eda921;
-    color: #000;
-    font-family: 'Open Sans';
-    font-size: 36px;
-    font-weight: 700;
-    text-align: center;
-    margin-bottom: 40px;
-    width: 280px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
+.cotizacion amp-img{
+ display: block;
+         margin-left: auto;
+         margin-right: auto;
+         max-width: 571px;
+         max-height: 358px;
+    }
 
 .cotizacion .formulario {
     background-color: #214460;
@@ -589,7 +584,9 @@ p {
          margin-right: auto;
          z-index: 5;
      }
-
+      .note{
+          margin-top:  20px;
+      }
 h1 {
     font-family: 'Open Sans';
     font-size: 36px;
@@ -778,15 +775,15 @@ h1 {
 </div>
   <?php include('../menu.php');?>
     <div class="title-section">
-            <h1>Inland marine tool & equipment 
+            <h1>Tool & Equipment
                  
          </h1></div>
     <ol class="breadcrumbs">
         <li><a href="/index.php">Home /</a></li>
-        <li><a href="/our-services.php">Services /</a></li>
-        <li><a href="/services/insurance-services.php">Insurance Services /</a></li>
-        <li><a href="/services/commercial-insurance.php">Commericial Insurance /</a></li>
-        <li><a href="/services/inland-marine-tool.php" class="active">Inland marine tool & equipment</a></li>
+        <li><a href="/our-services">Services /</a></li>
+        <li><a href="/services/insurance-services">Insurance Services /</a></li>
+        <li><a href="/services/commercial-insurance">Commericial Insurance /</a></li>
+        <li><a href="/services/inland-marine-tool" class="active">Tool & equipment</a></li>
        
     </ol>
 
@@ -798,15 +795,10 @@ h1 {
         
      
    <div class="cotizacion">
-        <p class="getyour">
-        Get your <br>quote Today!
-        </p>
-        
-     
-        
-        <div class="formulario">
-        
-         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
+        <amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
+       
+       <div class="formulario">
+       
  <!--Inland Quote-->
         <form method="post"
     action-xhr="https://example.com/subscribe"

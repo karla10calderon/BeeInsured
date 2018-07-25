@@ -8,7 +8,7 @@
         
         <div class="formulario">
         
-         <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
+         <amp-img src="../img/John.png" width="262" height="304"  alt="#" title="#"></amp-img>
          
             
         <!--FORMULARIO CORTO DE CONTACTO-->

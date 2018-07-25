@@ -380,7 +380,7 @@ margin: 4px;
 }  
        
        
-.title-section {
+.title-section {line-height: 0.95;
     margin-top: 80px;
     text-align: center
 }
@@ -401,9 +401,9 @@ p {
     text-align: center;
 }
 
-.breadcrumbs {
+  .breadcrumbs { padding-left: 30px; padding-right: 30px;   margin-left: auto;     margin-right: auto;
     margin-top: 20px;
-    margin-left: 25px;
+   
     margin-bottom: 45px
 }
 
@@ -457,19 +457,13 @@ h2 {
     text-align: center
 }
 
-.cotizacion p {
-    background-color: #eda921;
-    color: #000;
-    font-family: 'Open Sans';
-    font-size: 36px;
-    font-weight: 700;
-    text-align: center;
-    margin-bottom: 40px;
-    width: 280px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
+.cotizacion amp-img{
+ display: block;
+         margin-left: auto;
+         margin-right: auto;
+         max-width: 571px;
+         max-height: 358px;
+    }
 
 .cotizacion .formulario {
     background-color: #214460;
