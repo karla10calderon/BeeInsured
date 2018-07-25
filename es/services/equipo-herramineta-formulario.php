@@ -113,7 +113,7 @@
          <amp-img src="../img/John.png" width="262" height="304"  alt="#" title="#"></amp-img>
  <!--Certificates Quote-->
         <form method="post"
-    action-xhr="https://example.com/subscribe"
+    action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

@@ -123,7 +123,7 @@
              
              
 <form method="post"
-  action-xhr="/components/amp-form/submit-form-input-text-xhr"
+  action-xhr="http://104.236.136.43/api/addRequest"
   target="_top">
  
   <div class="jobform">

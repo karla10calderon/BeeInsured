@@ -108,7 +108,7 @@
         <div class="formulario">
   
        <form method="post"
-    action-xhr="https://example.com/subscribe"
+    action-xhr="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

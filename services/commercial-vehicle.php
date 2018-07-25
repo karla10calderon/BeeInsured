@@ -270,7 +270,7 @@ display:inline-block;
     position: absolute;
     background-color: #000;
     width: 60%;
-    top: 144px;
+    top: 167px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,.5);
     z-index: 1000;
     text-align: center;
@@ -425,7 +425,7 @@ p {
     display: block;
     margin-left: 5%;
     margin-right: 5%;
-    text-align: center;
+    text-align: justify;
     margin-top: 20px;
     overflow: hidden
 }
@@ -801,7 +801,7 @@ h1 {
  <!--Commercial Vehicle-->
         <form method="get"
         id="requestForm"
-    action="http://104.236.136.43/methods"
+    action="http://104.236.136.43/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

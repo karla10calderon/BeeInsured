@@ -410,7 +410,7 @@
       display: none;
       background-color: #000;
       width: 60%;
-      top: 144px;
+      top: 167px;
       z-index: 1000;
       list-style: none
   }
@@ -586,12 +586,11 @@
   .center .otros .secundarios {
       border: 3px solid #676767;
       border-radius: 50%;
-     width: 150px;
+      width: 150px;
       height: 150px;
-   margin: 10px;
+      margin: 10px;
       overflow: hidden;
-    
-      position: relative;
+     position: relative;
   }
      .center .otros .secundarios .fondo{
          height: 160px;
@@ -599,6 +598,9 @@
          border-radius: 50%;
          position: absolute;
     
+     }
+     .otros .secundarios .medio .icon{
+         display: none;
      }
      
     
@@ -1049,7 +1051,7 @@
  
   <div class="otros">
    <div class="secundarios">
-          <a href="#"><amp-img class="fondo" src="img/services/secundarios.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio">
+          <a href="#"><amp-img class="fondo" src="img/small-business.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio">
         <amp-img class="icon" src="img/services/business-insurance.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
    <p>Small Business</p></div></a>
    </div>
