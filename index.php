@@ -532,17 +532,17 @@
   }
   
   .center .services .frame {
-      min-height: 300px;
-      min-width: 300px;
+      min-height: 230px;
+      min-width: 230px;
       border-radius: 50%;
       overflow: hidden;
       position: relative;
-      margin: 35px
+      margin: 15px
   }
   
   .center .services .foto {
-      height: 300px;
-      width: 300px;
+      height: 230px;
+      width: 230px;
       border-radius: 50%;
       position: absolute
   }
@@ -554,7 +554,7 @@
       -moz-filter: blur(5px);
       -o-filter: blur(5px);
       -ms-filter: blur(5px);
-      filter: blur(5px): blur(5px);
+      filter: blur(5px);
       transform: scale(1.1);
       -webkit-transform: scale(1.1);
       -webkit-transition: transform .5s ease-in-out;
@@ -567,24 +567,88 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%)
+      -ms-transform: translate(-50%, -50%);
+      
   }
   
   .center .services .frame a .middle {
       text-decoration: none;
       font-family: 'Open Sans';
       font-weight: 700;
-      font-size: 32px;
+      font-size: 26px;
       color: #fff;
       line-height: 98%
   }
-  
+     .uno{
+     left: 18%;
+         top: -75%;
+     }
+     .dos{
+         left: -2%;
+         top: -80%;
+     }
+     .tres{
+         left: 20px;
+         top: -65%;
+     }
+     .cuatro{
+          left: -49px;
+        bottom: -75px;
+     }
+     
+.spoiler{
+opacity: 0;
+position:absolute;
+-webkit-transform:perspective(2000px) rotateY(-180deg);
+   -moz-transform:perspective(2000px) rotateY(-180deg);
+    -ms-transform:perspective(2000px) rotateY(-180deg);
+     -o-transform:perspective(2000px) rotateY(-180deg);
+        transform:perspective(2000px) rotateY(-180deg);
+-webkit-transition:all .5s ease;
+   -moz-transition:all .5s ease;
+     -o-transition:all .5s ease;
+        transition:all .5s ease;
+
+}
+
+.frame:hover .spoiler, .frame:focus .spoiler, .frame:active .spoiler{
+-webkit-transform:perspective(2000px) rotateY(0deg);
+   -moz-transform:perspective(2000px) rotateY(0deg);
+    -ms-transform:perspective(2000px) rotateY(0deg);
+     -o-transform:perspective(2000px) rotateY(0deg);
+        transform:perspective(2000px) rotateY(0deg);
+        opacity: 1;
+}
+
+.noSpoiler{
+-webkit-transform:perspective(2000px) rotateY(0deg);
+   -moz-transform:perspective(2000px) rotateY(0deg);
+    -ms-transform:perspective(2000px) rotateY(0deg);
+     -o-transform:perspective(2000px) rotateY(0deg);
+        transform:perspective(2000px) rotateY(0deg);
+-webkit-transition:all .5s ease;
+   -moz-transition:all .5s ease;
+     -o-transition:all .5s ease;
+        transition:all .5s ease;
+}
+
+.frame:hover .noSpoiler, .frame:active .noSpoiler, .frame:focus .noSpoiler{
+-webkit-transform:perspective(2000px) rotateY(180deg);
+   -moz-transform:perspective(2000px) rotateY(180deg);
+    -ms-transform:perspective(2000px) rotateY(180deg);
+     -o-transform:perspective(2000px) rotateY(180deg);
+        transform:perspective(2000px) rotateY(180deg);
+opacity:0;
+}
+     
+     
+     
   .center .otros {
       margin-top: 55px
   }
   
   .center .otros .secundarios {
-      border: 3px solid #676767;
+      border: 3px solid #d3d3d3;
       border-radius: 50%;
       width: 150px;
       height: 150px;
@@ -827,6 +891,12 @@
       height: 0
   }
   
+       .carousel-desktop{
+              background-color: #eda921;
+      }
+
+     
+     
   @media (max-width:575.98px) {
       .formulario .quote {
           width: 80%
@@ -837,6 +907,7 @@
       }
           .carousel-desktop{
           display: none;
+             
       }
 
   }
@@ -950,10 +1021,10 @@
   <header>
    <?php require('menu.php'); ?>
   </header>
- <amp-carousel class="carousel-desktop" width="1920" height="395" layout="responsive" type="slides" autoplay delay="5000">
-<!--
- <amp-video width="1920" height="395" src="/img/carrousel/web_video.mp4"
-             poster="/img/carrousel/web_video.mp4"
+ <amp-carousel class="carousel-desktop" width="1920" height="395" layout="responsive" type="slides" autoplay delay="10000">
+
+ <amp-video width="1920" height="395" src="https://beeinsured.co/img/carrousel/video-web.mp4"
+             poster="https://beeinsured.co/img/carrousel/video-web.mp4"
              layout="responsive"
              controls
              autoplay>
@@ -961,10 +1032,7 @@
       <p>Your browser doesn't support HTML5 video.</p>
     </div> 
   </amp-video>
---> 
- <a href="#">
-            <amp-img src="https://beeinsured.co/img/carrousel/john-ben.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
-       </a>
+
         <a href="#">
             <amp-img src="https://beeinsured.co/img/carrousel/workers-compensation-desktop.jpg" width="1920" height="395" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
        </a>
@@ -984,11 +1052,12 @@
             <amp-img src="img/carrousel/new-service-5.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
         </a>
     </amp-carousel>
+    
+    
     <!--CAROUSEL VERSION PARA MOBILES-->
-     <amp-carousel class="carousel-mobile" width="1920" height="800" layout="responsive" type="slides" autoplay delay="5000">
-<!--
- <amp-video width="1920" height="395" src="/img/carrousel/web_video.mp4"
-             poster="/img/carrousel/web_video.mp4"
+     <amp-carousel class="carousel-mobile" width="1920" height="800" layout="responsive" type="slides" autoplay delay="10000">
+<amp-video width="1920" height="800" src="https://beeinsured.co/img/carrousel/video-responsive.mp4"
+             poster="https://beeinsured.co/img/carrousel/video-responsive.mp4"
              layout="responsive"
              controls
              autoplay>
@@ -996,10 +1065,7 @@
       <p>Your browser doesn't support HTML5 video.</p>
     </div> 
   </amp-video>
---> 
- <a href="#">
-            <amp-img src="https://beeinsured.co/img/carrousel/john-ben-mobile.jpg" width="1920" height="900" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
-       </a>
+
         <a href="#">
             <amp-img src="https://beeinsured.co/img/carrousel/workers-compensation-mobile.jpg" width="1920" height="900" layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
        </a>
@@ -1026,29 +1092,51 @@
 
   <div class="services">
    <div class="frame">
-<a href="https://beeinsured.co/services/workers-compensation"><amp-img class="foto papa" src="img/circle-2.jpg" width="300" height="300" layout="responsive"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img> <div class="middle">  <amp-img class="icon" src="img/services/workers-compensation-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>Workers Compensation</p> </div>   </a>
+<a href="#"><amp-img class="foto" src="https://beeinsured.co/img/circle-2.jpg" width="230" height="230" layout="responsive"></amp-img> 
+       <div class="middle">
+       <div class="spoiler uno">
+         <amp-img src="https://beeinsured.co/img/services/workers-compensation-white.png" width="120" height="120"></amp-img>
+       </div>
+<div class="noSpoiler">
+     <p>Workers Compensation</p>
+     </div> 
+     </div>   </a>
 </div>
-
-
-
  <div class="frame">
-   <a href="https://beeinsured.co/services/general-liability"><amp-img class="foto" src="img/circle-1.jpg" width="300" height="300"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
-   <div class="middle">  <amp-img class="icon" src="img/services/general-liability-white.png" width="110" height="110"   layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>General Liability</p> </div> </a>
-  </div> 
-  
-    <div class="frame">
-<a href="https://beeinsured.co/services/commercial-vehicle"><amp-img class="foto" src="img/circle-3.jpg" width="300" height="300"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img> <div class="middle">  <amp-img class="icon" src="img/services/commercial-vehicle-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>Commercial Vehicle</p> </div>   </a>
+<a href="https://beeinsured.co/services/general-liability"><amp-img class="foto" src="https://beeinsured.co/img/circle-1.jpg" width="230" height="230" layout="responsive"></amp-img> 
+     <div class="middle">
+       <div class="spoiler dos">
+         <amp-img src="https://beeinsured.co/img/services/general-liability-white.png" width="130" height="130"></amp-img>
+       </div>
+<div class="noSpoiler">
+     <p>General Liability</p>
+     </div> 
+     </div>   </a>
 </div>
-
-
  <div class="frame">
-   <a href="https://beeinsured.co/services/bond"><amp-img class="foto" src="img/circle-4.jpg" width="300" height="300"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
-   <div class="middle">  <amp-img class="icon" src="img/services/bond-white.png" width="170" height="170"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>  <p>Bond</p> </div> </a>
+   <a href="https://beeinsured.co/services/commercial-vehicle">
+  <amp-img class="foto" src="img/circle-3.jpg" width="230" height="230"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img> 
+   <div class="middle"> 
+   <div class="spoiler tres">
+   <amp-img class="icon" src="img/services/commercial-vehicle-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+     </div>
+      <div class="noSpoiler">
+     <p>Commercial Vehicle</p> </div> </div></a>
   </div> 
-
-   
+  <div class="frame">
+   <a href="https://beeinsured.co/services/bond">
+ <amp-img class="foto" src="img/circle-4.jpg" width="230" height="230"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <div class="middle"> 
+   <div class="spoiler cuatro">
+   <amp-img class="icon" src="img/services/bond-white.png" width="170" height="170"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+     </div>
+      <div class="noSpoiler">
+     <p>Bond</p> </div> </div></a>
+  </div> 
 </div> 
- 
+
+
+
   <div class="otros">
    <div class="secundarios">
           <a href="#"><amp-img class="fondo" src="img/small-business.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio">
@@ -1058,29 +1146,30 @@
    
      
     <div class="secundarios">
-           <a href="https://beeinsured.co/services/inland-marine-tool"><amp-img class="fondo" src="img/services/secundarios.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio">
+           <a href="https://beeinsured.co/services/inland-marine-tool"><amp-img class="fondo" src="https://beeinsured.co/img/tools.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio">
        <amp-img class="icon" src="img/services/inland-marine-tool-equipment.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
       <p>Tool & Equipment</p></div></a>
    </div>
    
     <div class="secundarios">
-          <a href="#"><amp-img class="fondo" src="img/services/secundarios.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><di class="medio"><amp-img class="icon" src="img/services/umbrella.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
-   <p>Excess and Umbrella</p></di> </a>
+          <a href="#"><amp-img class="fondo" src="img/umbrella.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio"><amp-img class="icon" src="img/services/umbrella.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <p>Excess and Umbrella</p></div> </a>
    </div>
     <div class="secundarios">
-          <a href="#"><amp-img class="fondo" src="img/services/secundarios.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio"><amp-img class="icon" src="img/services/personal-lines.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+          <a href="#"><amp-img class="fondo" src="img/personal-lines.jpg" width="160" height="160"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img><div class="medio"><amp-img class="icon" src="img/services/personal-lines.png" width="60" height="60"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
    <p>Personal Lines</p></div></a>
    </div>
     </div> 
    
+   
+   
+   
+   
+   
    </div>
     <!--FORMULARIO-->
-   
       <div class="cotizacion">
        <amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
-        
-     
-        
         <div class="formulario">
             
         <!--FORMULARIO CORTO DE CONTACTO-->

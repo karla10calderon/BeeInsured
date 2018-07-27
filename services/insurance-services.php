@@ -24,13 +24,8 @@
      <!--GOOGLE ANALYTICS-->
  <script async custom-element="amp-analytics"
     src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
-    <!--CARROUSEL AMP -->
-    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-    <!--PARALLAX -->
-    <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
-
     <!--BACK TO TOP-->
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
@@ -412,38 +407,123 @@ p {
 .intro p {
     padding: 40px
 }
+ .center {
+      margin: 120px auto;
+      max-width: 1080px
+  }
+  
+  
+  .center .services{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center
+  }
+  
+  .center .services .frame {
+      min-height: 330px;
+      min-width:330px;
+      border-radius: 50%;
+      overflow: hidden;
+      position: relative;
+      margin: 15px
+  }
+  
+  .center .services .foto {
+      height: 330px;
+      width: 330px;
+      border-radius: 50%;
+      position: absolute
+  }
+  
+  .center .services .foto:active,
+  .center .services .foto:focus,
+  .center .services .foto:hover{
+      -webkit-filter: blur(5px);
+      -moz-filter: blur(5px);
+      -o-filter: blur(5px);
+      -ms-filter: blur(5px);
+      filter: blur(5px);
+      transform: scale(1.1);
+      -webkit-transform: scale(1.1);
+      -webkit-transition: transform .5s ease-in-out;
+      -moz-transition: transform .5s ease-in-out;
+      -ms-transition: transform .5s ease-in-out;
+    
+  } 
+  .center .services .middle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      
+  }
+  
+  .center .services .frame a .middle p{
+      text-decoration: none;
+      font-family: 'Open Sans';
+      font-weight: 700;
+      font-size: 26px;
+      color: #fff;
+      line-height: 98%
+  }
+     .uno{
+     left: 13%;
+         top: -75%;
+     }
+     .dos{
+         left:12%;
+         top: -80%;
+     }
+   
+.spoiler{
+opacity: 0;
+position:absolute;
+-webkit-transform:perspective(2000px) rotateY(-180deg);
+   -moz-transform:perspective(2000px) rotateY(-180deg);
+    -ms-transform:perspective(2000px) rotateY(-180deg);
+     -o-transform:perspective(2000px) rotateY(-180deg);
+        transform:perspective(2000px) rotateY(-180deg);
+-webkit-transition:all .5s ease;
+   -moz-transition:all .5s ease;
+     -o-transition:all .5s ease;
+        transition:all .5s ease;
 
-.box {
-    background: #fff;
-    width: 100%;
-    margin-top: 30px
 }
 
-.box a {
-    text-decoration: none;
-    color: #000
+.frame:hover .spoiler, .frame:focus .spoiler, .frame:active .spoiler{
+-webkit-transform:perspective(2000px) rotateY(0deg);
+   -moz-transform:perspective(2000px) rotateY(0deg);
+    -ms-transform:perspective(2000px) rotateY(0deg);
+     -o-transform:perspective(2000px) rotateY(0deg);
+        transform:perspective(2000px) rotateY(0deg);
+        opacity: 1;
 }
 
-.box .son {
-    background: #fff;
-    max-width: 500px;
-    margin-left: 30px;
-    margin-right: 30px;
-    border: 5px #000 solid;
-    border-radius: 20px;
-    text-align: center;
-    padding: 35px;
-    margin-bottom: 60px
+.noSpoiler{
+-webkit-transform:perspective(2000px) rotateY(0deg);
+   -moz-transform:perspective(2000px) rotateY(0deg);
+    -ms-transform:perspective(2000px) rotateY(0deg);
+     -o-transform:perspective(2000px) rotateY(0deg);
+        transform:perspective(2000px) rotateY(0deg);
+-webkit-transition:all .5s ease;
+   -moz-transition:all .5s ease;
+     -o-transition:all .5s ease;
+        transition:all .5s ease;
 }
 
-.box {
-    display: flex;
-    width: 100%;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center
+.frame:hover .noSpoiler, .frame:active .noSpoiler, .frame:focus .noSpoiler{
+-webkit-transform:perspective(2000px) rotateY(180deg);
+   -moz-transform:perspective(2000px) rotateY(180deg);
+    -ms-transform:perspective(2000px) rotateY(180deg);
+     -o-transform:perspective(2000px) rotateY(180deg);
+        transform:perspective(2000px) rotateY(180deg);
+opacity:0;
 }
+     
+     
 
 .cotizacion amp-img{
  display: block;
@@ -785,7 +865,36 @@ h2 {
        <!--  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
        
     </div>
+       
+       <div class="center">
+           
+         <div class="services">
+   <div class="frame">
+<a href="https://beeinsured.co/services/commercial-insurance"><amp-img class="foto" src="https://beeinsured.co/img/circle-2.jpg" width="330" height="330" layout="responsive"></amp-img> 
+       <div class="middle">
+       <div class="spoiler uno">
+         <amp-img src="/img/services/commercial-insurance.png" width="120" height="120"></amp-img>
+       </div>
+<div class="noSpoiler">
+     <p>Commercial Insurance</p>
+     </div> 
+     </div></a>
+</div>
+ <div class="frame">
+<a href="https://beeinsured.co/services/personal-lines"><amp-img class="foto" src="https://beeinsured.co/img/circle-1.jpg" width="330" height="330" layout="responsive"></amp-img> 
+     <div class="middle">
+       <div class="spoiler dos">
+         <amp-img src="/img/services/personal-lines.png" width="130" height="130"></amp-img>
+       </div>
+<div class="noSpoiler">
+     <p>Personal Lines</p>
+     </div> 
+     </div></a>
+</div>
+</div> 
+ </div>
         
+<!--
      
        <div class="box"><a href="/services/personal-lines.php">
             <div class="son">
@@ -801,6 +910,7 @@ h2 {
           
         </div>
   
+-->
 
  <?php include('../quote-general.php');?>
 

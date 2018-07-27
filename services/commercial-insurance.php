@@ -436,41 +436,140 @@ p {
     padding: 40px
 }
 
-.our-services {
-    background: #fff;
-    max-width: 1650px;
-    margin-top: 30px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+
+       
+  .center {
+      margin: 120px auto;
+      max-width: 1080px
+  }
+
+  .center .services{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center
+  }
+  
+  .center .services .frame {
+      min-height: 330px;
+      min-width: 330px;
+      border-radius: 50%;
+      overflow: hidden;
+      position: relative;
+      margin: 15px
+  }
+  
+  .center .services .foto {
+      height: 330px;
+      width: 330px;
+      border-radius: 50%;
+      position: absolute
+  }
+  
+  .center .services .foto:active,
+  .center .services .foto:focus,
+  .center .services .foto:hover{
+      -webkit-filter: blur(5px);
+      -moz-filter: blur(5px);
+      -o-filter: blur(5px);
+      -ms-filter: blur(5px);
+      filter: blur(5px);
+      transform: scale(1.1);
+      -webkit-transform: scale(1.1);
+      -webkit-transition: transform .5s ease-in-out;
+      -moz-transition: transform .5s ease-in-out;
+      -ms-transition: transform .5s ease-in-out;
+    
+  } 
+  .center .services .middle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      
+  }
+  
+  .center .services .frame a .middle p {
+      text-decoration: none;
+      font-family: 'Open Sans';
+      font-weight: 700;
+      font-size: 26px;
+      color: #fff;
+      line-height: 98%
+  }
+     .uno{
+     left: 5%;
+     top: -165%;
+     }
+     .dos{
+     left: -2%;
+     top: -130%;
+     }
+     .tres{
+     left: 8px;
+     top: -54px;
+     }
+     .cuatro{
+          left: -58px;
+        bottom: -75px;
+     }
+     .cinco{
+          top: -30px;
+         left: 25px;
+       }
+       .seis{
+          top:  -40px;
+         left: 22px;
+       }
+.spoiler{
+opacity: 0;
+position:absolute;
+-webkit-transform:perspective(2000px) rotateY(-180deg);
+   -moz-transform:perspective(2000px) rotateY(-180deg);
+    -ms-transform:perspective(2000px) rotateY(-180deg);
+     -o-transform:perspective(2000px) rotateY(-180deg);
+        transform:perspective(2000px) rotateY(-180deg);
+-webkit-transition:all .5s ease;
+   -moz-transition:all .5s ease;
+     -o-transition:all .5s ease;
+        transition:all .5s ease;
+
 }
 
-.our-services .box .son {
-    background: #fff;
-    width: 500px;
-    margin-left: 30px;
-    margin-right: 30px;
-    border: 5px #000 solid;
-    border-radius: 20px;
-    text-align: center;
-    padding: 35px;
-    margin-bottom: 60px
+.frame:hover .spoiler, .frame:focus .spoiler, .frame:active .spoiler{
+-webkit-transform:perspective(2000px) rotateY(0deg);
+   -moz-transform:perspective(2000px) rotateY(0deg);
+    -ms-transform:perspective(2000px) rotateY(0deg);
+     -o-transform:perspective(2000px) rotateY(0deg);
+        transform:perspective(2000px) rotateY(0deg);
+        opacity: 1;
 }
 
-.our-services .box .son a {
-    text-decoration: none;
-    color: #000
+.noSpoiler{
+-webkit-transform:perspective(2000px) rotateY(0deg);
+   -moz-transform:perspective(2000px) rotateY(0deg);
+    -ms-transform:perspective(2000px) rotateY(0deg);
+     -o-transform:perspective(2000px) rotateY(0deg);
+        transform:perspective(2000px) rotateY(0deg);
+-webkit-transition:all .5s ease;
+   -moz-transition:all .5s ease;
+     -o-transition:all .5s ease;
+        transition:all .5s ease;
 }
 
-.box {
-    overflow: hidden;
-    display: flex;
-    width: 100%;
-    height: auto;
-    justify-content: space-around;
-    flex-wrap: wrap
+.frame:hover .noSpoiler, .frame:active .noSpoiler, .frame:focus .noSpoiler{
+-webkit-transform:perspective(2000px) rotateY(180deg);
+   -moz-transform:perspective(2000px) rotateY(180deg);
+    -ms-transform:perspective(2000px) rotateY(180deg);
+     -o-transform:perspective(2000px) rotateY(180deg);
+        transform:perspective(2000px) rotateY(180deg);
+opacity:0;
 }
-
+     
+     
+       
 .cotizacion amp-img{
  display: block;
          margin-left: auto;
@@ -800,53 +899,86 @@ h2 {
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/our-services.php">Services /</a></li>
-        <li><a href="/services/insurance-services.php">Insurance Services /</a></li>
-        <li><a href="/services/commercial-insurance.php"  class="active">Commercial Insurance</a></li>
+        <li><a href="https://beeinsured.co/index">Home /</a></li>
+        <li><a href="https://beeinsured.co/our-services">Services /</a></li>
+        <li><a href="https://beeinsured.co/services/insurance-services">Insurance Services /</a></li>
+        <li><a href="https://beeinsured.co/services/commercial-insurance"  class="active">Commercial Insurance</a></li>
     </ol>
 
     <div class="intro">
-        <p>When you <strong>own a business</strong>, you have a lot to protect, and the right insurance coverage can be important to your continued success, thats why in <strong>Bee Insured</strong> we work hard to find the best in insurance with lower rates for your business.</p>
-       
+        <p>When you <strong>own a business</strong>, you have a lot to protect, and the right insurance coverage can be important to your continued success, thats why in <strong>Bee Insured</strong> we work hard to find the best in insurance with lower rates for your business.</p> 
     </div>
         
-     <div class="our-services">
         
-        <div class="box">
-            <div class="son"><a href="/services/general-liability.php">
-                 <amp-img src="/img/services/general-liability.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>General Liability</h2><br>
-                <p>General Liability insurance can prevent a legal suit from turning into a financial protection in case your business is ever sued or held legally responsible for some injury or damage.</p>
-           </a> </div>
-            <div class="son"><a href="/services/workers-compensation.php">
-                 <amp-img src="/img/services/workers-compensation.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Workers Compensation</h2><br>
-                <p>Workers' Compensation Insurance is designed to help companies pay benefits as a protection for employees, most states require that employers carry some form of Workers' Compensation insurance.</p>
-            </a></div>
-             <div class="son"><a href="/services/business-insurance.php">
-                 <amp-img src="/img/services/business-insurance.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Business Insurance</h2><br>
-                <p>Coverages: General Liability Insurance, Business Owner's Policy, Commercial Auto Insurance and Workers Compensation</p>
-            </a></div>
-             <div class="son"><a href="/services/bond.php">
-                 <amp-img src="/img/services/bond.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Bond</h2><br>
-                <p>An issuer of a Bond can purchase Bond Insurance to guarantee scheduled payments of interest and principal on the Bond to its bond holders in case the issuer defaults.</p>
-            </a></div>
-             <div class="son"><a href="/services/commercial-vehicle.php">
-                 <amp-img src="/img/services/commercial-vehicle.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Commercial Vehicle</h2><br>
-                <p>Coverages: Physical Damage, Commercial Auto, Auto-Truckers, Truckers, Cargo/Inland Marine, Commercial Auto-Mono, Transportation and Tracking</p>
-            </a></div>
-             <div class="son"><a href="/services/inland-marine-tool.php">
-                 <amp-img src="/img/services/inland-marine-tool-equipment.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Inland Marine Tool and Equipment</h2><br>
-                <p>It covers your hands tool, power tools, and other daily tools from theft, vandalism, and physical damage, except for general ware and tear.</p>
-            </a></div>
-          
-        </div>
-    </div>
+        <div class="center">
+            <div class="services">
+   <div class="frame">
+<a href="#"><amp-img class="foto" src="https://beeinsured.co/img/circle-2.jpg" width="330" height="330" layout="responsive"></amp-img> 
+       <div class="middle">
+       <div class="spoiler uno">
+         <amp-img src="https://beeinsured.co/img/services/workers-compensation-white.png" width="180" height="180"></amp-img>
+       </div>
+<div class="noSpoiler">
+     <p>Workers Compensation</p>
+     </div> 
+     </div>   </a>
+</div>
+ <div class="frame">
+<a href="https://beeinsured.co/services/general-liability"><amp-img class="foto" src="https://beeinsured.co/img/circle-1.jpg" width="330" height="330" layout="responsive"></amp-img> 
+     <div class="middle">
+       <div class="spoiler dos">
+         <amp-img src="https://beeinsured.co/img/services/general-liability-white.png" width="175" height="175"></amp-img>
+       </div>
+<div class="noSpoiler">
+     <p>General Liability</p>
+     </div> 
+     </div>   </a>
+</div>
+ <div class="frame">
+   <a href="https://beeinsured.co/services/commercial-vehicle">
+  <amp-img class="foto" src="https://beeinsured.co/img/circle-3.jpg" width="330" height="330"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img> 
+   <div class="middle"> 
+   <div class="spoiler tres">
+   <amp-img class="icon" src="https://beeinsured.co/img/services/commercial-vehicle-white.png" width="165" height="165"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+     </div>
+      <div class="noSpoiler">
+     <p>Commercial Vehicle</p> </div> </div></a>
+  </div> 
+  <div class="frame">
+   <a href="https://beeinsured.co/services/bond">
+ <amp-img class="foto" src="https://beeinsured.co/img/circle-4.jpg" width="330" height="330"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <div class="middle"> 
+   <div class="spoiler cuatro">
+   <amp-img class="icon" src="https://beeinsured.co/img/services/bond-white.png" width="180" height="180"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+     </div>
+      <div class="noSpoiler">
+     <p>Bond</p> </div> </div></a>
+  </div> 
+  <div class="frame">
+   <a href="https://beeinsured.co/services/bond">
+ <amp-img class="foto" src="https://beeinsured.co/img/circle-5.jpg" width="330" height="330"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <div class="middle"> 
+   <div class="spoiler cinco">
+   <amp-img class="icon" src="/img/services/small-white.png" width="115" height="115"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+     </div>
+      <div class="noSpoiler">
+     <p>Small Business</p> </div> </div></a>
+  </div> 
+  
+  
+    <div class="frame">
+   <a href="https://beeinsured.co/services/bond">
+ <amp-img class="foto" src="/img/circle-6.jpg" width="330" height="330"  layout="responsive" alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+   <div class="middle"> 
+   <div class="spoiler seis">
+   <amp-img class="icon" src="/img/services/tool-white.png" width="120" height="120"  alt="Workers compensation insurance" title="Workers Compensation Insurance"></amp-img>
+     </div>
+      <div class="noSpoiler">
+     <p>Tool & Equipment</p> </div> </div></a>
+  </div> 
+</div> 
+   </div>
+
 
     <?php include('../quote-general.php');?>
 

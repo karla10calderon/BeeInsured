@@ -42,9 +42,8 @@
   <br>
        <div class="options">
             <select name=“Service” id="status">
-                <option value=“Business”>Business Loans</option>
+               <option value=“Insurance”>Insurance Services</option>
                 <option value=“Certificates”>Certificates</option>
-<option value=“Insurance”>Insurance Services</option>
            </select> 
            <label for="Service"
       class="opt">Service</label>   
