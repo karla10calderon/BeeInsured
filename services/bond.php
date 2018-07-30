@@ -804,7 +804,7 @@ We deal only with the most trusted sureties, and have a proven record of placing
  <!--Bond Quote-->
         <form 
         method="post"
-       action-xhr="http://104.236.136.43/api/addRequest"
+       action-xhr="https://panel.beeinsured.co/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

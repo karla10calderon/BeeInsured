@@ -808,7 +808,7 @@ h1 {
        
  <!--General Liability Quote-->
         <form method="post"
-       action-xhr="http://104.236.136.43/api/addRequest"
+       action-xhr="https://panel.beeinsured.co/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

@@ -810,7 +810,7 @@ h1 {
          <amp-img src="../img/John.png" width="328" height="380"  alt="#" title="#"></amp-img>
  <!--Business Loans Quote-->
         <form method="post"
-       action-xhr="http://104.236.136.43/api/addRequest"
+       action-xhr="https://panel.beeinsured.co/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

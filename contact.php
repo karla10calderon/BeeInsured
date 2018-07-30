@@ -758,8 +758,8 @@ input[type=submit] {
         <div class="hijo">
              <p class="section">Get a quote</p>
             <form 
-            method="post"
-            action-xhr="http://104.236.136.43/api/addRequest"       
+            method="post" 
+            action-xhr="https://panel.beeinsured.co/api/addRequest"
   target="_top">
  
   <div class="jobform">
