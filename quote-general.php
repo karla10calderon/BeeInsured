@@ -1,14 +1,7 @@
-
-      <div class="cotizacion">
-          <amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
-        
-     
-        
-        <div class="formulario">
-
-        <!--FORMULARIO CORTO DE CONTACTO-->
+<div class="cotizacion"><amp-img src="https://beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img><div class="formulario">
+<!--FORMULARIO CORTO DE CONTACTO-->
        <form method="post"
-    action-xhr="resultados-form.php"
+    action-xhr="https://panel.beeinsured.co/api/addRequest"
     target="_top"
     class="quote">
     <fieldset>

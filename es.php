@@ -1,18 +1,17 @@
 <!doctype html>
-<html amp>
+<html amp lang="es">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Steps that build your future </title>
-    <link rel="canonical" lang="en" href="https://beeinsured.co">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Bee Insured, Steps that build your future - En español</title>
+    <link rel="canonical"  href="https://beeinsured.co/es.php">
+    <link rel="alternate" lang="en" href="https://beeinsured.co">
+    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="DESCRIP">
     <meta name="keywords" content="KEYWORDS">
     <meta name="author" content="BeeInsured">
-
 
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -20,194 +19,32 @@
     <meta name="twitter:creator" content="@AMPhtml">
     <meta name="twitter:title" content="Lorem Ipsum">
     <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.">
-    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-    <!--CARROUSEL AMP -->
-    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <meta name="twitter:image" content="#">
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-    <!--PARALLAX -->
-    <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
+        <!--ACORDION FORMULARIO-->
+     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+    <!--MUSTACHE FORM-->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.1.js"></script>
     <!--BACK TO TOP-->  
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-      
     <!--SEARCH BOX-->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
- <style amp-custom>*{padding:0;margin:0}header{position:fixed;top:0;width:100%;z-index:100}.top{background:#eda921;height:200px;display:flex;align-items:center}.top .logo{display:block;margin-left:auto;margin-right:auto}.menu-desktop{background:#000;height:70px;overflow:hidden;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-items:center}.social-media{float:left}.social-media li{display:inline-block;padding:20px}hr{border:1px solid #fff;margin:10px}.navbar{font-family:'Open Sans';display:block;margin-left:auto;margin-right:auto}.navbar a{float:left;font-size:24px;color:#fff;text-align:center;padding:13px;text-decoration:none}.dropdown{float:left;overflow:hidden}.dropdown .dropbtn{font-size:24px;border:0;outline:0;color:#fff;padding:13px;background-color:inherit;font-family:inherit;margin:0}.navbar a:hover{color:#eda921}.dropdown:hover .dropbtn{color:#eda921}.dropdown-content{display:none;position:absolute;background-color:#4f4f4f;min-width:160px;box-shadow:0 8px 16px 0 rgba(0,0,0,.5);z-index:1}.dropdown-content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;text-align:left}.dropdown-content a:hover{background-color:#eda921;color:#000}.dropdown:hover .dropdown-content{display:block}.searchboxelements{display:inline-block}.searchboxelements input[type=search]{background-color:#00000000;background-image:url(/img/search.png);background-position:3px 3px;background-repeat:no-repeat;padding-left:38px;-webkit-transition:width 0.5s ease-in-out;transition:width 0.5s ease-in-out;height:35px;color:#fff;font-family:'Open Sans';width:20%;box-sizing:border-box;border:none;border-radius:4px;font-size:16px;float:right}.searchboxelements input[type=search]:focus{width:100%;background-color:#fff;color:#000}.lang{float:right;margin-right:30px;margin-left:30px}.lang a{text-decoration:none;font-family:'Open Sans';font-size:18px;padding:10px;color:#fff}.lang a:hover{color:#eda921}a:active{color:#eda921}.menu-responsive{background:#000;height:70px;font-family:'Open Sans';width:100%}.menu-responsive .hamburger{float:right;background-color:#000;color:#fff;margin:8px;padding:5px;border:0;font-size:36px;outline:0}.menu-responsive .hamburger:hover{color:#eda921}.content{display:none;position:absolute;background-color:#4f4f4f;width:100%;top:260px;box-shadow:0 8px 16px 0 rgba(0,0,0,.5);z-index:1;text-align:center}.content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;border-bottom:1px solid #000}.content a:hover{background-color:#eda921;color:#000}.menu-responsive:hover .content{display:block}.menu-responsive .content .searchboxelements{padding:10px;height:30px}.menu-responsive .espanol a{border:0;background:0}.menu-responsive .espanol{display:flex;background-color:#000;border:0;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:center}amp-carousel{margin-top:270px;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center;position:relative}amp-carousel a{text-decoration:none}amp-carousel a p{background-color:#214460;color:#fff;font-family:'Open Sans';font-size:36px;text-align:left;font-weight:lighter;padding:1.8%;border-radius:8px;position:absolute;top:26%;left:12%;z-index:1}.formulario{margin:5px;background-color:#fff;text-align:center;padding:15px;margin-top:40px;margin-bottom:40px}.formulario fieldset{border:none}.formulario form{background-color:#fff;padding:18px;border-radius:10px;font-family:'Open Sans';border:2px solid #ccc}.formulario .quote{width:30%;display:block;margin-left:auto;margin-right:auto}.formulario .quote input[type=text],.formulario input[type=email]{background-color:#fff;display:block;margin-left:auto;margin-right:auto;margin-bottom:-10px;width:95%;height:20px;font-family:'Open Sans';font-size:18px;padding:8px;border-radius:8px;border:1px solid #ccc;color:#000}.formulario .quote input[type=text]::placeholder,.formulario .quote input[type=email]::placeholder{color:#b2b2b2;opacity:1}.formulario fieldset{border:none}.formulario input[type=submit]{background-color:#EDA921;color:#000;font-weight:700;text-decoration:none;padding:10px;font-family:'Open Sans';font-size:18px;border-radius:9px;margin-top:15px;float:right;border:none;-webkit-transition:background-color 0.4s ease-out;-moz-transition:background-color 0.4s ease-out;-o-transition:background-color 0.4s ease-out;transition:background-color 0.4s ease-out}.formulario input[type=submit]:hover{background-color:#000;color:#EDA921;cursor:pointer}.formulario .options{display:flex;flex-direction:row-reverse;flex-wrap:nowrap;justify-content:flex-start;align-items:center;width:95%;font-family:'Open Sans';font-size:16px;padding:8px;margin-bottom:-10px;margin-left:auto;margin-right:auto;background-color:#fff;border-radius:8px;border:1px solid #ccc}.formulario .options .opt{padding:7px;color:#000;font-weight:700;height:auto;overflow:inherit;width:55%;font-family:'Open Sans';font-size:14px}.formulario .options #status{right:0;padding:7px;width:45%;text-align:center;background:url(/img/arrow-down2-56.png) no-repeat 2px;background-color:#fff;background-position:right;font-family:'Open Sans';font-size:14px;border-left:1px solid #ccc}.formulario .options select{border:0;background:#fff;-webkit-appearance:none}.our-services{background:#fff;width:100%;margin-top:30px;margin-bottom:40px}.our-services .title-section{text-align:center;display:inline;margin-bottom:40px}.our-services a{text-decoration:none;color:#000}.our-services .box .son{background:#fff;max-width:335px;height:155px;border:5px #000 solid;border-radius:20px;text-align:center;padding:25px;margin:25px}.box{overflow:hidden;display:flex;width:100%;height:auto;justify-content:center;flex-wrap:wrap}h1{font-family:'Open Sans';font-size:36px;font-weight:700;text-align:center;margin-bottom:40px}h2{font-family:'Open Sans';font-size:24px;font-weight:700;text-align:center}p{font-family:'Open Sans';font-size:16px;font-weight:300;text-align:left}.slogan{height:280px;width:100%;align-items:center;display:flex;justify-content:center}.slogan p{font-family:'Open Sans';font-size:48px;font-weight:400;text-align:center}footer{background:#000;width:100%;height:260px;display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;flex-direction:row}footer .statement{font-family:'Open Sans';color:#fff;font-size:18px;font-weight:700;margin:auto;display:inline-block}footer .statement a{font-family:'Open Sans';color:#fff;font-size:12px;font-weight:700;font-style:none;text-decoration:none}footer .follow{display:block;margin-left:auto;margin-right:auto}footer .follow p{font-family:'Open Sans';color:#fff;font-size:12px;font-weight:700;text-align:center}footer .follow li{display:inline-block;padding:10px}.parallaxamp{position:relative;overflow:hidden}.parallaxamp h3{font-family:'Open Sans';position:absolute;text-align:left;z-index:1;overflow:hidden;font-size:26px;margin-left:40%;margin-right:5%}.opinion{background-color:black;color:#fff}.parallax-image-window{overflow:hidden}.parallax-image-window amp-img{margin-bottom:-30%}@media only screen and (max-width:600px){.menu-desktop{display:none}.parallaxamp h3{font-size:12px;margin-left:15%;margin-right:5%}amp-carousel a p{font-size:12px;padding:5px;top:9%;left:6%}amp-carousel .quote{display:none}.formulario .quote{width:90%}}@media only screen and (max-width:1199px) and (min-width:601px){.menu-desktop{display:none}.parallaxamp h3{font-size:16px;margin-left:20%;margin-right:5%}amp-carousel a p{font-size:16px;padding:10px;top:10%;left:12%}.formulario .quote{width:70%}}@media(min-width:1200px){.menu-responsive{display:none}}.scrollToTop{color:#000;font-size:1.4em;box-shadow:0 1px 1.5px 0 rgba(0,0,0,.12),0 1px 1px 0 rgba(0,0,0,.24);width:50px;height:50px;border-radius:100px;border:none;outline:none;background:#eda921;z-index:200;bottom:10px;right:10px;position:fixed;opacity:0;visibility:hidden}#marker{position:absolute;top:100px;width:0;height:0}</style>
+ <style amp-custom>.menu-desktop li a,.top .contact p{font-family:'Open Sans'}.content,.menu-desktop li:hover ul a{box-shadow:0 8px 16px 0 rgba(0,0,0,.5)}.content,.top .contact{right:0;list-style:none}.content a,.menu-desktop li a,.nav2 .lang a,footer a,footer p{text-decoration:none}*{padding:0;margin:0}.top{background-color:#EDA921;text-align:center;align-items:center;position:relative}.top amp-img{margin:15px}.top .contact{position:absolute;top:0;padding-right:80px;display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-around;align-items:center;margin-top:15px}.menu-desktop li,.top .contact li{display:inline-block}.top .contact amp-img{margin-right:10px}.top .contact p{font-size:25px;font-weight:700;color:#000;text-align:left}.top .contact li{float:left}.menu-desktop{width:100%;height:60px;background-color:#000}.menu-desktop ul{list-style-type:none;position:absolute}.menu-desktop .barra{width:110px;padding-left:5px;padding-right:5px}.menu-desktop .nav{padding-left:4%}.menu-desktop li a{display:block;min-width:130px;height:60px;text-align:center;line-height:50px;font-size:18px;color:#fff}.nav2 .lang a,.nav2 .searchboxelements input[type=search]{font-size:16px;font-family:'Open Sans'}.menu-desktop li:hover a{color:#EDA921}.menu-desktop li:hover ul a{background:#214460;color:#fff;height:40px;line-height:40px;text-align:left}.content,amp-accordion section[expanded],footer,footer .follow,footer .follow ul,h1,p{text-align:center}.menu-desktop li:hover ul a:hover{background:#EDA921;color:#fff}.menu-desktop li ul{display:none;z-index:1}.menu-desktop li ul li{display:block;float:none}.menu-desktop li ul li a{min-width:100px;padding:0 20px}.hidden:hover,.menu-desktop ul li a:hover+.hidden{display:block}.menu-desktop .column{float:left;width:250px}.nav2{float:right;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-items:center}.nav2 .lang a{color:#fff;font-weight:700;margin-left:5px;margin-right:5px}.nav2 .lang a:active,.nav2 .lang a:focus,.nav2 .lang a:hover{color:#eda921}.nav2 .searchboxelements{display:inline-block;margin:10px;padding-right:6%}.nav2 .searchboxelements input[type=search]{background-image:url(/img/search.png);background-position:3px 3px;background-repeat:no-repeat;padding-left:38px;height:40px;box-sizing:border-box;border:none;border-radius:5px;background-color:#fff;color:#000;font-weight:100}.menu-responsive{background:#000;height:50px;font-family:'Open Sans';width:100%}.menu-responsive .hamburger{float:right;background-color:#000;color:#fff;margin-right:25px;border:0;font-size:36px;outline:0}.content amp-accordion h4,.menu-responsive .searchboxelements input[type=search],p{font-size:16px;font-family:'Open Sans'}.menu-responsive .hamburger:active,.menu-responsive .hamburger:focus,.menu-responsive .hamburger:hover,.menu-responsive li:hover{color:#eda921}.content{display:none;position:absolute;background-color:#000;width:60%;top:167px;z-index:1000}.content a{float:none;color:#fff;padding:10px;display:block;border-bottom:solid .5px #2c2c2c;border-top:solid .5px #2c2c2c}.content li:active,.content li:focus,.content li:hover{background-color:#eda921;color:#000;transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease;-o-transition:all .4s ease}.content amp-accordion section ul{background-color:#214460}.content amp-accordion h4{color:#fff;font-weight:400}amp-accordion section:not([expanded]) h4,amp-accordion section[expanded] h4{border:none;border-bottom:solid 1px rgba(0,0,0,.5);height:40px;background-color:#000;margin-top:8px}i{border:solid #eda921;border-width:0 3px 3px 0;display:inline-block;padding:3px;margin:4px}.down{transform:rotate(45deg);-webkit-transform:rotate(45deg)}.menu-responsive:active .content,.menu-responsive:focus .content,.menu-responsive:hover .content{display:block}.menu-responsive .searchboxelements,footer .follow li{display:inline-block}.menu-responsive .searchboxelements input[type=search]{background-image:url(/img/search.png);background-position:5px 5px;background-repeat:no-repeat;padding-left:45px;height:50px;box-sizing:border-box;border:none;background-color:#fff;color:#000;min-width:610px}footer,footer .info{width:100%;background-color:#000}p{font-weight:300}footer{min-height:200px}footer a,footer p{color:#fff;font-family:'Open Sans';font-size:14px;font-weight:100}footer .follow{padding:55px}footer .follow li{padding:15px}footer .info{min-height:100px}footer .info .statement{padding:25px}footer .info .statement a{font-weight:700}@media (max-width:575.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:576px) and (max-width:767.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:768px) and (max-width:1049.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:1050px) and (max-width:1199.98px){.menu-responsive{display:none}}@media (min-width:1200px){.menu-responsive{display:none}}.principal{background-image:url(es/img/back.jpg);height:820px;background-position:center;background-repeat:no-repeat;background-size:cover}h1{font-family:'Fira Sans';font-size:36px;font-weight:400;color:#fff;padding-top:160px}</style>
 </head>
-
 <body>
-    <div id="top-page"></div>
-    <amp-animation id="showAnim"
-  layout="nodisplay">
-  <script type="application/json">
-    {
-      "duration": "200ms",
-      "fill": "both",
-      "iterations": "1",
-      "direction": "alternate",
-      "animations": [{
-        "selector": "#scrollToTopButton",
-        "keyframes": [{
-          "opacity": "1",
-          "visibility": "visible"
-        }]
-      }]
-    }
-  </script>
-</amp-animation>
-    
-    
-<amp-animation id="hideAnim"
-  layout="nodisplay">
-  <script type="application/json">
-    {
-      "duration": "200ms",
-      "fill": "both",
-      "iterations": "1",
-      "direction": "alternate",
-      "animations": [{
-        "selector": "#scrollToTopButton",
-        "keyframes": [{
-          "opacity": "0",
-          "visibility": "hidden"
-        }]
-      }]
-    }
-  </script>
-</amp-animation>
-<div id="marker">
-  <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start"
-    layout="nodisplay">
-  </amp-position-observer>
-</div>
-  
+<div class="top"><ul class="contact"><li><amp-img src="https://beeinsured.co/img/Black-Phone-Icon.png" alt="#" title="#" height="35" width="35"></amp-img></li><li><p>1 844 468 7400</p></li></ul><a href="https://beeinsured.co"><amp-img class="logo" src="https://beeinsured.co/img/Logo-BeeInsured.png" alt="Bee Insured Steps that build your future" title="Logo Bee Insured" height="83" width="252"></amp-img></a></div><div class="menu-desktop"><ul class="nav"><li class="barra"><a href="https://beeinsured.co">Home</a></li><li><a href="https://beeinsured.co/services/insurance-services" class="barra">Insurance</a><ul class="hidden"><div class="column"><li><a href="https://beeinsured.co/services/workers-compensation">Workers Compensation</a></li><li><a href="https://beeinsured.co/services/general-liability">General Liability</a></li><li><a href="https://beeinsured.co/services/commercial-vehicle">Commercial Vehicle</a></li><li><a href="https://beeinsured.co/services/bond">Bond</a></li></div><div class="column"><li><a href="#">Small Business</a></li><li><a href="https://beeinsured.co/services/inland-marine-tool">Tool & Equipment</a></li><li><a href="#">Excess & Umbrella</a></li><li><a href="https://beeinsured.co/services/personal-lines">Personal Lines</a></li></div></ul></li><li class="barra"><a href="https://beeinsured.co/services/certificates">Certificates</a></li><li><a href="https://beeinsured.co/contact">Contact</a><ul class="hidden"><div class="column"><li><a href="https://beeinsured.co/job-opportunities">Job Opportunities</a></li><li><a href="https://beeinsured.co/our-partners">Our Partners</a></li><li><a href="https://beeinsured.co/about-us">About Us</a></li><li><a href="https://beeinsured.co/our-team">Team</a></li></div></ul></li><li class="barra blog"><a href="#">Blog</a></li></ul><div class="nav2"><div class="lang"><a href="https://beeinsured.co">Inglés</a></div><form class="searchbox" action="/components/amp-form/submit-form" target="_top"><div class="searchboxelements"><input type="search" placeholder="Search..." name="googlesearch"></div></form></div></div>
+<!--MENU RESPONSIVO--><div class="menu-responsive"><button class="hamburger">☰</button><ul class="content"><form class="searchbox" action="/components/amp-form/submit-form" target="_top"><div class="searchboxelements"><input type="search" placeholder="Search..." name="googlesearch"></div></form><li><a href="https://beeinsured.co">Home</a></li><amp-accordion animate><section><h4>Insurance <i class="down"></i></h4><ul><li><a href="https://beeinsured.co/services/workers-compensation">Workers Compensation</a></li><li><a href="https://beeinsured.co/services/general-liability">General Liability</a></li><li><a href="https://beeinsured.co/services/commercial-vehicle">Commercial Vehicle</a></li><li><a href="https://beeinsured.co/services/bond">Bond</a></li><li><a href="#">Small Business</a></li><li><a href="https://beeinsured.co/services/inland-marine-tool">Tool & Equipment</a></li><li><a href="#">Excess & Umbrella</a></li><li><a href="https://beeinsured.co/services/personal-lines">Personal Lines</a></li></ul></section></amp-accordion><li><a href="https://beeinsured.co/services/certificates">Certificates</a></li><amp-accordion animate><section><h4>Contact <i class="down"></i></h4><ul><li><a href="https://beeinsured.co/job-opportunities">Job Opportunities</a></li><li><a href="https://beeinsured.co/our-partners">Our Partners</a></li><li><a href="https://beeinsured.co/about-us">About Us</a></li><li><a href="https://beeinsured.co/our-team">Team</a></li></ul></section></amp-accordion><li><a href="#">Blog</a></li></ul></div>
+<nav class="principal">
+<h1>Lo sentimos<br> <strong>estamos en construcción</strong></h1>
+</nav>
 
-      <?php include ('es/menu.php'); ?>
-    
-
-
-    <!--CARROUSEL-->
-    <amp-carousel width="1920" height="395" layout="responsive" type="slides" autoplay delay="3500">
-        <a href="/services/compensacion-trabajadores.php"><p><b>Ayudamos a</b> cientos de<br> contratistas en California<br>con sus <b>necesidades de seguros</b></p>
-            <amp-img src="es/img/carrousel/compensacion-trabajadores.jpg" width="1920" height="395" layout="responsive" alt="Seguro compensación para trabajadores" title="Seguro compensación para trabajadores"></amp-img>
-       </a>
-        <a href="#">
-            <amp-img src="es/img/carrousel/service-2.jpg" width="1920" height="395" layout="responsive" alt="another sample image"></amp-img>
-        </a>
-        <a href="#">
-            <amp-img src="img/carrousel/service-3.jpg" width="1920" height="395" layout="responsive" alt="and another sample image"></amp-img>
-        </a>
-        <a href="/services/certificados.php"><p>Obtenga un <strong>Certificado<br> de seguros</strong> hoy</p>
-            <amp-img src="es/img/carrousel/certificados-seguros.jpg" width="1920" height="395" layout="responsive" alt="Certificados de seguros" title="Certificados de seguros"></amp-img>
-        </a>
-    </amp-carousel>
-
-        <div class="formulario">
-  
-       <form method="post"
-    action-xhr="http://104.236.136.43/api/addRequest"
-    target="_top"
-    class="quote">
-    <fieldset>
-      <label>
-        <input type="text"
-          name="nombre"
-          placeholder="Nombre"
-          required>
-      </label>
-      <br>
-      <label>
-        <input type="text"
-          name="Apellido"
-          placeholder="Apellido"
-          required>
-      </label>
-      <br>
-      <label>
-        <input type="email"
-          name="Email"
-          placeholder="Email"
-          required>
-      </label>
-      <br>
-      <label>
-         <input type="text"
-          name="Teléfono"
-          placeholder="Teléfono"
-          required>
-      </label>
-  <br>
-       <div class="options">
-            <select name=“Service” id="status">
-                <option value=“Business”>Préstamos a negocios</option>
-                <option value=“Certificates”>Certificados</option>
-<option value=“Insurance”>Servicios de seguros</option>
-           </select> 
-           <label for="Service"
-      class="opt">Servicio</label>   
-        </div>
-      <input type="submit"
-        value="Enviar">
-    </fieldset>
-    
-    <!--ESTILOS Y APARICION DE ENVIO EXITOSO-FALLIDO, AUN FALTA -->
-    <div submit-success>
-      <template type="amp-mustache">
-        Subscription successful!
-      </template>
-    </div>
-    <div submit-error>
-      <template type="amp-mustache">
-        Subscription failed!
-      </template>
-    </div>
-  </form>      
-                 </div>
-   
-
-
-   
-    <div class="our-services">
-        <div class="title-section">
-            <a href="our-services"><h1>Nuestros Servicios </h1></a>
-        </div>
-        <div class="box">
-            <a href="/services/prestamos-negocios.php"><div class="son">
-                <amp-img src="es/img/services/prestamos-negocios.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Préstamos a negocios</h2><br><!-- 
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
-            </div></a>
-           <a href="/services/servicios-seguros.php"> <div class="son">
-                <amp-img src="es/img/services/servicios-seguros.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Servicios de seguros</h2><br>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
-            </div></a>
-           <a href="/services/certificados.php"> <div class="son">
-                <amp-img src="es/img/services/certificados.png" width="60" height="60" alt="#" title="#"></amp-img>
-                <h2>Certificados</h2><br>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
-            </div></a>
-        </div>
-    </div>
-
-<div class="parallaxamp">
-    <h3 amp-fx="parallax" data-parallax-factor="0.8">
-        <span class="opinion">"Mi negocio completó varios contratos de construcción a lo largo del año y han sido muy útiles para cumplir con todos de los requisitos para mi empresa y para mis clientes” <br> <br>-JERRY O. 
-</span>
-    </h3>
-    <amp-img width="3501" height="1191" layout="responsive" src="es/img/opinion.png"></amp-img>
-    </div>
-
-
-    <div class="slogan">
-        <p>Steps that build your future</p>
-    </div>
-  <button id="scrollToTopButton"
-  on="tap:top-page.scrollTo(duration=200)"
-  class="scrollToTop">⌃</button>
 </body>
-<?php include ('es/footer.php'); ?>
+    <!--FOOTER-->
+ <footer><div class="follow"><p>Follow Us</p><ul><li><a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank"><amp-img src="https://www.beeinsured.co/img/social-media/Facebook-BeeInsured-White.png" alt="" height="40" width="40"></amp-img></a></li><li><a href="https://twitter.com/InsuredBee" target="_blank"><amp-img src="https://www.beeinsured.co/img/social-media/Twitter-BeeInsured-White.png" alt="" height="40" width="40"></amp-img></a></li><li><a href="#" target="_blank"><amp-img src="https://www.beeinsured.co/img/social-media/Instagram-BeeInsured-White.png" alt="" height="40" width="40"></amp-img></a></li><li><a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank"><amp-img src="https://www.beeinsured.co/img/social-media/Youtube-BeeInsured-White.png" alt="" height="40" width="40"></amp-img></a></li><li><a href="https://plus.google.com/109911843397009123579" target="_blank"><amp-img src="https://www.beeinsured.co/img/social-media/google-BeeInsured-white.png
+                " alt="" height="40" width="40"></amp-img></a></li><li><a href="#" target="_blank"><amp-img src="https://www.beeinsured.co/img/social-media/yelp-BeeInsured-white.png
+                " alt="" height="45" width="65"></amp-img></a></li></ul></div><div class="info"><div class="statement"><p>Bee Insured Powered By KYC Insurance Sevices LLC Agency License #0I32333<br><a href="https://www.beeinsured.co/privacy-statement">Privacy Statement</a></p></div></div></footer>
 </html>
