@@ -89,8 +89,8 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="../es.php">Inicio /</a></li>
-        <li><a href="/nosotros">Nosotros /</a></li>
+        <li><a href="../es.php">Inicio /&nbsp;</a></li>
+        <li><a href="/nosotros">Nosotros /&nbsp;</a></li>
         <li><a href="/contacto.php" class="active">Contacto</a></li>
     </ol>
 

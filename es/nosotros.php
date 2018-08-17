@@ -92,7 +92,7 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="../es.php">Incio /</a></li>
+        <li><a href="../es.php">Incio /&nbsp;</a></li>
         <li><a href="/nosotros.php" class="active">Nosotros</a></li>
     </ol>
 <!--About Us-->

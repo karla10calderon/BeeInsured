@@ -83,10 +83,10 @@
      <div class="title-section">
             <h1>Formulario fianza</h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Inicio /</a></li>
-        <li><a href="/our-services.php">Servicios /</a></li>
-        <li><a href="/services/commercial-insurance.php">Seguros comerciales /</a></li>
-       <li><a href="/services/bond.php">Fianza /</a></li>
+        <li><a href="/index.php">Inicio /&nbsp;</a></li>
+        <li><a href="/our-services.php">Servicios /&nbsp;</a></li>
+        <li><a href="/services/commercial-insurance.php">Seguros comerciales /&nbsp;</a></li>
+       <li><a href="/services/bond.php">Fianza /&nbsp;</a></li>
        <li><a href="/services/bond-quote.php" class="active">Formulario de fianza</a></li>
     </ol>
 

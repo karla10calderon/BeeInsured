@@ -487,8 +487,8 @@ footer .follow li {
                 <amp-img src="../img/icon.png" width="35" height="35" alt="#" title="#"></amp-img>
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index">Home /</a></li>
-        <li><a href="/blog">Blog /</a></li>
+        <li><a href="/index">Home /&nbsp;</a></li>
+        <li><a href="/blog">Blog /&nbsp;</a></li>
         <li><a href="../blogs/what-do-before-during-after-wildfire.php" class="active">5 things to consider before buying your business insurance policy</a></li>
     </ol>
 

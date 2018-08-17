@@ -90,10 +90,10 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="../../es.php">Inicio /</a></li>
-        <li><a href="/servicios.php">Servicios /</a></li>
-        <li><a href="/services/seguros-comerciales">Seguros comerciales /</a></li>
-       <li><a href="/services/seguro-negocio">Seguros de negocios /</a></li>
+        <li><a href="../../es.php">Inicio /&nbsp;</a></li>
+        <li><a href="/servicios.php">Servicios /&nbsp;</a></li>
+        <li><a href="/services/seguros-comerciales">Seguros comerciales /&nbsp;</a></li>
+       <li><a href="/services/seguro-negocio">Seguros de negocios /&nbsp;</a></li>
        <li><a href="/services/seguro-negocio-formulario" class="active">Formulario Seguros de negocios</a></li>
     </ol>
 

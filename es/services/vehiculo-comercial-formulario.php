@@ -86,10 +86,10 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="../../es.php">Inicio /</a></li>
-        <li><a href="/servicios.php">Servicios /</a></li>
-        <li><a href="/services/seguros-comerciales">Seguro comercial /</a></li>
-       <li><a href="/services/vehiculo-comercial">Vehículo comercial /</a></li>
+        <li><a href="../../es.php">Inicio /&nbsp;</a></li>
+        <li><a href="/servicios.php">Servicios /&nbsp;</a></li>
+        <li><a href="/services/seguros-comerciales">Seguro comercial /&nbsp;</a></li>
+       <li><a href="/services/vehiculo-comercial">Vehículo comercial /&nbsp;</a></li>
        <li><a href="/services/vehiculo-comercial-formulario" class="active">Vehículo comercial formulario</a></li>
     </ol>
 

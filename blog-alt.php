@@ -94,7 +94,7 @@
                 <amp-img src="img/icon.png" width="35" height="35" alt="#" title="#"></amp-img>
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
+        <li><a href="/index.php">Home /&nbsp;</a></li>
         <li><a href="/blog.php" class="active">Blog</a></li>
     </ol>
 

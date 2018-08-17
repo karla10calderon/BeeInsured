@@ -487,8 +487,8 @@ footer .follow li {
                 <amp-img src="../img/icon.png" width="35" height="35" alt="#" title="#"></amp-img>
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index">Home /</a></li>
-        <li><a href="/blog">Blog /</a></li>
+        <li><a href="/index">Home /&nbsp;</a></li>
+        <li><a href="/blog">Blog /&nbsp;</a></li>
         <li><a href="../blogs/4-tips-save-money.php" class="active">4 tips to Save Money</a></li>
     </ol>
 

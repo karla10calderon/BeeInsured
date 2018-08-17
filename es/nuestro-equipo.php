@@ -86,8 +86,8 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="../es.php">Incio /</a></li>
-        <li><a href="/nosotros.php">Nosotros /</a></li>
+        <li><a href="../es.php">Incio /&nbsp;</a></li>
+        <li><a href="/nosotros.php">Nosotros /&nbsp;</a></li>
         <li><a href="/nuestro-equipo.php" class="active">Equipo</a></li>
     </ol>
 

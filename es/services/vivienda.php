@@ -84,10 +84,10 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="../../es.php">Inicio /</a></li>
-        <li><a href="/servicios.php">Servicios /</a></li>
-        <li><a href="/services/servicios-seguros">Servicios de seguros /</a></li>
-        <li><a href="/services/seguros-personales">Seguros personales /</a></li>
+        <li><a href="../../es.php">Inicio /&nbsp;</a></li>
+        <li><a href="/servicios.php">Servicios /&nbsp;</a></li>
+        <li><a href="/services/servicios-seguros">Servicios de seguros /&nbsp;</a></li>
+        <li><a href="/services/seguros-personales">Seguros personales /&nbsp;</a></li>
         <li><a href="/services/vivienda" class="active">Seguro de vivienda</a></li>
        
     </ol>

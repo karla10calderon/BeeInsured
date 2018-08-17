@@ -89,10 +89,10 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-       <li><a href="/index.php">Inicio /</a></li>
-        <li><a href="/our-services.php">Servicios /</a></li>
-        <li><a href="/services/insurance-services.php">Servicios de seguros /</a></li>
-        <li><a href="/services/commercial-insurance.php">Seguros comerciales /</a></li>
+       <li><a href="/index.php">Inicio /&nbsp;</a></li>
+        <li><a href="/our-services.php">Servicios /&nbsp;</a></li>
+        <li><a href="/services/insurance-services.php">Servicios de seguros /&nbsp;</a></li>
+        <li><a href="/services/commercial-insurance.php">Seguros comerciales /&nbsp;</a></li>
         <li><a href="/services/inland-marine-tool.php" class="active">Seguro de equipo y herramienta de trabajo</a></li>
         <li><a href="/services/inland-marine-tool.php">Formulario Seguro de equipo y herramienta de trabajo</a></li>
     </ol>

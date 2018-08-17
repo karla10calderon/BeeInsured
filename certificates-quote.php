@@ -86,9 +86,9 @@
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/index.php">Home /</a></li>
-        <li><a href="/our-services.php">Services /</a></li>
-        <li><a href="/services/certificates.php">Certificates /</a></li>
+        <li><a href="/index.php">Home /&nbsp;</a></li>
+        <li><a href="/our-services.php">Services /&nbsp;</a></li>
+        <li><a href="/services/certificates.php">Certificates /&nbsp;</a></li>
        <li><a href="/services/certificates-quote.php" class="active">Certificates Quote</a></li>
     </ol>
 

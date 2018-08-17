@@ -557,8 +557,8 @@ footer .follow li {
                  
          </h1></div>
     <ol class="breadcrumbs">
-        <li><a href="/es.php">Inicio /</a></li>
-        <li><a href="/es/nosotros">Nosotros /</a></li>
+        <li><a href="/es.php">Inicio /&nbsp;</a></li>
+        <li><a href="/es/nosotros">Nosotros /&nbsp;</a></li>
         <li><a href="/es/equipo" class="active">Equipo</a></li>
     </ol>
 
