@@ -65,7 +65,7 @@
             <form 
                 method="post" 
                 class="searchbox" 
-                action-xhr="https://www.beeinsured.co/api/indexSearch" 
+                action-xhr="https://panel.beeinsured.co/api/indexSearch" 
                 target="_blank"
                 id="search-form"
                 on="submit-success:results.show"
@@ -131,7 +131,7 @@
             <form 
                 method="post" 
                 class="searchbox" 
-                action-xhr="https://www.beeinsured.co/api/indexSearch" 
+                action-xhr="https://panel.beeinsured.co/api/indexSearch" 
                 target="_blank"
                 id="search-form-mobile"
                 on="submit-success:resultsm.show"
