@@ -53,7 +53,7 @@
     <form 
         method="post" 
         class="searchbox" 
-        action-xhr="http://localhost:3000/api/indexSearch" 
+        action-xhr="https://panel.beeinsured.co/api/indexSearch" 
         target="_blank"
         id="search-form"
         on="submit-success:results.show"
