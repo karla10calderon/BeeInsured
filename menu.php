@@ -15,7 +15,18 @@
         overflow: hidden;
         text-overflow: ellipsis;
     }
-    .search-item a{
+    .search-item-mobile {
+        padding-top: 2%;
+        padding-bottom: 2%;        
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .search-item a {
+        color: white;
+        text-decoration: none;
+    }
+    .search-item{
         color: white;
         text-decoration: none;
     }
@@ -47,38 +58,39 @@
     </div> 
 </div>
 
-<!--CAJA HIJO2-->
-<div class="nav2 search-input"> 
-    <!--CAJA HIJO4 -->    
-    <form 
-        method="post" 
-        class="searchbox" 
-        action-xhr="https://panel.beeinsured.co/api/indexSearch" 
-        target="_blank"
-        id="search-form"
-        on="submit-success:results.show"
-        autocomplete="off">
-        <div class="searchboxelements">
-            <input 
-                id="query"
-                name="query"
-                type="search" 
-                placeholder="Search..."
-                on="input-debounced:results.hide"
-                [value]="query || ''">
-        </div>                     
-        <div submit-success id="results" class="search-result">
-            <template type="amp-mustache">
-                {{#data}}
-                    <p class="search-item">
-                        <a href="{{url}}">{{name}}</a>
-                    </p>
-                {{/data}}
-            </template>
-        </div>
-    </form>           
-</div>
 <div class="menu-desktop">
+        <!--CAJA HIJO2-->
+        <div class="nav2 search-input"> 
+            <!--CAJA HIJO4 -->    
+            <form 
+                method="post" 
+                class="searchbox" 
+                action-xhr="https://www.beeinsured.co/api/indexSearch" 
+                target="_blank"
+                id="search-form"
+                on="submit-success:results.show"
+                autocomplete="off">
+                <div class="searchboxelements">
+                    <input 
+                        id="query"
+                        name="query"
+                        type="search" 
+                        placeholder="Search..."
+                        on="input-debounced:results.hide"
+                        [value]="query || ''">
+                </div>                     
+                <div submit-success id="results" class="search-result">
+                    <template type="amp-mustache">
+                        {{#data}}
+                            <p class="search-item">
+                                <a href="{{url}}">{{name}}</a>
+                            </p>
+                        {{/data}}
+                        {{^data}}<p class="search-item">No items founded<p>{{/data}}                
+                    </template>
+                </div>
+            </form>           
+        </div>
       <ul class="nav">
         <li class="barra"><a href="https://beeinsured.co">Home</a></li>
         <li>
@@ -114,11 +126,37 @@
 <div class="menu-responsive">
     <button class="hamburger">&#9776;</button>
     <ul class="content">
-        <form method="GET" class="searchbox" action="/components/amp-form/submit-form" target="_top">
-            <div class="searchboxelements">
-                <input type="search" placeholder="Search..." name="googlesearch">
-            </div>
-        </form>
+        <div class="search-input-mobile"> 
+            <!--CAJA HIJO4 -->    
+            <form 
+                method="post" 
+                class="searchbox" 
+                action-xhr="https://www.beeinsured.co/api/indexSearch" 
+                target="_blank"
+                id="search-form-mobile"
+                on="submit-success:resultsm.show"
+                autocomplete="off">
+                <div class="searchboxelements">
+                    <input 
+                        id="query"
+                        name="query"
+                        type="search" 
+                        placeholder="Search..."
+                        on="input-debounced:resultsm.hide"
+                        [value]="query || ''">
+                </div>                     
+                <div submit-success id="resultsm" class="search-result">
+                    <template type="amp-mustache">
+                        {{#data}}
+                            <p class="search-item">
+                                <a href="{{url}}">{{name}}</a>
+                            </p>
+                        {{/data}}
+                        {{^data}}<p class="search-item">No items founded<p>{{/data}}                
+                    </template>
+                </div>
+            </form>           
+        </div>
         <li><a href="https://beeinsured.co">Home</a></li>    
         <amp-accordion animate>
             <section>
