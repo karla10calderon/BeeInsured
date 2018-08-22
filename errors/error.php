@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bee Insured, Error</title>    
-    <link rel="canonical" href="https://beeinsured.co/errors/error.php">
-    <link rel="alternate" hreflang="es"href="https://beeinsured.co/es/errors/error.php">
-    <link rel="icon" href="https://beeinsured.co/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://www.beeinsured.co/errors/error.php">
+    <link rel="alternate" hreflang="es"href="https://www.beeinsured.co/es/errors/error.php">
+    <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Something went wrong">
     <meta name="keywords" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency">
@@ -25,14 +25,14 @@
     <meta name="twitter:title" content="Bee Insured, Steps that build your future">
     <meta name="twitter:description" content="Something went wrong">
     <!-- Twitter summary card with large image must be at least 300x150px -->
-    <meta name="twitter:image" content="https://beeinsured.co/img/tw/index-tw-card.jpg">
+    <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
     <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
     <!--FACEBOOK CARDS-->
-<meta property="og:url"                content="https://beeinsured.co"/>
+<meta property="og:url"                content="https://www.beeinsured.co"/>
 <meta property="og:type"               content="website"/>
 <meta property="og:title"              content="Bee Insured, Steps that build your future" />
 <meta property="og:description"        content="Something went wrong" />
-<meta property="og:image"              content="https://beeinsured.co/img/fb/index-fb-card.jpg" />    
+<meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />    
   <meta name="geo.region" content="US-CA" />
 <meta name="geo.placename" content="cerritos" />
 <meta name="geo.position" content="33.8686023;-118.0612772" />
@@ -44,6 +44,8 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
      <!--ACORDION FORMULARIO-->
      <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+      <!--CALL TRACKING-->
+<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
     <!--BACK TO TOP-->  
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
@@ -52,6 +54,7 @@
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
 <style amp-custom>
+     a{text-decoration: none; color: #000;}
     body{
          background-color: #f3ebdb;
      }

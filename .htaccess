@@ -21,6 +21,10 @@ ErrorDocument 500 /errors/error.php
 ErrorDocument 502 /errors/error.php
 ErrorDocument 504 /errors/error.php
 
+#Force www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^beeinsured.co [NC]
+RewriteRule ^(.*)$ https://www.beeinsured.co/$1 [L,R=301,NC]
 
 RewriteEngine On 
 RewriteCond %{SERVER_PORT} 80
