@@ -3,10 +3,7 @@
         <li>
             <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="35" width="35"></amp-img>
         </li>
-        <li>
-            
-            
-            <p> <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
+        <li><p> <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
   <a href="tel:18444687400">1 844 468 7400</a>
 </amp-call-tracking>
             </p>
@@ -67,7 +64,7 @@
             </div>
         </form>
          <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
-             <a href="tel:18444687400"> <amp-img src="https://www.beeinsured.co/img/white-phone-icon.png" height="16" width="16"></amp-img><b>  1 844 468 7400</b></a>
+             <a href="tel:18444687400"><b>1 844 468 7400</b></a>
 </amp-call-tracking>
         <li><a href="https://www.beeinsured.co">Home</a></li>
         <amp-accordion animate>
