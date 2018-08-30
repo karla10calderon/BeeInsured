@@ -47,22 +47,26 @@
     </ul>
     <div class="nav2">
         <div class="lang"><a href="https://www.beeinsured.co/es.php">Español</a></div>
+<!--
         <form class="searchbox" action="" target="_top" method="get">
             <div class="searchboxelements">
                 <input type="search" placeholder="Search..." name="googlesearch">
             </div>
         </form>
+-->
     </div>
 </div>
 <!--MENU RESPONSIVO-->
 <div class="menu-responsive">
     <button class="hamburger">☰</button>
     <ul class="content">
+<!--
         <form class="searchbox" action="" target="_top">
             <div class="searchboxelements">
                 <input type="search" placeholder="Search..." name="googlesearch">
             </div>
         </form>
+-->
          <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
              <a href="tel:18444687400"><b>1 844 468 7400</b></a>
 </amp-call-tracking>
