@@ -25,9 +25,9 @@
                     <li><a href="https://www.beeinsured.co/services/bond">Bond</a></li>
                 </div>
                 <div class="column">
-                    <li><a href="#">Small Business</a></li>
+                    <li><a href="https://www.beeinsured.co/services/small-business">Small Business</a></li>
                     <li><a href="https://www.beeinsured.co/services/inland-marine-tool">Tool & Equipment</a></li>
-                    <li><a href="#">Excess & Umbrella</a></li>
+                    <li><a href="https://www.beeinsured.co/services/excess-umbrella">Excess & Umbrella</a></li>
                     <li><a href="https://www.beeinsured.co/services/personal-lines">Personal Lines</a></li>
                 </div>
             </ul>
@@ -46,8 +46,8 @@
         <li class="barra blog"><a href="https://www.beeinsured.co/blog.php">Blog</a></li>
     </ul>
     <div class="nav2">
-        <div class="lang"><a href="https://www.beeinsured.co/es.php">Español</a></div>
-<!--
+    <!--    <div class="lang"><a href="https://www.beeinsured.co/es.php">Español</a></div>
+
         <form class="searchbox" action="" target="_top" method="get">
             <div class="searchboxelements">
                 <input type="search" placeholder="Search..." name="googlesearch">
@@ -79,9 +79,9 @@
                     <li><a href="https://www.beeinsured.co/services/general-liability">General Liability</a></li>
                     <li><a href="https://www.beeinsured.co/services/commercial-vehicle">Commercial Vehicle</a></li>
                     <li><a href="https://www.beeinsured.co/services/bond">Bond</a></li>
-                    <li><a href="#">Small Business</a></li>
+                    <li><a href="https://www.beeinsured.co/services/small-business">Small Business</a></li>
                     <li><a href="https://www.beeinsured.co/services/inland-marine-tool">Tool & Equipment</a></li>
-                    <li><a href="#">Excess & Umbrella</a></li>
+                    <li><a href="https://www.beeinsured.co/services/excess-umbrella#">Excess & Umbrella</a></li>
                     <li><a href="https://www.beeinsured.co/services/personal-lines">Personal Lines</a></li>
                 </ul>
             </section>
