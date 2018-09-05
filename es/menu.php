@@ -57,13 +57,22 @@
                 </div>
             </form>
 
-
-            <!--CAJA HIJO4-->
+            <!-- Language input -->
             <div class="lang">
-                <a href="../index.php">English</a>
-
+                <form 
+                    method="post" 
+                    action-xhr="/functions/setCookie" 
+                    target="_top">
+                    <input type="text" name="lang" value="es" style="visibility: hidden;position: absolute;">
+                    <input
+                        type="submit" 
+                        value="English"
+                        class="ampstart-btn caps"
+                        />
+                </form>
+                <!--<a href="../index.php">English</a>-->
             </div>
-            
+            <!-- Language input -->
 
         </div>
 
