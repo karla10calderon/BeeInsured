@@ -17,8 +17,6 @@
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
 <!--ACORDION FORMULARIO-->
      <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-    <!--MUSTACHE FORM-->
-    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
     <!--SEARCH BOX-->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
       <!--CALL TRACKING-->
@@ -113,10 +111,9 @@
     <div submit-error>
         <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
     </div></form></div></div>
-    <div class="info"><p>   
-    Un emisor de un Bono puede comprarla póliza de Bond para garantizar los pagos programados de intereses y capital del Bono a sus tenedores de bonos en caso de que el emisor incumpla sus obligaciones.<br><br>
+    <div class="info"><p>
 Las diferentes clases de bonos de garantía satisfacen diferentes necesidades de fianzas.<br>BeeInsured Tiene muchos años de experiencia en el servicio a contratistas y empresas, grandes y pequeñas, que nos da una comprensión completa de los contratos necesarios para ayudar a su empresa a crecer.<br> Nos ocupamos solo de las garantías más confiables, y contamos con un historial comprobado de colocar bonos para propietarios de empresas y contratistas nuevos en el trabajo vinculado a los bonos más difíciles para trabajos peligrosos para propietarios con inexperiencia en proyectos más grandes y aquellos con dificultades financieras.<br><br>
-        <b>Bono del contratista:</b> Los contratistas en California deben publicar bonos de garantía de $ 15,000. Al publicar la fianza de un contratista, los directores (contratistas) se comprometen a cumplir con las disposiciones de la División 3, Capítulo 9 del Código de Negocios y Profesiones. <br>El bono protege a las partes perjudicadas de pérdidas financieras hasta el monto total del bono si el principal incumple la letra de la ley y los términos del contrato de fianza. El principal debe reembolsar a la fianza por todos los daños pagados
+        <b>Bono del contratista:</b> Los contratistas en California deben publicar bonos de garantía de $ 15,000. Al publicar la fianza de un contratista, los directores (contratistas) se comprometen a cumplir con las disposiciones de la División 3, Capítulo 9 del Código de Negocios y Profesiones. <br>El bono protege a las partes perjudicadas de pérdidas financieras hasta el monto total del bono si el principal incumple la letra de la ley y los términos del contrato de fianza. El principal debe reembolsar a la fianza por todos los daños pagados.
 Estos bonos permanecen en plena vigencia hasta que se cancelen. <br>El fiador puede cancelar la fianza de acuerdo con las disposiciones de las Secciones 996.310 del Código de Procedimiento Civil. <br>La licencia del solicitante o número de solicitud y clasificación (s) son necesarios para la suscripción.
 
       
