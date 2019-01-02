@@ -57,82 +57,25 @@
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div>
   <?php include('../menu.php');?>
-    <amp-img src="https://www.beeinsured.co/img/services/new-banner/excess-umbrella.jpg" width="1680" height="570" layout="responsive" title="Excess and Umbrella"></amp-img>
+    <amp-img class="oculto" src="https://www.beeinsured.co/img/services/new-banner/excess-umbrella.jpg" width="1680" height="570" layout="responsive" title="Excess and Umbrella"></amp-img>
     
-    <div class="title-section"><h1>Excess and Umbrella </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/excess-umbrella" class="active">Excess and Umbrella </a></li></ol>
+    <div class="title-section"><h1>Excess and Umbrella </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/excess-umbrella" class="active">Excess and Umbrella </a></li></ol>
 
 
-    <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario">
+<div class="center">
 
-<!--FORMULARIO CORTO DE CONTACTO-->
-       <!--EXCESS & UMBRELLA-->
-<form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-    <div class="espacio"><a class="langform" href="https://www.beeinsured.co/es/services/excess-umbrella">En Español</a></div>
-    <input type="text" name="type" value="quote" style="display:none" />
-    <div class="options" style="display:none">
-            <select name="insurance" id="status">
-                <option value="Excess Umbrella">Excess Umbrella</option>
-            </select>
-        </div>
-    <fieldset>
-        <label>
-            <input type="text" name="name" placeholder="Name" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="lastName" placeholder="Last Name" required>
-        </label>
-         <br>
-        <label>
-            <input type="email" name="Email" placeholder="Email" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="phone" placeholder="Phone" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="services" placeholder="Services" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="productRequired" placeholder="For what product does is it required" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="coverageCompany" placeholder="What coverage and the name of the company" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="requires" placeholder="How many millions it requires" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="declarations" placeholder="Declarations page" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Contractor Lic Number" required>
-        </label>
-        
-        <input type="submit" value="Send">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Subscription successful! </template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Subscription failed! </template>
-    </div>
-</form>
-                 </div>
-    </div>
-<div class="info"><p>
-    <strong>Excess and Umbrella insurance</strong> is a very important coverage to have whether you are in construction or work in an office. Often excess insurance and umbrella insurance are used interchangeably and misconstrued as the same coverage, when in fact they are actually different coverages.  Either policy is designed to provide additional protection over the underlying policies. <br><br>
-    As a contractor or construction professional with <strong>Umbrella Insurance</strong>, you give your business insurance plan a boost across several policies — you can increase the coverage limits of multiple policies for one affordable premium. Umbrella Insurance isn't just for when a contract requires you to carry more coverage. It also protects you in the event that your business is faced with a claim that exceeds the limits of an underlying policy:<br><br>
-    <strong>General Liability claims: </strong>Construction and building sites can pose many hazards, especially because they are often located in public places, which increases your exposure to General Liability claims. What if something catastrophic happens — an explosion that severely injures a child who was standing near the fence? That claim, between the lawsuit and the medical bills, could easily top your policy's limit.<br><br>
     
-<strong>Commercial Auto claims:</strong> You may own business vehicles and insure them with Commercial Auto Insurance. Auto accidents are one of the most expensive (and common) claims around — especially when the accident involves multiple people and injuries. If you get into an accident while driving for work and someone involved ends up seriously injured or dead, your expenses may top your policy limit. If you don't own your business vehicles, this coverage can boost your Hired & Non-Owned Auto policy instead.<br><br>
+<div class="boxheader">Often excess insurance and umbrella insurance are used interchangeably and misconstrued as the same coverage, when in fact they are actually different coverages.</div>  
+     
+<?php include('../quote-general.php');?> <br><br>  
+    <p>
+    <strong class="bold">Excess and Umbrella insurance</strong> is a very important coverage to have whether you are in construction or work in an office. Often excess insurance and umbrella insurance are used interchangeably and misconstrued as the same coverage, when in fact they are actually different coverages.  Either policy is designed to provide additional protection over the underlying policies. <br><br>
+        As a contractor or construction professional with <strong class="bold">Umbrella Insurance</strong>, you give your business insurance plan a boost across several policies — you can increase the coverage limits of multiple policies for one affordable premium. Umbrella Insurance isn't just for when a contract requires you to carry more coverage. It also protects you in the event that your business is faced with a claim that exceeds the limits of an underlying policy:<br><br></p>
     
-<strong>Employer's Liability claims:</strong> Employer's Liability is the part of your policy that protects you against lawsuits linked to Workers' Compensation claims. Workers' Comp benefits will automatically pay for an injured employee's medical bills and lost wages during recovery, but if an employee sues you for providing an unsafe environment that caused the injury, you'll need Employer's Liability coverage. Should the cost of a Workers' Comp lawsuit exceed your Employer's Liability coverage, Umbrella Insurance can fill in the gap.
-</p></div>
+    <div class="dot"><strong class="bold">General Liability claims: </strong>Construction and building sites can pose many hazards, especially because they are often located in public places, which increases your exposure to General Liability claims. What if something catastrophic happens — an explosion that severely injures a child who was standing near the fence? That claim, between the lawsuit and the medical bills, could easily top your policy's limit.<br><br></div>
+    
+   <div class="dot"><strong class="bold">Commercial Auto claims:</strong> You may own business vehicles and insure them with Commercial Auto Insurance. Auto accidents are one of the most expensive (and common) claims around — especially when the accident involves multiple people and injuries. If you get into an accident while driving for work and someone involved ends up seriously injured or dead, your expenses may top your policy limit. If you don't own your business vehicles, this coverage can boost your Hired & Non-Owned Auto policy instead.<br><br></div>
+    
+ <div class="dot"><strong class="bold">Employer's Liability claims:</strong> Employer's Liability is the part of your policy that protects you against lawsuits linked to Workers' Compensation claims. Workers' Comp benefits will automatically pay for an injured employee's medical bills and lost wages during recovery, but if an employee sues you for providing an unsafe environment that caused the injury, you'll need Employer's Liability coverage. Should the cost of a Workers' Comp lawsuit exceed your Employer's Liability coverage, Umbrella Insurance can fill in the gap.
+    </div></div>
     <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../footer-menu.php');?></html>

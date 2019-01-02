@@ -61,7 +61,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/contractors/Contractor-Monsory-BeeInsured.jpg" width="1680" height="570" alt="Masonry in california" title="Masonry in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-Monsory-BeeInsured.jpg" width="1680" height="570" alt="Masonry in california" title="Masonry in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" >Contractors /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/contractors/masonry" class="active">Masonry by BeeInsured</a></li>

@@ -99,7 +99,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/9-before-bond.jpg" width="1680" height="570" alt="Know your surety bond" title=" Before to sign in! Know your surety bond?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/9-before-bond.jpg" width="1680" height="570" alt="Know your surety bond" title=" Before to sign in! Know your surety bond?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/know-surety-bond" class="active">Before to sign in! Know your surety bond</a></li>

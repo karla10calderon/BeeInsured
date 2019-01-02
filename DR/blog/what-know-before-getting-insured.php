@@ -104,7 +104,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/1-things-should-know.jpg" width="1680" height="570" alt=" What You Have To Know Before Getting Insuredin California" title=" What You Have To Know Before Getting Insured " layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/1-things-should-know.jpg" width="1680" height="570" alt=" What You Have To Know Before Getting Insuredin California" title=" What You Have To Know Before Getting Insured " layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/what-know-before-getting-insured" class="active">This is what you have to know before getting insured</a></li>

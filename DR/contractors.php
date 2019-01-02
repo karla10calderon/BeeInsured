@@ -64,7 +64,7 @@
 <div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('menu.php');?>
     
     
-    <amp-img src="https://www.beeinsured.co/img/contractor-menu.jpg" width="1680" height="570" alt="Services for contractors in California" title="Insurance Services for Contractors " layout="responsive"></amp-img>
+    <amp-img  class="oculto" src="https://www.beeinsured.co/img/contractor-menu.jpg" width="1680" height="570" alt="Services for contractors in California" title="Insurance Services for Contractors " layout="responsive"></amp-img>
     
     <div class="title-section"><h1>Services for contractors</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" class="active">Contractors</a></li></ol>
 

@@ -59,7 +59,7 @@
     <!--SEGUMIENTO DE ANALYTICS -->
 <amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>  
 <?php include('../menu.php');?>
-  <amp-img src="https://www.beeinsured.co/img/contractors/Contractor-Glassing-BeeInsured.jpg" width="1680" height="570" alt="Glazing in california" title="Glazing in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-Glassing-BeeInsured.jpg" width="1680" height="570" alt="Glazing in california" title="Glazing in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" >Contractors /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/contractors/glazing" class="active">Glazing by BeeInsured</a></li>

@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/12-getting-tool.jpg" width="1680" height="570" alt="Tool insurance in california" title="Getting your best tool and equipment insurance. Ready?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/12-getting-tool.jpg" width="1680" height="570" alt="Tool insurance in california" title="Getting your best tool and equipment insurance. Ready?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/getting-best-tool-equipment-insurance" class="active">Getting your best tool and equipment insurance. Ready?</a></li>

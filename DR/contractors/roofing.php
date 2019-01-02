@@ -63,7 +63,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/contractors/Contractor-Roofing-BeeInsured.jpg" width="1680" height="570" alt="Roofing in california" title="Roofing in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-Roofing-BeeInsured.jpg" width="1680" height="570" alt="Roofing in california" title="Roofing in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" >Contractors /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/contractors/roofing" class="active">Roofing by BeeInsured</a></li>

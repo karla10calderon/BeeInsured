@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/14-excess.jpg" width="1680" height="570" alt="Tool insurance in california" title="What does excess and umbrella insurance covers??" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/14-excess.jpg" width="1680" height="570" alt="Tool insurance in california" title="What does excess and umbrella insurance covers??" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/what-excess-umbrella-insurance-covers" class="active">What does excess and umbrella insurance covers?</a></li>

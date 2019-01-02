@@ -63,7 +63,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/contractors/Contractor-Drywallg-BeeInsured.jpg" width="1680" height="570" alt="Drywall in california" title="Drywall in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-Drywallg-BeeInsured.jpg" width="1680" height="570" alt="Drywall in california" title="Drywall in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" >Contractors /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/contractors/drywall" class="active">Drywall by BeeInsured</a></li>

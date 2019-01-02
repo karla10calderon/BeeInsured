@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/8-why-buy-commercial.jpg" width="1680" height="570" alt="Things about commercial vehicle Insurance" title=" Why buy a commercial vehicle insurance?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/8-why-buy-commercial.jpg" width="1680" height="570" alt="Things about commercial vehicle Insurance" title=" Why buy a commercial vehicle insurance?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/why-buy-commercial-vehicle-insurance" class="active">Why buy a commercial vehicle insurance?</a></li>

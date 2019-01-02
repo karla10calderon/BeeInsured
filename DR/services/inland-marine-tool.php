@@ -57,63 +57,57 @@
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu.php');?>
-    <amp-img src="https://www.beeinsured.co/img/services/new-banner/tool-equipment-insurance.jpg" width="1680" height="570" layout="responsive"></amp-img>
-    <div class="title-section"><h1>Tool & Equipment </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/inland-marine-tool" class="active">Tool & equipment</a></li></ol>
-    <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario"><!--Inland Quote--><form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-         <div class="espacio"><a class="langform" href="https://www.beeinsured.co/es/services/inland-marine-tool">En Español</a></div><input type="text" name="type" value="quote" style="display:none"/>
-       <div class="options" style="display:none">
-            <select name="insurance" id="status">
-                <option value="Inland Marine Tool">Inland Marine</option>
-            </select>
-        </div>
-    <fieldset><label><input type="text" name="name" placeholder="Name" required></label><br><label><input type="text" name="Last Name" placeholder="Last Name" required></label><br><label><input type="email" name="Email" placeholder="Email" required></label><br><label><input type="text" name="Phone" placeholder="Phone" required></label><br><label><input type="text" name="Office Contents" placeholder="Office Contents" required></label><br><label><input type="text" name="Miscellaneous Tools ($1,500 in value and under)" placeholder="Miscellaneous Tools ($1,500 in value and under)" required></label><br><label><input type="text" name="Computer Systems - Equipment" placeholder="Computer Systems - Equipment" required></label><br><label><input type="text" name="Computer Systems - Data and Media" placeholder="Computer Systems - Data and Media" required></label><br><label><input type="text" name="Computer Systems - Extra Expense" placeholder="Computer Systems - Extra Expense" required></label><br><label><input type="text" name="Scheduled Equipment" placeholder="Scheduled Equipment" required></label><p class="note">Equipment valued $1,500 & under needs to be covered as Misc. Tools</p><br><label><input type="text" name="Installation Floater" placeholder="Installation Floater" required></label><br><label><input type="text" name="Rented/Leased Equipment" placeholder="Rented/Leased Equipment" required></label><br><label><input type="text" name="contractorLicNumber" placeholder="Contractor Lic Number" required></label><br><input type="submit" value="Send"></fieldset><div submit-success><template type="amp-mustache">Subscription successful! </template></div><div submit-error><template type="amp-mustache">Subscription failed! </template></div></form></div></div>
+    <amp-img class="oculto"  src="https://www.beeinsured.co/img/services/new-banner/tool-equipment-insurance.jpg" width="1680" height="570" layout="responsive"></amp-img>
+    <div class="title-section"><h1>Tool & Equipment </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/inland-marine-tool" class="active">Tool & equipment</a></li></ol>
+   
     
-    <div class="info"><p>
-    Tools and equipment coverage, <strong>also known as inland marine insurance</strong>, protects your hard working assets from all-too-common risks, like theft and damage, as you transport them to and from your worksite.
+    <div class="center"><p>
+    Tools and equipment coverage, <strong class="bold">also known as inland marine insurance</strong>, protects your hard working assets from all-too-common risks, like theft and damage, as you transport them to and from your worksite.</p>
+        <?php include('../quote-general.php');?>
+        <p>
 As a contractor or construction professional, you regularly transport the tools, equipment, and supplies you need to get the job done. While your valuable business assets are in motion, tools and equipment insurance ensures their replacement should an accident, theft, or loss happen along the way. It can also cover tools that your construction or contracting crew takes with them when they perform a job.<br><br>
+        </p>
+<h2 class="sub">Tools and equipment insurance commonly includes coverage for the following types of property:</h2><br>
+        <div class="dot">Property in transit, such as contractor's tools and supplies.</div>
+        <div class="dot">Mobile equipment, such as forklifts, dozers, track hoes, maintainers, loaders.</div>
+      <div class="dot">Computer equipment and data, such as accounting software, lead-tracking data, policies, procedures, and other electronic assets.</div>  
+      <div class="dot">Damage, loss, destruction, theft.</div><br><br>
+<p>
+From the smallest hand tools to larger equipment such as welders, nail guns, generators and other high-value items, replacement costs can add up fast if your tools are stolen or damaged.
+</p>
+    <div class="boxheader">With tools and equipment coverage, your investment in these assets is protected.</div> 
 
-Tools and equipment insurance commonly includes coverage for the following types of property:<br>
-- Property in transit, such as contractor's tools and supplies.<br>
-- Mobile equipment, such as forklifts, dozers, track hoes, maintainers, loaders.<br>
-- Computer equipment and data, such as accounting software, lead-tracking data, policies, procedures, and other electronic assets.<br>
-- Damage, loss, destruction, theft.<br><br>
-
-From the smallest hand tools to larger equipment such as welders, nail guns, generators and other high-value items, replacement costs can add up fast if your tools are stolen or damaged. With tools and equipment coverage, your investment in these assets is protected.
-
-    
-    
-    </p>
     
        <h3 class="faqsection">Common questions about Tool & Equipment Insurance</h3>
       <amp-accordion>
       <section>
-        <h4><span class="question">What is contractors tool insurance?</span> </h4>
+        <h4><span class="question">1. What is contractors tool insurance?</span> </h4>
         <p> Commercial contractors equipment insurance is a broad-ranging policy designed to cover damaged or missing contracting equipment. A contractors insurance policy can extend beyond simply covering equipment; it can also cover small tools, employees' equipment and clothing, and borrowed equipment. 
 </p>
       </section>
    
         <section>
-        <h4><span class="question">What Does Inland Marine Insurance Cover?</span> </h4>
+        <h4><span class="question">2. What Does Inland Marine Insurance Cover?</span> </h4>
         <p>The inland marine insurance definition has evolved over time to cover a wide range of property and materials: Property in transit. Property in the custody of a bailee. Property deemed to be an instrumentality of transportation or communication, such as bridges and radio towers.
 
 </p>
       </section>
           
               <section>
-        <h4><span class="question">How much does contractors tool insurance cost?</span> </h4>
+        <h4><span class="question">3. How much does contractors tool insurance cost?</span> </h4>
         <p>Umbrella Insurance typically costs general contractors $1,010 to $2,020 in annual premiums. 
 
 </p>
       </section>
           
               <section>
-        <h4><span class="question">When would I use my contractors tool insurance?</span> </h4>
+        <h4><span class="question">4. When would I use my contractors tool insurance?</span> </h4>
         <p>Contractor’s tool/equipment insurance is used mainly when your loss or a claim exceeds your deductible. A deductible is the normally $500.00 per claim. So, for instance, you are on the job site and someone takes your entire tool box out of the back-end of your truck. More than likely you could have thousands of dollars of tools in that box. In this case, you would pay the first $500.00 to cover your loss and the insurance company would pay the balance.
  </p>
       </section>
           
            <section>
-        <h4><span class="question">How do i purchase contractors tool/equipment insurance?</span> </h4>
+        <h4><span class="question">5. How do i purchase contractors tool/equipment insurance?</span> </h4>
         <p>Call Beeinsured Tel# 1844 468 7400 </p>
       </section>
        

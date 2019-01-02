@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/19-things-cargo.jpg" width="1680" height="570" alt="builders risk insurance" title="Things you should know about cargo insurance?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/19-things-cargo.jpg" width="1680" height="570" alt="builders risk insurance" title="Things you should know about cargo insurance?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/things-should-know-cargo-insurance" class="active">Things you should know about cargo insurance</a></li>

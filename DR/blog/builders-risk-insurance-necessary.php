@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/18-builders-risk.jpg" width="1680" height="570" alt="builders risk insurance" title="Is builders risk insurance necessary?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/18-builders-risk.jpg" width="1680" height="570" alt="builders risk insurance" title="Is builders risk insurance necessary?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/builders-risk-insurance-necessary" class="active">Is builders risk insurance necessary?</a></li>

@@ -3,56 +3,123 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured Insurance Services</title>
-      <link rel="canonical" href="https://www.beeinsured.co/services">
-    <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/servicios">
-   <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
+    <title>Commercial Insurance by BeeInsured</title>
+     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
+<link rel="canonical"  href="https://www.beeinsured.co/services">
+    <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="We can offer you the best insurance acording to your needs">
-    <meta name="keywords" content="Insurance Services Palm Springs, California Workers comp, workers compensation california, workers comp">
+    <meta name="description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">
+    <meta name="keywords" content="commercial insurance services california, commercial insurance LLC">
     <meta name="author" content="BeeInsured">
-      <!-- Google Authorship and Publisher Markup -->
-<link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
+ <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Bee Insured">
-<meta itemprop="description" content="We can offer you the best insurance acording to your needs">
-<meta itemprop="image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
+<meta itemprop="name" content="Insurance services by BeeInsured">
+<meta itemprop="description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">
+<meta itemprop="image" content="https://www.beeinsured.co/img/fb/index-fb-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="Bee Insured Services">
+    <meta name="twitter:site" content="@InsuredBee">
     <meta name="twitter:creator" content="@InsuredBee">
-    <meta name="twitter:title" content="Bee Insured services">
-    <meta name="twitter:description" content="We can offer you the best insurance acording to your needs">
-    <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
-    <meta name="twitter:image:alt" content="Insurance Services Palm Springs, California Workers comp, workers compensation california, workers comp">
+    <meta name="twitter:title" content="Insurance services by BeeInsured">
+    <meta name="twitter:description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">
+    <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
+    <meta name="twitter:image:alt" content="Insurance services by BeeInsured">
     <!--FACEBOOK CARDS-->
-<meta property="og:url"                content="https://www.beeinsured.co/services" />
-<meta property="og:type"               content="webiste" />
-<meta property="og:title"              content="Bee Insured Insurance's Services" />
-<meta property="og:description"        content="We can offer you the best insurance acording to your needs" />
-<meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
+<meta property="og:url" content="https://www.beeinsured.co/services/commercial-insurance" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Insurance services by BeeInsured" />
+<meta property="og:description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs." />
+<meta property="og:image" content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
       <!--ANUNCIO DE COOKIES -->
 <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
+      <!--CALL TRACKING-->
+<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
  <!--GOOGLE ANALYTICS-->
  <script async custom-element="amp-analytics"
     src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
-    <!--CALL TRACKING-->
-<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
+    <!--CARROUSEL AMP -->
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <!--PARALLAX -->
     <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
+<!--ACORDION FORMULARIO-->
+     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+    <!--MUSTACHE FORM-->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
     <!--BACK TO TOP-->
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-<!--ACORDION FORMULARIO-->
-     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
     <!--SEARCH BOX-->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
-   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><style amp-custom> a{text-decoration: none; color: #000;} .lineavertical{height: 85px;width: 2px; background-color: #000; margin-left: 25px; margin-right: 25px;}  .servicetext{color:#fff; font-size: 25px;}  amp-user-notification .aceptar,amp-user-notification p{font-family:'Open Sans';font-size:16px;text-align:center;color:#000}amp-user-notification>div{padding:5px;display:flex;align-items:center;justify-content:center;z-index:1500;background-color:#efefef;height:50px}amp-user-notification .aceptar{display:block;margin-left:auto;margin-right:auto;padding:5px}.menu-desktop li a,.top .contact p{font-family:'Open Sans'}.content,.menu-desktop li:hover ul a{box-shadow:0 8px 16px 0 rgba(0,0,0,.5)}.content,.top .contact{right:0;list-style:none}.breadcrumbs li a,.content a,.menu-desktop li a,.nav2 .lang a,a{text-decoration:none}*{padding:0;margin:0}.top{background-color:#EDA921;text-align:center;align-items:center;position:relative}.top amp-img{margin:15px}.top .contact{position:absolute;top:0;padding-right:80px;display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-around;align-items:center;margin-top:15px}.menu-desktop li,.top .contact li{display:inline-block}.top .contact amp-img{margin-right:10px}.top .contact .phonenumber{font-size:25px;font-weight:bold;color:#fff;text-align:left}.top .contact li{float:left}.menu-desktop{width:100%;height:60px;background-color:#000}.menu-desktop ul{list-style-type:none;position:absolute}.menu-desktop .barra{width:110px;padding-left:5px;padding-right:5px}.menu-desktop .nav{padding-left:4%}.menu-desktop li a{display:block;min-width:130px;height:60px;text-align:center;line-height:50px;font-size:18px;color:#fff}.nav2 .lang a,.nav2 .searchboxelements input[type=search]{font-size:16px;font-family:'Open Sans'}.menu-desktop li:hover a{color:#EDA921}.menu-desktop li:hover ul a{background:#214460;color:#fff;height:40px;line-height:40px;text-align:left}.content,.title-section,amp-accordion section[expanded],h2,p{text-align:center}.menu-desktop li:hover ul a:hover{background:#EDA921;color:#fff}.menu-desktop li ul{display:none;z-index:1}.menu-desktop li ul li{display:block;float:none}.menu-desktop li ul li a{min-width:100px;padding:0 20px}.hidden:hover,.menu-desktop ul li a:hover+.hidden{display:block}.menu-desktop .column{float:left;width:250px}.nav2{float:right;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-items:center}.nav2 .lang a{color:#fff;font-weight:700;margin-left:5px;margin-right:5px}.nav2 .lang a:active,.nav2 .lang a:focus,.nav2 .lang a:hover{color:#eda921}.nav2 .searchboxelements{display:inline-block;margin:10px;padding-right:6%}.nav2 .searchboxelements input[type=search]{background-image:url(/img/search.png);background-position:3px 3px;background-repeat:no-repeat;padding-left:38px;height:40px;box-sizing:border-box;border:none;border-radius:5px;background-color:#fff;color:#000;font-weight:100}.menu-responsive{background:#000;height:50px;font-family:'Open Sans';width:100%}.menu-responsive .hamburger{float:right;background-color:#000;color:#fff;margin-right:25px;border:0;font-size:36px;outline:0}.menu-responsive .hamburger:active,.menu-responsive .hamburger:focus,.menu-responsive .hamburger:hover,.menu-responsive li:hover{color:#eda921}.content{display:none;position:absolute;background-color:#000;width:60%;top:167px;z-index:1000}.content a{float:none;color:#fff;padding:10px;display:block;border-bottom:solid .5px #2c2c2c;border-top:solid .5px #2c2c2c}.content li:active,.content li:focus,.content li:hover{background-color:#eda921;color:#000;transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease;-o-transition:all .4s ease}.content amp-accordion section ul{background-color:#214460}.content amp-accordion h4{font-family:'Open Sans';font-size:16px;color:#fff;font-weight:400}amp-accordion section:not([expanded]) h4,amp-accordion section[expanded] h4{border:none;border-bottom:solid 1px rgba(0,0,0,.5);height:40px;background-color:#000;margin-top:8px}i{border:solid #eda921;border-width:0 3px 3px 0;display:inline-block;padding:3px;margin:4px}.down{transform:rotate(45deg);-webkit-transform:rotate(45deg)}.menu-responsive:active .content,.menu-responsive:focus .content,.menu-responsive:hover .content{display:block}.breadcrumbs li,.menu-responsive .searchboxelements{display:inline-block}.menu-responsive .searchboxelements input[type=search]{background-image:url(/img/search.png);background-position:5px 5px;background-repeat:no-repeat;padding-left:45px;height:50px;font-family:'Open Sans';box-sizing:border-box;border:none;font-size:16px;background-color:#fff;color:#000;min-width:610px}a{color:#000}.title-section{line-height:.95;margin-top:80px}.title-section h1{font-family:'Open Sans';font-size:36px;font-weight:700}p{font-family:'Open Sans';font-size:16px;font-weight:300}.breadcrumbs{padding-left:30px;padding-right:30px;margin:20px auto 45px}.breadcrumbs li{font-family:'Open Sans'}.breadcrumbs li a{color:#000}.breadcrumbs .active,.breadcrumbs li a:hover{color:#eda921}.services{background-color:#fff;width:100%;display:flex;align-items:center;flex-wrap:wrap;justify-content:space-between;flex-direction:row;margin-bottom:50px}.services .texto{text-align:center;z-index:5;max-width:500px;display:block;margin-left:auto;margin-right:auto;padding:15px}.reverse{flex-direction:row-reverse}h2{font-family:'Open Sans';font-size:24px;font-weight:700}footer a,footer p{text-decoration:none}a{color:#000}.group a,footer a,footer p{color:#fff;font-family:'Open Sans'}footer a,footer p{font-size:14px;font-weight:100}*{padding:0;margin:0}footer,footer .follow,footer .follow ul{text-align:center}h3,h5{text-align:left}footer,footer .info{width:100%;background-color:#000}footer{min-height:200px;display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-around;align-items:center}footer .follow{padding:55px}footer .follow li{display:inline-block;padding:15px}footer .info{min-height:100px}footer .info .statement{padding:25px}footer .info .statement a{font-weight:700}.group a{font-weight:100}.group .titulo a{font-weight:700;color:#eda921; font-size: 16px;}h5{font-size: 14px;}.group ul{display:inline-block;margin:20px} .group2{padding:0;margin:0}
-      @media (max-width:575.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:576px) and (max-width:767.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:768px) and (max-width:1049.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:1050px) and (max-width:1199.98px){.menu-responsive{display:none}}@media (min-width:1200px){.menu-responsive{display:none}}.scrollToTop{color:#000;z-index:200;position:fixed;margin-bottom:55px;transform:translate(-50%,-50%);font-size:1.4em;box-shadow:0 1px 1.5px 0 rgba(0,0,0,.12),0 1px 1px 0 rgba(0,0,0,.24);width:50px;height:50px;border-radius:100px;border:none;outline:0;background:#eda921;bottom:25px;right:3px;opacity:0;visibility:hidden}#marker{position:absolute;top:100px;width:0;height:0}</style></head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics><amp-user-notification layout="nodisplay" id="amp-user-notification1"><p>We use technical and analytics cookies to ensure that we give you the best experience on our website.</p><button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><?php include('menu.php');?><div class="title-section"><h1>Our Services</h1></div><ol class="breadcrumbs"><li><a href="/index.php">Home /&nbsp;</a></li><li><a href="/services.php" class="active">Services</a></li></ol><a href="/services/insurance-services.php"><div class="services reverse"><amp-img amp-fx="fade-in-scroll" src="img/services/insurance-service-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img><div class="texto"><amp-img src="img/services/insurance-service.png" width="60" height="60" alt="#" title="#"></amp-img><h2>Insurance Services</h2><br></div></div></a><a href="/services/certificates.php"><div class="services"><amp-img amp-fx="fade-in-scroll" src="img/services/certificates-baner.png" width="940" height="570" alt="#" title="#" sizes="(max-width: 1100px) 100vw, (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img><div class="texto"><amp-img src="img/services/certificates.png" width="60" height="60" alt="#" title="#"></amp-img><h2>Certificates</h2><br></div></div></a><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
+   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>  <style amp-custom><?php readfile( getcwd() . "/styles.css"); ?></style></head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+    <amp-user-notification layout="nodisplay"
+  id="amp-user-notification1"><p>
+  We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
+  <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
+</amp-user-notification><?php include ('chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('menu.php');?><div class="title-section bloque"><h1>Insurance Services</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services" class="active">Services</a></li></ol>
+    
+  
+  <div class="center">
+    <p>When you <strong>own a business</strong>, you have a lot to protect, and the right insurance coverage can be important to your continued success, thats why in <strong>BeeInsured</strong> we work hard to find the best in insurance with lower rates for your business.</p>
+      
+      <?php include('quote-general.php');?>
+
+    
+    <div class="espaciocontractors menuserv">
+   
+        <a href="https://www.beeinsured.co/services/workers-compensation" class='square-box'>
+ <div class='square-content'>
+     
+     <amp-img  src="/img/services/new-icon/workers-compensation.png" width="150" height="150" layout="responsive" alt="Workers Compensation by BeeInsured" title="Workers Compensation Contractors" ></amp-img>
+     
+     <div><h2 class="contratistas">Workers<br>Compensation</h2>
+        </div></div></a>
+        
+           <a href="https://www.beeinsured.co/services/general-liability" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/general-liability.png" width="150" height="150" layout="responsive" alt="General Liability by BeeInsured" title="General Liability for Contractors" ></amp-img><div>
+<h2 class="contratistas">General<br>Liability</h2></div></div>
+</a>
+    <a href="https://www.beeinsured.co/services/commercial-vehicle" class='square-box'>
+    <div class='square-content'>
+       <amp-img src="/img/services/new-icon/commercial-vehicle.png" width="150" height="150" layout="responsive" alt="Commercial Vehicle by BeeInsured" title="Commercial Vehicle for Contractors" ></amp-img>
+ <div><h2 class="contratistas">Commercial Vehicle</h2></div></div>
+</a>
+
+    <a href="https://www.beeinsured.co/services/bond" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/bond.png" width="150" height="150" layout="responsive" alt="Bond by BeeInsured" title="Bond for Contractors" ></amp-img><div><h2 class="contratistas">Bond</h2></div></div>
+</a>
+          
+        
+          <a href="https://www.beeinsured.co/services/small-business" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/small-business.png" width="150" height="150" layout="responsive" alt="Small Business by BeeInsured" title="Small Business for  Contractors" ></amp-img><div><h2 class="contratistas">Small Business</h2></div></div>
+</a>
+     <a href="https://www.beeinsured.co/services/inland-marine-tool" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/tool.png" width="150" height="150" layout="responsive" alt="Tool & Equipment by BeeInsured" title="Tool & Equipment for Contractors" ></amp-img><div><h2 class="contratistas">Tool & Equipment</h2></div></div>
+</a>       
+<a href="https://www.beeinsured.co/services/excess-umbrella" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/excess.png" width="150" height="150" layout="responsive" alt="Excess & Umbrella by BeeInsured" title="Excess & Umbrella for Contractors" ></amp-img><div><h2 class="contratistas">Excess & Umbrella</h2></div></div>
+</a>
+        
+        <!--PERSONAL LINES-->
+<a href="https://www.beeinsured.co/services/personal-auto" class='square-box'>
+    <div class='square-content'> <amp-img  src="/img/services/new-icon/personal-auto.png" width="150" height="150" layout="responsive" alt="Personal Auto Insurance by BeeInsured" title="Personal Auto Insurance by BeeInsured" ></amp-img><div><h2 class="contratistas">Personal Auto</h2></div></div>
+</a>        
+       
+<a href="https://www.beeinsured.co/services/homeowners" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/homeowner.png" width="150" height="150" layout="responsive" alt="Homeowners by BeeInsured" title="Homeowners bye BeeInsured" ></amp-img><div><h2 class="contratistas">Homeowners</h2></div></div>
+</a>        
+       
+        <!--CERTIFICATES-->
+   <a href="https://www.beeinsured.co/services/certificates" class='square-box'>
+    <div class='square-content'><amp-img src="/img/services/new-icon/New%20Icons_Certificates.png" width="150" height="150" layout="responsive" alt="Certificates by BeeInsured" title="Certificates by BeeInsured" ></amp-img><div><h2 class="contratistas">Certificates</h2></div></div>
+</a>      
+
+    </div>    
+    </div>
+      
+    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
 </body>
 <?php include('footer-menu.php');?>
 </html>

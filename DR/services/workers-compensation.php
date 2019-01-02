@@ -59,7 +59,7 @@
 </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script>
 </amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu.php');?><amp-img class="blockabajo" src="https://www.beeinsured.co/img/services/workers-compensation.jpg" width="1680" height="570" layout="responsive" ></amp-img>
       
-<div class="title-section"><h1>Workers Compensation</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/workers-compensation" class="active">Workers Compensation</a></li></ol>
+<div class="title-section"><h1>Workers Compensation</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/workers-compensation" class="active">Workers Compensation</a></li></ol>
       
 
       
@@ -67,9 +67,7 @@
       <div class="center">
 
           
-          <p>Workers' Compensation Insurance can pay for <b>three things when an employee is injured at work:</b><br><br>- Medical bills.<br>- Recovery costs.<br>- Partial missed wages.</p>
-          
-          <div class="boxheader">Workers' Compensation Insurance can pay for <b>three things when an employee is injured at work:</b><br><br>- Medical bills.<br>- Recovery costs.<br>- Partial missed wages.</div>
+         <div class="boxheader">Workers' Compensation Insurance can pay for three things when an employee is injured at work: medical bills, recovery costs and partial missed wages.</div>
           
           <?php include('../quote-general.php');?><br><br>
           

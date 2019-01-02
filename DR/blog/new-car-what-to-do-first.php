@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/15-looking-car.jpg" width="1680" height="570" alt="looking for a new car in california" title="Looking for a new car? This is what you have to do first" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/15-looking-car.jpg" width="1680" height="570" alt="looking for a new car in california" title="Looking for a new car? This is what you have to do first" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/new-car-what-to-do-first" class="active">Looking for a new car? This is what you have to do first</a></li>

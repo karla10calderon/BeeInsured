@@ -57,7 +57,7 @@
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu.php');?>
     <amp-img class="oculto" src="https://www.beeinsured.co/img/services/new-banner/commercial-vehicle-insurance.jpg" width="1680" height="570" layout="responsive"></amp-img>
-    <div class="title-section"><h1>Commercial Vehicle</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commerical-vehicle" class="active">Commercial Vehicle</a></li></ol>
+    <div class="title-section"><h1>Commercial Vehicle</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commerical-vehicle" class="active">Commercial Vehicle</a></li></ol>
      
 
     <div class="center">
@@ -68,7 +68,7 @@
         <br><br>
         <h2 class="sub">Commercial Vehicle Insurance covers:<br><br></h2> 
        
-           <div class="dot"><b>Bodily injury liability coverage:</b><br>Pays for bodily injury or death resulting from an accident for which you are at fault and in most cases provides you with a legal defense.</div>
+           <div class="dot"><b>Bodily injury liability coverage:</b><br>Pays for bodily injury or death resulting from an accident for which you are at fault and in most cases provides you with a legal defense.</div><br>
    
        
         
@@ -84,13 +84,13 @@
        Collision coverage – pays for damage to your vehicle when it hits or is hit by another object.<br><br></div>
         
         <div class="dot"><b>Loading and unloading coverage</b> - Lifting merchandise is heavy, grueling work. So it's nice to know you have liability coverage in case loading or unloading a covered vehicle results in injuries or accidents.<br><br></div>
-        
+    <p>   
 Coverage for vehicles you rent or borrow.<br>
-Coverage for employees who use their cars for business.<br><br>
+Coverage for employees who use their cars for business.<br><br></p> 
 
-         <h2 class="sub"> Does not cover:</h2>
+         <h2 class="sub"> Does not cover:</h2><p>
 Uber or Cabify drivers.
- 
+ </p>
     
        <h3 class="faqsection">Common questions about Commercial Vehicle Insurance</h3>
       <amp-accordion>

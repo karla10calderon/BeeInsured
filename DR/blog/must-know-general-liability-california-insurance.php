@@ -100,7 +100,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/25-gl-california.jpg" width="1680" height="570" alt="general liability insurance" title="Must know this about general liability california insurance" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/25-gl-california.jpg" width="1680" height="570" alt="general liability insurance" title="Must know this about general liability california insurance" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/must-know-general-liability-california-insurance" class="active">Must know this about general liability California insurance</a></li>

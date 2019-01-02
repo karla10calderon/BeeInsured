@@ -100,7 +100,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/23-quotes-cost-coverage.jpg" width="1680" height="570" alt="colorado general liability" title="Colorado general liability insurance (quotes, cost, and coverage)?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/23-quotes-cost-coverage.jpg" width="1680" height="570" alt="colorado general liability" title="Colorado general liability insurance (quotes, cost, and coverage)?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/colorado-general-liability-insurance" class="active">Colorado general liability insurance (quotes, cost, and coverage)</a></li>
