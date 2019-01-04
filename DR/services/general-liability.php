@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>General Liability by Bee Insured</title>
+    <title>General Liability by BeeInsured</title>
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://www.beeinsured.co/services/general-liability">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/general-liability">
@@ -14,23 +14,23 @@
 <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="General Liability by Bee Insured">
+<meta itemprop="name" content="General Liability by BeeInsured">
 <meta itemprop="description" content="General liability insurance coverage includes liability protection for both products and completed operations exposures. Products are any goods that you manufacture, sell, or distribute in your business.">
 <meta itemprop="image" content="https://www.beeinsured.co/img/fb/general-fb-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@InsuredBee">
     <meta name="twitter:creator" content="@InsuredBee">
-    <meta name="twitter:title" content="General Liability by Bee Insured">
+    <meta name="twitter:title" content="General Liability by BeeInsured">
     <meta name="twitter:description" content="General liability insurance coverage includes liability protection for both products and completed operations exposures. Products are any goods that you manufacture, sell, or distribute in your business.">
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/general-tw-card.jpg">
-    <meta name="twitter:image:alt" content="General Liability by Bee Insured">
+    <meta name="twitter:image:alt" content="General Liability by BeeInsured">
       <!--CALL TRACKING-->
 <script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
     <!--FACEBOOK CARDS-->
 <meta property="og:url" content="https://www.beeinsured.co/services/general-liability" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="General Liability by Bee Insured" />
+<meta property="og:title" content="General Liability by BeeInsured" />
 <meta property="og:description" content="General liability insurance coverage includes liability protection for both products and completed operations exposures. Products are any goods that you manufacture, sell, or distribute in your business." />
 <meta property="og:image" content="https://www.beeinsured.co/img/fb/general-fb-card.jpg" />
 <!--ANUNCIO DE COOKIES -->

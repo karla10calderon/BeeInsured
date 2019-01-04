@@ -3,32 +3,32 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Certificates by Bee Insured</title>
+    <title>Certificates by BeeInsured</title>
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://www.beeinsured.co/services/certificates">
     <link rel="alternate" hreflang="en" href="https://www.beeinsured.co/es/services/certificates">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="Get your insurance certificate online just in minutes with Bee Insured">
+    <meta name="description" content="Get your insurance certificate online just in minutes with BeeInsured">
     <meta name="keywords" content="insurance certificates, insurance certificates online, certificates for insurance">
     <meta name="author" content="BeeInsured">
     <link rel="author" href="https://plus.google.com/109911843397009123579/posts" />
     <link rel="publisher" href="https://plus.google.com/109911843397009123579" />
-    <meta itemprop="name" content="Certificates by Bee Insured">
-    <meta itemprop="description" content="Get your insurance certificate online just in minutes with Bee Insured">
+    <meta itemprop="name" content="Certificates by BeeInsured">
+    <meta itemprop="description" content="Get your insurance certificate online just in minutes with BeeInsured">
     <meta itemprop="image" content="https://www.beeinsured.co/img/tw/certificate-tw-card.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="Bee Insured">
-    <meta name="twitter:creator" content="Bee Insured">
-    <meta name="twitter:title" content="Certificates by Bee Insured">
-    <meta name="twitter:description" content="Get your insurance certificate online just in minutes with Bee Insured">
+    <meta name="twitter:site" content="BeeInsured">
+    <meta name="twitter:creator" content="BeeInsured">
+    <meta name="twitter:title" content="Certificates by BeeInsured">
+    <meta name="twitter:description" content="Get your insurance certificate online just in minutes with BeeInsured">
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/certificate-tw-card.jpg">
     <meta name="twitter:image:alt" content="insurance certificates, insurance certificates online, certificates for insurance">
     <meta property="og:url" content="https://www.beeinsured.co/services/certificados" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Certificates by Bee Insured" />
-    <meta property="og:description" content="Get your insurance certificate online just in minutes with Bee Insured" />
+    <meta property="og:title" content="Certificates by BeeInsured" />
+    <meta property="og:description" content="Get your insurance certificate online just in minutes with BeeInsured" />
     <meta property="og:image" content="https://www.beeinsured.co/img/fb/certificate-fb-card.jpg" />
-    <meta property="og:site_name" content="Bee Insured" />
+    <meta property="og:site_name" content="BeeInsured" />
     <!--FONTS-->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
@@ -101,7 +101,7 @@
 
         <div class="cotizacion">
                          
- <img  class="johnimagen" src="https://www.beeinsured.co/img/john-certificate.png" alt="Get your quote today with Bee Insured" title="Get your quote today with Bee Insured">
+ <img  class="johnimagen" src="https://www.beeinsured.co/img/john-certificate.png" alt="Get your quote today with BeeInsured" title="Get your quote today with BeeInsured">
             <div class="formulario">
          <!--FORMULARIO CERTFICIATES-->
                 <form method="POST" id="requestForm" action="https://panel.beeinsured.co/api/addRequest"  class="quote">

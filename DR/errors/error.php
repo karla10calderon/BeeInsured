@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Error</title>    
+    <title>BeeInsured, Error</title>    
     <link rel="canonical" href="https://www.beeinsured.co/errors/error.php">
     <link rel="alternate" hreflang="es"href="https://www.beeinsured.co/es/errors/error.php">
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
@@ -15,22 +15,22 @@
     <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Bee Insured Error Page">
+<meta itemprop="name" content="BeeInsured Error Page">
 <meta itemprop="description" content="Something went wrong">
 <meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="Bee Insured Error page">
-    <meta name="twitter:creator" content="Bee Insured">
-    <meta name="twitter:title" content="Bee Insured, Steps that build your future">
+    <meta name="twitter:site" content="BeeInsured Error page">
+    <meta name="twitter:creator" content="BeeInsured">
+    <meta name="twitter:title" content="BeeInsured, Steps that build your future">
     <meta name="twitter:description" content="Something went wrong">
     <!-- Twitter summary card with large image must be at least 300x150px -->
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
-    <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
+    <meta name="twitter:image:alt" content="BeeInsured - Insurance Services">
     <!--FACEBOOK CARDS-->
 <meta property="og:url"                content="https://www.beeinsured.co"/>
 <meta property="og:type"               content="website"/>
-<meta property="og:title"              content="Bee Insured, Steps that build your future" />
+<meta property="og:title"              content="BeeInsured, Steps that build your future" />
 <meta property="og:description"        content="Something went wrong" />
 <meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />    
   <meta name="geo.region" content="US-CA" />

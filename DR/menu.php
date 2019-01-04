@@ -21,7 +21,7 @@
      </li>
     </ul>
     <a href="https://www.beeinsured.co">
-        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="Bee Insured Steps that build your future" title="Logo Bee Insured" height="83" width="252"></amp-img>
+        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="BeeInsured Steps that build your future" title="Logo BeeInsured" height="83" width="252"></amp-img>
     </a>
 </div>
 <div class="menu-desktop">
@@ -137,7 +137,7 @@
     </div>
     <div class="segundo">
      <a href="https://www.beeinsured.co">
-        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="Bee Insured Steps that build your future" title="Logo Bee Insured" height="83" width="252" layout="responsive"></amp-img>
+        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="BeeInsured Steps that build your future" title="Logo BeeInsured" height="83" width="252" layout="responsive"></amp-img>
     </a>
     </div>
     <div class="tercero">

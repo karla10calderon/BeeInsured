@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Personal Lines by Bee Insured</title>
+    <title>Personal Lines by BeeInsured</title>
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <link rel="canonical"  href="https://www.beeinsured.co/services/personal-lines">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/seguros-personales">
@@ -14,21 +14,21 @@
 <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Personal Lines by Bee Insured">
+<meta itemprop="name" content="Personal Lines by BeeInsured">
 <meta itemprop="description" content="#">
 <meta itemprop="image" content="#">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@InsuredBee">
     <meta name="twitter:creator" content="@InsuredBee">
-    <meta name="twitter:title" content="Personal Lines by Bee Insured">
+    <meta name="twitter:title" content="Personal Lines by BeeInsured">
     <meta name="twitter:description" content="#">
     <meta name="twitter:image" content="#">
-    <meta name="twitter:image:alt" content="Personal Lines by Bee Insured">
+    <meta name="twitter:image:alt" content="Personal Lines by BeeInsured">
     <!--FACEBOOK CARDS-->
 <meta property="og:url" content="#" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Personal Lines by Bee Insured" />
+<meta property="og:title" content="Personal Lines by BeeInsured" />
 <meta property="og:description" content="#" />
 <meta property="og:image" content="#" />
       <!--CALL TRACKING-->

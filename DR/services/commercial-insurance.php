@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Commercial Insurance by Bee Insured</title>
+    <title>Commercial Insurance by BeeInsured</title>
      <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
 <link rel="canonical"  href="https://www.beeinsured.co/services/commercial-insurance">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/commercial-insurance">
@@ -14,21 +14,21 @@
  <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Commercial Insurance by Bee Insured">
+<meta itemprop="name" content="Commercial Insurance by BeeInsured">
 <meta itemprop="description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">
 <meta itemprop="image" content="https://www.beeinsured.co/img/fb/index-fb-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@InsuredBee">
     <meta name="twitter:creator" content="@InsuredBee">
-    <meta name="twitter:title" content="Commercial Insurance by Bee Insured">
+    <meta name="twitter:title" content="Commercial Insurance by BeeInsured">
     <meta name="twitter:description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs.">
     <meta name="twitter:image" content="http://cdn.ampproject.org/leader.jpg">
-    <meta name="twitter:image:alt" content="Commercial Insurance by Bee Insured">
+    <meta name="twitter:image:alt" content="Commercial Insurance by BeeInsured">
     <!--FACEBOOK CARDS-->
 <meta property="og:url" content="https://www.beeinsured.co/services/commercial-insurance" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Commercial Insurance by Bee Insured" />
+<meta property="og:title" content="Commercial Insurance by BeeInsured" />
 <meta property="og:description" content="We give you the best commercial insurance service LLC for your vehicles, tools, workers and general liability. Contact us Today to get the right insurance according to your needs." />
 <meta property="og:image" content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
       <!--ANUNCIO DE COOKIES -->

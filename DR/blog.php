@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Blog Bee Insured</title>
+    <title>Blog BeeInsured</title>
     <link rel="canonical"  href="https://www.beeinsured.co/blog.php">
     <link rel="alternate" lang="es" href="https://www.beeinsured.co/es/blog">
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">

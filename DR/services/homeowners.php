@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Homeowners by Bee Insured</title>
+    <title>Homeowners by BeeInsured</title>
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <link rel="canonical"  href="https://www.beeinsured.co/services/homeowners">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/homeowners">
@@ -14,23 +14,23 @@
     <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
     <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Homeowners by Bee Insured">
+    <meta itemprop="name" content="Homeowners by BeeInsured">
     <meta itemprop="description" content="Homeowners insurance is designed to protect you from the things that can damage your home, belongings, or hurt you financially. It covers wind/hail damage, fires, lightning, theft, and more. ">
     <meta itemprop="image" content="https://www.beeinsured.co/img/tw/homeowners-tw-card.jpg">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@InsuredBee">
     <meta name="twitter:creator" content="@InsuredBee">
-    <meta name="twitter:title" content="Homeowners by Bee Insured">
+    <meta name="twitter:title" content="Homeowners by BeeInsured">
     <meta name="twitter:description" content="Homeowners insurance is designed to protect you from the things that can damage your home, belongings, or hurt you financially. It covers wind/hail damage, fires, lightning, theft, and more. ">
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/homeowners-tw-card.jpg">
-    <meta name="twitter:image:alt" content="Homeowners by Bee Insured">
+    <meta name="twitter:image:alt" content="Homeowners by BeeInsured">
       <!--CALL TRACKING-->
 <script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
     <!--FACEBOOK CARDS-->
     <meta property="og:url" content="https://www.beeinsured.co/services/homeowners" />
     <meta property="og:type" content="website" />
-<meta property="og:title" content="Homeowners by Bee Insured" />
+<meta property="og:title" content="Homeowners by BeeInsured" />
 <meta property="og:description" content="Homeowners insurance is designed to protect you from the things that can damage your home, belongings, or hurt you financially. It covers wind/hail damage, fires, lightning, theft, and more. " />
 <meta property="og:image" content="https://www.beeinsured.co/img/fb/homeowners-fb-card.jpg" />
 <!--ANUNCIO DE COOKIES -->

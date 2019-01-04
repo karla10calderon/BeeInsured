@@ -26,7 +26,7 @@
     <meta name="twitter:description" content="Nuestro compromiso como Agencia de seguros es garantizar que cada cliente tenga un claro entendimiento de sus necesidades de seguro, la cobertura que necesitan y la póliza que están comprando. We are enfocados en el cliente a largo plazo, que nos ve no solo como una agencia de seguros.">
     <!-- Twitter -->
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
-    <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
+    <meta name="twitter:image:alt" content="BeeInsured - Insurance Services">
     <!--FACEBOOK CARDS-->
 <meta property="og:url"                content="https://www.beeinsured.co/es"/>
 <meta property="og:type"               content="website"/>
@@ -68,8 +68,8 @@
 {
   "@context": "http://schema.org/",
   "@type": "WebSite",
-  "name": "Bee Insured",
-  "alternateName": "Bee Insured Powered by KYC Insurance LLC",
+  "name": "BeeInsured",
+  "alternateName": "BeeInsured Powered by KYC Insurance LLC",
   "url": "www.beeinsured.co"
 }
 </script>
@@ -85,7 +85,7 @@
 {
   "@context": "http://schema.org",
   "@type": "InsuranceAgency",
-  "name": "Bee Insured",
+  "name": "BeeInsured",
   "image": "http://www.beeinsured.co/img/schema/index.jpg",
   "@id": "",
   "url": "http://www.beeinsured.co",
@@ -138,8 +138,8 @@
 {
   "@context": "http://schema.org",
   "@type": "Corporation",
-  "name": "Bee Insured",
-  "alternateName": "Bee Insured California",
+  "name": "BeeInsured",
+  "alternateName": "BeeInsured California",
   "url": "https://www.beeinsured.co/",
   "logo": "",
   "contactPoint": {

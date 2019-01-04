@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Contact your Bee Insured Agent for your quote</title>
+    <title>Contact your BeeInsured Agent for your quote</title>
    <link rel="canonical" href="https://www.beeinsured.co/contact">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/contacto">
    <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
@@ -12,16 +12,16 @@
 <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Contact your Bee Insured Agent for your quote">
-<meta itemprop="description" content="Contact us Today to get your quote and start with the Insurance Service that you need"><meta itemprop="image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg"><!-- Twitter Card tags --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="Bee Insured"><meta name="twitter:creator" content="Bee Insured">
-    <meta name="twitter:title" content="Contact your Bee Insured Agent for your quote">
+<meta itemprop="name" content="Contact your BeeInsured Agent for your quote">
+<meta itemprop="description" content="Contact us Today to get your quote and start with the Insurance Service that you need"><meta itemprop="image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg"><!-- Twitter Card tags --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="BeeInsured"><meta name="twitter:creator" content="BeeInsured">
+    <meta name="twitter:title" content="Contact your BeeInsured Agent for your quote">
     <meta name="twitter:description" content="Contact us Today to get your quote and start with the Insurance Service that you need">
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
     <meta name="twitter:image:alt" content="Insurance Service California, California Insurance, Los Angeles Insurance Agency">
     <!--FACEBOOK CARDS-->
       <meta property="og:url"                content="https://www.beeinsured.co/contact" />
 <meta property="og:type"               content="website" />
-<meta property="og:title"              content="Contact your Bee Insured Agent for your quote" />
+<meta property="og:title"              content="Contact your BeeInsured Agent for your quote" />
 <meta property="og:description"        content="Contact us Today to get your quote and start with the Insurance Service that you need" />
 <meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
     <!--CALL TRACKING-->
@@ -61,78 +61,35 @@
 
     
     <div class="contactus">
-        <div class="hijo">
-            <p class="section">Call Us</p>
-            <div class="info"><amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
-                <ul><li>562-473-4080</li><li>1-844-468-7400</li></ul></div><br>
-            
-            <div class="info"><amp-img src="https://www.beeinsured.co/img/msn.png" height="40" width="40"></amp-img><ul><li>info@beeinsured.co</li><li>Fax: 562-473-4074</li><li><b>Lic #0I32333</b></li></ul></div>
-            
-            <p class="section">Service hours:</p>
-            <div class="info"><ul><li>Mon - Thu: 9:00 am to 6:00 pm</li><li>Friday: 9:00 am to 4:00 pm</li></ul></div>
-        </div>
-
-<div class="hijo"><p class="section">Get your quote!</p>
-            <form method="post"
-  action-xhr="https://panel.beeinsured.co/api/addRequest"
-  target="_top"
-class="getquote">
-  <div class="jobform">
-    <input type="text"
-      name="name"
-      placeholder="Name"
-      required>
-      <input type="text"
-      name="name"
-      placeholder="Last Name"
-      required>
-    <input type="email"
-      name="email"
-      placeholder="Email"
-      required>
-      <input type="phone"
-      name="phone"
-      placeholder="Phone"
-      required>
-  </div> 
-  <input type="submit"
-    value="Send">
-  <div submit-success>
-    <template type="amp-mustache">
-      Success! Thanks {{name}}
-     
-    </template>
-  </div>
-  <div submit-error>
-    <template type="amp-mustache">
-   Error.
-    </template>
-  </div>
-</form>
-</div>        
+      <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
+            <p class="section">1 844 468 7400</p>
     </div>
-     <div class="contactus ultimo">
+    
+    <p class="servicesform">Please complete the form below to
+provide quick and efficient service.</p>
+    
+    <?php include('quote-general.php');?>
+    
+    <!-- <div class="contactus ultimo">
     <div class="hijo">
              <p class="section">Do you have an appointment?<br>Follow our location</p>
         </div>
-   </div>
+   </div> -->
     
-
-    
+ <p class="servicesadd"><b>Address</b></p>
+    <div class="dir"><amp-img src="/img/map-icon.png" width="45" height="52"></amp-img><p>17777 Center Court Drive N, Suite 600<br>Cerritos CA 90703</p></div>
+  
 <amp-iframe width="630" height="520"
     sandbox="allow-scripts allow-same-origin"
     class="mapa"
     layout="responsive"
     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13251.133382296599!2d-118.061231!3d33.869474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7ad391422bd4dba!2sBeeInsured+Insurance+Services!5e0!3m2!1sen!2smx!4v1546468267002"> 
     </amp-iframe>
-         <div class="dir">
-             <amp-img src="/img/map-icon.png" width="45" height="52"></amp-img>
-         <p class="section">17777 Center Court Drive N, Suite 600<br>
-Cerritos CA 90703</p>
-             </div>
-    <div class="slogan">
-        <p>Steps that build your future</p>
-    </div>
+          <p class="servicesform"><b>Office Hours: <br><br>
+        Monday to Thursday:</b> 9:00 am to 6:00 pm <b>PST<br>
+        Friday:</b>  9:00 am to 4:00 pm <b>PST</b>
+    </p>
+   <br><br>
   <button id="scrollToTopButton"
   on="tap:top-page.scrollTo(duration=200)"
   class="scrollToTop">⌃</button>

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-   <title>Workers Compensation by Bee Insured</title>
+   <title>Workers Compensation by BeeInsured</title>
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://www.beeinsured.co/services/workers-compensation">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/workers-compensation">
@@ -14,7 +14,7 @@
     <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
     <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Workers Compensation by Bee Insured">
+    <meta itemprop="name" content="Workers Compensation by BeeInsured">
     <meta itemprop="description" content="Workers Compensation Insurance can pay for three things when an employee is injured at work: medical bills, recovery costs, and partial missed wages. If an employee dies, Workers' Comp can cover funeral costs and benefits to the worker's family.">
 <meta itemprop="image" content="https://www.beeinsured.co/img/fb/workers-compensation-fb-card.jpg">
     <!-- Twitter Card tags -->
@@ -25,13 +25,13 @@
     <meta name="twitter:description" content="Workers Compensation Insurance can pay for three things when an employee is injured at work: medical bills, recovery costs, and partial missed wages. If an employee dies, Workers' Comp can cover funeral costs and benefits to the worker's family.">
     <!-- Twitter summary card with large image must be at least 280x150px -->
     <meta name="twitter:image" content="#">
-    <meta name="twitter:image:alt" content="Workers Compensation by Bee Insured">
+    <meta name="twitter:image:alt" content="Workers Compensation by BeeInsured">
       <!--CALL TRACKING-->
 <script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
     <!--FACEBOOK CARDS-->
 <meta property="og:url" content="https://www.beeinsured.co/services/workers-compensation" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Workers Compensation by Bee Insured" />
+<meta property="og:title" content="Workers Compensation by BeeInsured" />
 <meta property="og:description" content="Workers Compensation Insurance can pay for three things when an employee is injured at work: medical bills, recovery costs, and partial missed wages. If an employee dies, Workers' Comp can cover funeral costs and benefits to the worker's family." />
 <meta property="og:image" content="#" />
       <!--ANUNCIO DE COOKIES -->

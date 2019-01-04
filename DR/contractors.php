@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured - Contractors</title>
+    <title>BeeInsured - Contractors</title>
  <link rel="canonical" href="https://www.beeinsured.co/contractors">
     <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/contratistas">
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
@@ -15,23 +15,23 @@
 <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Bee Insured - Contractors">
+<meta itemprop="name" content="BeeInsured - Contractors">
 <meta itemprop="description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services.">
 <meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png"><!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="Bee Insured - Contractors">
-    <meta name="twitter:creator" content="Bee Insured">
-    <meta name="twitter:title" content="Bee Insured - Contractors">
+    <meta name="twitter:site" content="BeeInsured - Contractors">
+    <meta name="twitter:creator" content="BeeInsured">
+    <meta name="twitter:title" content="BeeInsured - Contractors">
     <meta name="twitter:description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services.">
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
-    <meta name="twitter:image:alt" content="Bee Insured - Contractors">
+    <meta name="twitter:image:alt" content="BeeInsured - Contractors">
     <!--FACEBOOK CARDS-->
 <meta property="og:url" content="https://www.beeinsured.co/contractors" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Bee Insured - Contractors" />
+<meta property="og:title" content="BeeInsured - Contractors" />
 <meta property="og:description" content="We work with the best insurances companies for can offer you the lower rate on your insurance services." />
 <meta property="og:image" content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
-<meta property="og:site_name" content="Bee Insured" />
+<meta property="og:site_name" content="BeeInsured" />
 <meta property="article:tag" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency" />
 <!--ANUNCIO DE COOKIES -->
 <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
