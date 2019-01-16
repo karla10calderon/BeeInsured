@@ -20,41 +20,18 @@
     <meta name="twitter:title" content="BeeInsured Blog">
     <meta name="twitter:description" content="Learn more about Insurance in BeeInsured Blog">
     <meta name="twitter:image" content="#">
-      <!--ANUNCIO DE COOKIES -->
-<script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
-    <!--GOOGLE FONTS -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-        <!--GOOGLE ANALYTICS-->
- <script async custom-element="amp-analytics"
-    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
-        <!--ACORDION FORMULARIO-->
-     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-    <!--MUSTACHE FORM-->
-    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
-    <!--BACK TO TOP FALTA--> 
-    <!--CALL TRACKING-->
-<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
-    <!--YOUTUBE -->
-      <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
-    <!--SEARCH BOX-->
-    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
-   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<?php readfile( getcwd() . "/ampset.php"); ?>
+<?php readfile( getcwd() . "/ampyt.php"); ?>
   <style amp-custom><?php readfile( getcwd() . "/styles.css"); ?></style>
 </head>
-<body> <amp-user-notification layout="nodisplay"
-  id="amp-user-notification1">
-  We use technical and analytics cookies to ensure that we give you the best experience on our website.
-  <button on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification>
-    <!--SEGUMIENTO DE ANALYTICS -->
-<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>
+<body>
 <?php include('menu.php');?>
     
     
      <div class="espacioblog">
          
-         <a href="https://www.beeinsured.co/blog/what-know-before-getting-insured" class="nuevoblog">
-           <amp-img src="https://www.beeinsured.co/img/blog/1-things-should-know.jpg" class="fotoblog" width="1680" height="570" layout="responsive"></amp-img>
+         <a  href="https://www.beeinsured.co/blog/what-know-before-getting-insured" class="nuevoblog">
+           <amp-img  src="https://www.beeinsured.co/img/blog/1-things-should-know.jpg" class="fotoblog" width="1680" height="570" layout="responsive"></amp-img>
              <div class="footpage">
                  <div class="titulos">
         <p class="tituloblog">This is what you have to know before getting insured.</p>

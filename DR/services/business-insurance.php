@@ -44,4 +44,4 @@ To cover specific risks associated with a business, a variety of additional cove
 Only small- to medium-sized businesses that meet certain criteria are eligible for a BOP. Factors insurers consider include the size of the premises, the required limits of liability, the type of business and the extent of offsite activity. Premiums for BOP policies are based on those factors plus business location, financial stability, building construction, security features and fire hazards.<br><br>
 
     </p></div>
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../footer-menu.php');?></html>
+ </body><?php include('../footer-menu.php');?></html>

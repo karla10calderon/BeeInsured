@@ -38,3 +38,11 @@ DirectorySlash Off
 RewriteCond %{DOCUMENT_ROOT}/$1.php -f
 RewriteRule ^(.+?)/?$ /$1.php [L]
 
+#UserLang Espanol
+RewriteCond %{HTTP:Accept-Language} ^es [NC]
+RewriteRule ^$ https://www.beeinsured.co/es/ [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(es)/?$ index.php?lang=$1 [QSA,NC,L]

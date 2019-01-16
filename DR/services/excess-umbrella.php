@@ -78,4 +78,4 @@
     
  <div class="dot"><strong class="bold">Employer's Liability claims:</strong> Employer's Liability is the part of your policy that protects you against lawsuits linked to Workers' Compensation claims. Workers' Comp benefits will automatically pay for an injured employee's medical bills and lost wages during recovery, but if an employee sues you for providing an unsafe environment that caused the injury, you'll need Employer's Liability coverage. Should the cost of a Workers' Comp lawsuit exceed your Employer's Liability coverage, Umbrella Insurance can fill in the gap.
     </div></div>
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../footer-menu.php');?></html>
+ </body><?php include('../footer-menu.php');?></html>

@@ -1,4 +1,4 @@
-<div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img><div class="formulario">
+<div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive" alt="John from BeeInsured" title="John from BeeInsured"></amp-img><div class="formulario">
 <!--FORMULARIO CORTO DE CONTACTO-->
        <form method="post"
     action-xhr="https://panel.beeinsured.co/api/addRequest"

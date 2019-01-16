@@ -22,7 +22,6 @@
                 <form method="post" id="requestForm" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
 
                     <input type="text" name="type" value="cert" style="display:none" />
-                    <div class="espacio"><a class="langform" href="https://www.beeinsured.co/es/services/certificates">En Español</a></div>
                     <fieldset>
                         <label>
                             <input type="text" name="name" placeholder="First Name" required>

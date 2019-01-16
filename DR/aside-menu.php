@@ -9,7 +9,7 @@
    <amp-img  src="/img/youtube-aside-john-ben.png" width="445" height="580" layout="responsive"></amp-img>      
         
 <ul class="services">
-    <h2 class="menuservices"><a href="https://www.beeinsured.co/services/commercial-insurance">Commercial Insurance Services</a></h2>  
+    <h2 class="menuservices"><a href="https://www.beeinsured.co/services">Commercial Insurance Services</a></h2>  
     
     <h3><a href="https://www.beeinsured.co/services/workers-compensation">Workers Compensation</a></h3>
       <h3><a href="https://www.beeinsured.co/services/general-liability">General Liability</a></h3>

@@ -36,26 +36,9 @@
 <meta name="geo.placename" content="cerritos" />
 <meta name="geo.position" content="33.8686023;-118.0612772" />
 <meta name="ICBM" content="33.8686023, -118.0612772" />
-<!--ANUNCIO DE COOKIES -->
-<script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
-<!--GOOGLE ANALYTICS-->
-<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
-<!--GOOGLE FONTS -->
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-<link href="https://fonts.gstatic.com" rel="preconnect">
-<link href="https://fonts.gstatic.com" rel="dns-prefetch">
-<!--CALL TRACKING-->
-<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
-<!--ACORDION FORMULARIO-->
-<script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-<!--MUSTACHE FORM-->
-<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
-<!--SEARCH BOX-->
-<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
-<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
-<script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
-<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+<?php readfile( getcwd() . "/ampset.php"); ?>
+  
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
@@ -164,14 +147,89 @@
 }
 </script>
 <style amp-custom><?php readfile( getcwd() . "/styles.css"); ?></style></head><body>
+
 <?php include('menu.php'); ?>
 <?php include('chat.php'); ?>
 <!--FOTO CALL TO ACTION -DEBE ENVIAR A FORMULARIO OCULTO -->
  <amp-img class="oculto" src="https://www.beeinsured.co/img/carrousel/hero.jpg" width="1920" height="395" layout="responsive"></amp-img>
-<!--ORMULARIO OCULTO -->
-<div class="hiddeform">
-  <?php include('quote-general.php'); ?>
-</div>
+    
+  <!--FORMULARIO--><div class="cotizacion"><div class="formulario">
+<!--FORMULARIO CORTO DE CONTACTO-->
+       <form method="post"
+    action-xhr="https://panel.beeinsured.co/api/addRequest"
+    target="_top"
+    class="quote">
+    <fieldset>
+      <label>
+        <input type="text"
+          name="name"
+          placeholder="Name"
+          required>
+      </label>
+      <br>
+      <label>
+        <input type="email"
+          name="Email"
+          placeholder="Email"
+          required>
+      </label>
+      <br>
+      <label>
+         <input type="text"
+          name="Phone"
+          placeholder="Phone"
+          required>
+      </label>
+  <br>
+       <div class="options">
+            <select name=“Service” id="status">
+               
+                <option value=“WorkersComp”>Workers Compensation</option>
+                
+                <option value=“GeneralLiability”>General Liability</option>
+                
+                <option value=“CommercialVehicle”>Commercial Vehicle</option>
+                
+                <option value=“Bond”>Bond</option>
+                
+                <option value=“SmallBusiness”>Small Business</option>
+                
+                <option value=“ToolEquipment”>Tool & Equipment</option>
+                
+                <option value=“ExcessUmbrella”>Excess & Umbrella</option>
+                <option value=“Homeowners”>Homeowners</option>
+                <option value=“PersonalAuto”>Personal Auto</option>
+                <option value=“Certificates”>Certificates</option>
+                <option value=“Other”>
+                Other</option>
+           </select> 
+             
+        </div>
+      <input type="submit"
+        value="Send">
+    </fieldset>
+    <div submit-success>
+      <template type="amp-mustache">
+        Subscription successful!
+      </template>
+    </div>
+    <div submit-error>
+      <template type="amp-mustache">
+        Subscription failed!
+      </template>
+    </div>
+  </form>      
+                 </div>
+    </div>
+<!--OUR PARTNERS -->
+ <a href="/our-partners"><div class="carriers">
+        <h5> We work with <strong> the best<br>insurance companies</strong> in America</h5>
+    <div class="listpartners">
+
+      <amp-img src="https://www.beeinsured.co/img/carriers-white.png" width="1415" height="100"  layout="responsive"></amp-img>
+
+    </div>
+    </div></a>
 <!--SERVICIOS MENU PRINCIPAL -->
 <div class="centerindex">
   <div class="seccionservicios"> 
@@ -179,47 +237,34 @@
       
      <!--SERVICIOS --> 
 <div class="cuadroservicio">
- <a href="#" title="Workers Compensation">
+ <a href="https://www.beeinsured.co/services/workers-compensation" title="Workers Compensation">
 <div class="servicio">
-<amp-img  src="img/services/workers-compensation-index.jpg" width="380" height="380" layout="responsive" alt="Workers Compensation Quote by BeeInsured" title="Workers Compensation by BeeInsured"></amp-img>
+<amp-img  src="https://www.beeinsured.co/img/services/workers-compensation-index.jpg" width="380" height="380" layout="responsive" alt="Workers Compensation Quote by BeeInsured" title="Workers Compensation by BeeInsured"></amp-img>
 </div>
-<h4 class="descrip">A general manufactured housing contractor installs, alters, repairs, or prepares for moving any type of manufactured home.</h4>
 </a><h2 >Workers<br>Compensation</h2>
 </div>
         
 <!--SERVICIOS --> 
 <div class="cuadroservicio">
- <a href="#">
+ <a href="https://www.beeinsured.co/services/general-liability">
 <div class="servicio">
-<amp-img  src="img/general-liability-index.jpg" width="380" height="380" layout="responsive" alt="General Contractors by BeeInsured" title="Insurance Services for General Contractors"></amp-img>
+<amp-img  src="https://www.beeinsured.co/img/general-liability-index.jpg" width="380" height="380" layout="responsive" alt="General Liability by BeeInsured" title="Insurance Services for General Liability"></amp-img>
 </div>
-<h4 class="descrip">A general manufactured housing contractor installs, alters, repairs, or prepares for moving any type of manufactured home.</h4>
 </a>
     <h2>General<br>Liability</h2>
-</div>
-       
-      
-     <!--SERVICIOS --> 
-<div class="cuadroservicio">
- <a href="#">
-<div class="servicio">
-    <h4 class="descrip">A general manufactured housing contractor installs, alters, repairs, or prepares for moving any type of manufactured home.</h4>
-<amp-img  src="img/services/commercial-vehicle-index.jpg" width="380" height="380" layout="responsive" alt="General Contractors by BeeInsured" title="Insurance Services for General Contractors"></amp-img>
-</div>
-
-</a>
-    <h2 >Commercial<br>Vehicle</h2>
+</div><!--SERVICIOS --> 
+<div class="cuadroservicio"><a href="https://www.beeinsured.co/services/commercial-vehicle">
+<div class="servicio"><amp-img  src="https://www.beeinsured.co/img/services/commercial-vehicle-index.jpg" width="380" height="380" layout="responsive" alt="Commercial Vehicle by BeeInsured" title="Insurance Services for Commercial Vehicle California"></amp-img></div></a><h2 >Commercial<br>Vehicle</h2>
 </div>
         
 
     
     <!--SERVICIOS --> 
 <div class="cuadroservicio">
- <a href="#">
+ <a href="https://www.beeinsured.co/services/bond">
 <div class="servicio">
-<amp-img  src="img/grid.jpg" width="380" height="380" layout="responsive" alt="General Contractors by BeeInsured" title="Insurance Services for General Contractors"></amp-img>
+<amp-img  src="https://www.beeinsured.co/img/grid.jpg" width="380" height="380" layout="responsive" alt="Bond insurance by BeeInsured" title="Insurance Services Bond California"></amp-img>
 </div>
-<h4 class="descrip">A general manufactured housing contractor installs, alters, repairs, or prepares for moving any type of manufactured home.</h4>
 </a>
     <h2 >Bond</h2>
 </div>
@@ -232,40 +277,30 @@
         <div class="otrosserv">
 
         <div class="serv">
-            <amp-img src="img/services/new-icon/small-business.png" width="150" height="150" layout="responsive"></amp-img>
+            <a href="https://www.beeinsured.co/services/small-business">
+            <amp-img src="https://www.beeinsured.co/img/services/new-icon/small-business.png" width="90" height="90" layout="responsive"></amp-img>
             <h4>Small<br>Business</h4>
+            </a>
         </div>  
         <div class="serv">
-            <amp-img src="img/services/new-icon/tool.png" width="150" height="150" layout="responsive"></amp-img>
+            <a href="https://www.beeinsured.co/services/inland-marine-tool">
+            <amp-img src="https://www.beeinsured.co/img/services/new-icon/tool.png" width="90" height="90" layout="responsive"></amp-img>
              <h4>Tool &<br>Equipment</h4>
+            </a>
         </div>
-        <div class="serv">
-            <amp-img src="img/services/new-icon/excess.png" width="150" height="150" layout="responsive"></amp-img>
+        <div class="serv"><a href="https://www.beeinsured.co/services/excess-umbrella">
+            <amp-img src="https://www.beeinsured.co/img/services/new-icon/excess.png" width="90" height="90" layout="responsive"></amp-img>
              <h4>Excess &<br>Umbrella</h4>
+            </a>
         </div>  
-        <div class="serv">
-            <amp-img src="img/services/new-icon/personal-lines.png" width="150" height="150" layout="responsive"></amp-img>
+        <div class="serv"><a href="https://www.beeinsured.co/services/personal-lines">
+            <amp-img src="https://www.beeinsured.co/img/services/new-icon/personal-lines.png" width="90" height="90" layout="responsive"></amp-img>
              <h4>Personal<br>Lines</h4>
+            </a>
         </div> 
             
         </div>
     
     </div>
-    
-<!--OUR PARTNERS -->
- <a href="/our-partners"><div class="carriers">
-        <h5> We work with <strong> the best<br>insurance companies</strong> in America</h5>
-    <div class="listpartners">
-
-      <amp-img src="/img/carriers-white.png" width="1415" height="100"  layout="responsive"></amp-img>
-
-    </div>
-    </div></a>
-    
-    
-    <!--FORMULARIO-->
-    <?php include('quote-general.php'); ?>
-      <?php include('blog-menu.php'); ?>
-    <?php include('footer-menu.php'); ?>
-    </body>
-</html>
+  
+<?php include('blog-menu.php'); ?><?php include('footer-menu.php'); ?></body></html>

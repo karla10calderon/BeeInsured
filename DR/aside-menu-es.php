@@ -9,7 +9,7 @@
    <amp-img  src="https://www.beeinsured.co/img/Youtube-Channel-Banner-es.jpg" width="445" height="580" layout="responsive"></amp-img>      
         
 <ul class="services">
-    <h2 class="menuservices"><a href="https://www.beeinsured.co/es/services/commercial-insurance">Seguros comerciales</a></h2>  
+    <h2 class="menuservices"><a href="https://www.beeinsured.co/es/services">Seguros comerciales</a></h2>  
     
     <h3><a href="https://www.beeinsured.co/es/services/workers-compensation">Workers Compensation</a></h3>
       <h3><a href="https://www.beeinsured.co/es/services/general-liability">General Liability</a></h3>

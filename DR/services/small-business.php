@@ -81,4 +81,4 @@
             <div class="dot">Consultants</div>
 </div>
     
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../footer-menu.php');?></html>
+ </body><?php include('../footer-menu.php');?></html>

@@ -114,5 +114,5 @@ From the smallest hand tools to larger equipment such as welders, nail guns, gen
     </amp-accordion>
 
     </div>
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body>
+ </body>
 <?php include('../footer-menu.php');?></html>

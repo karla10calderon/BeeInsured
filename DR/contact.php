@@ -51,7 +51,7 @@
 <body>
     <amp-user-notification layout="nodisplay"
   id="amp-user-notification1"><p>
-  We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
+  We use technical and analytics cookies to<br> ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification>
     <!--SEGUMIENTO DE ANALYTICS -->

@@ -86,8 +86,8 @@
   gtag('config', 'UA-122019596-1');
 </script>
 
- <?php include('../menu-noamp.php');?>
-  <?php include ('../chat.php');?>
+ <?php include('../menu.php');?>
+  <?php include ('../../chat.php');?>
     <!--SEGUMIENTO DE ANALYTICS -->
    
         <div class="title-section">
@@ -107,7 +107,6 @@
                 <form method="POST" id="requestForm" action="https://panel.beeinsured.co/api/addRequest"  class="quote">
 
                     <input type="text" name="type" value="cert" style="display:none" />
-                    <div class="espacio"><a class="langform" href="https://www.beeinsured.co/es/services/certificates">En Español</a></div>
                     <fieldset>
                         <label>
                             <input type="text" name="name" placeholder="Name" required>
@@ -179,9 +178,8 @@
                         <label>
                             <input type="text" name="scopeOfWork" placeholder="Scope of work" required>
                         </label>
-                  
+                  <br>
                         <p class="note">If the project requires any additional insured endorsements, please provide the following information</p>
-
                         <label><br>
                             <input type="text" name="projectAddress" placeholder="Project Address">
                         </label>
@@ -205,11 +203,13 @@
                         <label>
                             <input type="text" name="estimatedGrossReceipts" placeholder="Estimated Gross Receipts" required>
                         </label>
-                       
+                          <br>
                         <p class="note">If your contract requires a scheduled additional insured endorsement, please provide us with the exact legal name of the entity to be listed</p>
                         <!--FALTA BOTON DE SUBIR DOCUMENTOS-->
                         <br>
-                          <input type="file" name="pic" accept="image/*"><br>
+                          <input type="file" name="file" accept="application/pdf" required><br>
+                       
+                        
                         
                         <p class="final-note">The California Business and Professions Code section 7159 stipulates all of the contractual requirements for public works and which mention the insurance items to be addressed on each project.
                             <br> Please review the contract you have with the enclosed certificate holder and/or additional insured to make sure you have all of the required endorsements and coverages.
@@ -227,5 +227,5 @@
         </div>
 
 </body>
- <?php include('../footer-noamp.php');?>
+ <?php include('../footer-menu.php');?>
 </html>

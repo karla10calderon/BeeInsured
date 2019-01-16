@@ -66,4 +66,4 @@ Excellent environment with growth opportunities. We offer salary plus commission
     
 
     
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button> </body><?php include('footer-menu.php');?></html>
+  </body><?php include('footer-menu.php');?></html>

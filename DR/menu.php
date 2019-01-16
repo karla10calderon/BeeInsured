@@ -1,22 +1,32 @@
+<!--ANUNCIO DE COOKIES -->
+<amp-user-notification layout="nodisplay"
+  id="amp-user-notification1">
+  We use technical and analytics cookies to ensure that we give you the best experience on our website.
+  <button on="tap:amp-user-notification1.dismiss">Accept</button>
+</amp-user-notification>
+<!--SEGUMIENTO DE ANALYTICS -->
+<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>
+ <!--BACK TO TOP -->
+<div id="top-page"></div> <amp-animation id="showAnim" layout="nodisplay"> <script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script> </amp-animation> <amp-animation id="hideAnim" layout="nodisplay"> <script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script> </amp-animation><div id="marker"> <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"> </amp-position-observer></div>  
+
+
 <div class="top">
     <ul class="contact">
     <div class="nav2">
-        <div class="seleclang">
+        <div class="seleclang"><a href="https://www.beeinsured.co/es">
         <li>
             <amp-img src="https://www.beeinsured.co/img/lang.png" height="35" width="35"></amp-img>
         </li>
         <li><p class="servicetext">Español</p>
-     </li></div>
+            </li></a></div>
     </div>
-
-        <li class="lineavertical"></li>
         
         <li>
             <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="35" width="35"></amp-img>
         </li>
         <li><p class="servicetext">Call Us Now!</p>
 <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
- <a  class="phonenumber"href="tel:18444687400">1 844 468 7400</a>
+ <a  class="phonenumber"href="tel:18444687400">844 468 7400</a>
 </amp-call-tracking>
      </li>
     </ul>
@@ -27,7 +37,7 @@
 <div class="menu-desktop">
     <ul class="nav">
         <li class="barra"><a href="https://www.beeinsured.co">Home</a></li>
-        <li><a href="https://www.beeinsured.co/services/insurance-services" class="barra">Insurance</a>
+        <li><a href="https://www.beeinsured.co/services" class="barra">Insurance</a>
             <ul class="hidden">
                 <div class="column">
                     <li><a href="https://www.beeinsured.co/services/workers-compensation">Workers Compensation</a></li>
@@ -68,7 +78,6 @@
                     <li><a href="https://www.beeinsured.co/contractors/glazing">Glazing</a></li>
                     <li><a href="https://www.beeinsured.co/contractors/refrigeration">Refrigeration</a></li>
                     <li><a href="https://www.beeinsured.co/contractors/sheet-metal">Sheet Metal</a></li>
-<!--                    <li><a href="https://www.beeinsured.co/contractors/">Other</a></li>-->
                 </div>
             </ul>
         </li>
@@ -80,12 +89,11 @@
                     <li><a href="https://www.beeinsured.co/job-opportunities">Job Opportunities</a></li>
                     <li><a href="https://www.beeinsured.co/our-partners">Our Partners</a></li>
                     <li><a href="https://www.beeinsured.co/about-us">About Us</a></li>
-                    <li><a href="https://www.beeinsured.co/our-team">Team</a></li>
                 </div>
             </ul>
         </li>
        <li class="barra blog"><a href="https://www.beeinsured.co/blog">Blog</a></li>
-          <li class="barra blog"><a href="https://www.beeinsured.co/faqs">FAQ's</a></li>
+<!--          <li class="barra blog"><a href="https://www.beeinsured.co/faqs">FAQ's</a></li>-->
     </ul>
    
 </div>
@@ -93,13 +101,12 @@
 <div class="menu-responsive">
     <div class="primero">
         <div class="hamburger">
-            <amp-img  src="https://www.beeinsured.co/img/hamburger-search-menu.png" width="70" height="55" layout="responsive"></amp-img>
-            
+            <amp-img  src="https://www.beeinsured.co/img/hamburger-search-menu.png" width="40" height="32" layout="responsive"></amp-img>
 <!--FULL SCREEN MENU-->   
 <div class="pantalla-menu">
 <ul class="contenido-responsive">
-    <li class="cajas"><a class="texto" href="">Home</a></li>
-    <li class="cajas"><a class="texto" href="">Insurance Services</a>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co">Home</a></li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/services">Insurance Services</a>
     
     <ul class="hidden">
                     <li><a href="https://www.beeinsured.co/services/workers-compensation">Workers Compensation</a></li>
@@ -109,42 +116,39 @@
                     <li><a href="https://www.beeinsured.co/services/small-business">Small Business</a></li>
                     <li><a href="https://www.beeinsured.co/services/inland-marine-tool">Tool & Equipment</a></li>
                     <li><a href="https://www.beeinsured.co/services/excess-umbrellahttps://www.beeinsured.co/contractors/">Excess & Umbrella</a></li>
-                    <li><a href="https://www.beeinsured.co/services/personal-lines">Personal Lines</a></li>
+                    <li><a href="https://www.beeinsured.co/services/personal-auto">Personal Auto</a></li>
+                    <li><a href="https://www.beeinsured.co/services/homeowners">Homeowners</a></li>
                 </ul>
     </li><!--DROPDOWN MENU--> 
-    <li class="cajas"><a class="texto" href="">Certificates</a></li>
-    <li class="cajas"><a class="texto" href="">Contact Us</a>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/services/certificates">Certificates</a></li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/contact">Contact Us</a>
     <ul class="hidden">
                      <li><a href="https://www.beeinsured.co/job-opportunities">Job Opportunities</a></li>
                     <li><a href="https://www.beeinsured.co/our-partners">Our Partners</a></li>
                     <li><a href="https://www.beeinsured.co/about-us">About Us</a></li>
-                    <li><a href="https://www.beeinsured.co/our-team">Team</a></li>
                 </ul>
     
     
     </li><!--DROPDOWN MENU-->  
-    <li class="cajas"><a class="texto" href="">Contractors</a></li>
-    <li class="cajas"><a class="texto" href="">Blog</a></li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/contractors">Contractors</a></li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/blog">Blog</a></li>
 </ul>
 </div>
         </div>
         
   <div class="idioma">
       <a href="https://www.beeinsured.co/es" title="BeeInsured en Español">
-    <amp-img src="https://www.beeinsured.co/img/lang.png" height="25" width="25"></amp-img><p>ESP</p>
+    <amp-img src="https://www.beeinsured.co/img/lang.png" height="20" width="20" layout="responsive"></amp-img><p>ESP</p>
         </a>
 </div>
     </div>
     <div class="segundo">
      <a href="https://www.beeinsured.co">
-        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="BeeInsured Steps that build your future" title="Logo BeeInsured" height="83" width="252" layout="responsive"></amp-img>
+        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="BeeInsured Steps that build your future" title="Logo BeeInsured" height="65" width="200" layout="responsive"></amp-img>
     </a>
     </div>
     <div class="tercero">
    <p >Call Us Now!</p>
 <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
  <a class="call" href="tel:18444687400">844 468 7400</a>
-</amp-call-tracking>
-    </div>
-</div>
-
+</amp-call-tracking></div></div>

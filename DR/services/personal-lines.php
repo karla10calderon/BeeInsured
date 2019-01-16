@@ -56,26 +56,14 @@
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu.php');?>
-    <div class="title-section"><h1>Personal Lines </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/personal-lines" class="active">Personal Lines</a></li></ol>
+    <div class="title-section"><h1>Personal Lines </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/personal-lines" class="active">Personal Lines</a></li></ol>
     
     <div class="espaciocontractors perlines">
    
-        <a href="https://www.beeinsured.co/services/personal-auto" class='square-box'>
- <div class='square-content'>
-     
-     <amp-img  src="/img/services/new-icon/personal-auto.png" width="150" height="150" layout="responsive" alt="Personal Auto Insurance by BeeInsured" title="Personal Auto Insurance by BeeInsured" ></amp-img>
-
-     <div><h2 class="contratistas">Personal Auto</h2>
-              <p>All of the Insurance companies we represent provide a wide range of auto Insurance products at a fair price.Your price gets even better if you qualify for any of our available discounts.
-    </p>
-        </div></div></a>
-        
-           <a href="https://www.beeinsured.co/services/homeowners" class='square-box'>
-    <div class='square-content'><amp-img src="/img/services/new-icon/homeowner.png" width="150" height="150" layout="responsive" alt="Homeowners by BeeInsured" title="Homeowners bye BeeInsured" ></amp-img><div>
+        <a href="https://www.beeinsured.co/services/personal-auto" class='square-box'><div class='square-content'><amp-img  src="https://www.beeinsured.co/img/services/new-icon/personal-auto.png" width="150" height="150" layout="responsive" alt="Personal Auto Insurance by BeeInsured" title="Personal Auto Insurance by BeeInsured" ></amp-img><div><h2 class="contratistas">Personal Auto</h2></div></div></a> <a href="https://www.beeinsured.co/services/homeowners" class='square-box'><div class='square-content'><amp-img src="https://www.beeinsured.co/img/services/new-icon/homeowner.png" width="150" height="150" layout="responsive" alt="Homeowners by BeeInsured" title="Homeowners bye BeeInsured" ></amp-img><div>
         
        
-<h2 class="contratistas">Homeowners</h2>
-        <p> Homeowner insurance is a form of property insurance that covers losses and damages to an individual's house and to assets in the home.</p></div></div>
+<h2 class="contratistas">Homeowners</h2></div></div>
 </a>
     </div>  
          
