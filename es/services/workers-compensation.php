@@ -57,113 +57,31 @@
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script>
-</amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?><div class="title-section"><h1>Workers Compensation</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es/">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/workers-compensation" class="active">Workers Compensation</a></li></ol> <div class="expositor"> <div class="texto-servicio workers"><h2>Workers' Compensation Insurance can pay for three<br>things when an employee is injured at work: medical<br>bills, recovery costs, and partial missed wages.</h2></div><amp-img src="https://www.beeinsured.co/img/services/workers-compensation.jpg" width="1680" height="570" layout="responsive" ></amp-img></div>
-      
-      <div class="cotizacion">
-    <amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive" alt="#" title="#"></amp-img>
-    <div class="formulario">
-        <!--Compensación de trabajadores-->
-        <form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote"> <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/workers-compensation">English</a></div>
-            <input type="text" name="type" value="quote" style="display:none"/>
-            <fieldset>
-                <label>
-                    <input type="text" name="nombre" placeholder="Nombre" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="Apellido" placeholder="Apellido" required>
-                </label>
-                <br>
-                <label>
-                    <input type="email" name="email" placeholder="Email" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="telefono" placeholder="Teléfono" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="telefonoCasa" placeholder="Teléfono de casa" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="direccion" placeholder="Dirección" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="ciudad" placeholder="Ciudad" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="estado" placeholder="Estado" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="codigoPostal" placeholder="Código Postal" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="propietario" placeholder="Nombre del propietario" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="NombreCompania" placeholder="Nombre la compañía" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="taxIdNumero" placeholder="Tax ID Número" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="SeugroSocial" placeholder="Número de seguro social" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="FechaNacimiento" placeholder="Fecha de nacimiento (MM/DD/AAAA)" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="Seguro" placeholder="¿Está asegurado? Si es afirmativo, mencione a la compañía">
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="contractorLicNumero" placeholder="Número de Licencia de Contratista" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="tiempoNegocio" placeholder="Años en el negocio" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="NominaAnual" placeholder="Nómina anual" required>
-                </label>
-                <br>
-                <label>
-                    <input type="text" name="numeroEmpleados" placeholder="Número de empleados" required>
-                </label>
-                <br>
-                <input type="submit" value="Enviar">
-            </fieldset>
-            <div submit-success>
-                <template type="amp-mustache">Envío exitoso. </template>
-            </div>
-            <div submit-error>
-                <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
-            </div>
-        </form>
-    </div>
-</div>
-      <div class="info"><p> 
+</amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?><amp-img  class="oculto" src="https://www.beeinsured.co/img/services/workers-compensation.jpg" width="1680" height="570" layout="responsive" ></amp-img><div class="title-section"><h1>Workers Compensation</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es/">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/workers-compensation" class="active">Workers Compensation</a></li></ol> 
+<div class="center"><p>Sabía usted que el trabajo en la construcción es mucho más peligroso y riesgoso que un oficinista? 
+Muchos contratistas resultan heridos durante operaciones de construcción y operaciones completadas. 
+Workers Compensation es el seguro por accidentes de trabajo. <strong class="bold">Es pagado por el patrón, el empleador o los contratistas independientes</strong>, es requerido a nivel estatal y se paga basado en la nómina.
+ <br><br>
+    El tiempo corre. Proteja a sus empleados y no pague de más.<br></p>
+    
+<h2 class="sub">¡Obtenga su cotización GRATIS AHORA!</h2>
           
-          El seguro de <b>Workers Compensation</b> puede pagar tres cosas cuando un empleado se lesiona en el trabajo: facturas médicas, costos de recuperación y salarios perdidos parciales. Si un empleado muere, <strong>Workers 'Comp</strong> puede cubrir los costos y beneficios del funeral a la familia del trabajador. Dependiendo de las leyes estatales y los requisitos del contrato, es posible que necesite esta política para cubrir a los empleados, contratistas, trabajadores independientes o incluso a usted mismo.<br><br>
-          <strong>Workers 'Comp</strong> surgió de una "gran negociación" entre empresarios y trabajadores. Los dueños de negocios estaban cansados de ser demandados por trabajadores lesionados. Los trabajadores estaban cansados de lesionarse.<br><br>
-La mayoría de los estados exige que los empleadores compren un seguro de indemnización laboral tan pronto como contraten a su primer empleado. Incluso cuando ese no es el caso, es inteligente tener esta política, porque el costo de las lesiones en el lugar de trabajo es sustancial<br><br>
+<?php include('../quote-general-es.php');?>
+          
+      
+    <h2 class="sub">¿Qué cubre el Seguro de Workers Compensation?</h2><br>
+    <div class="dot">Facturas médicas</div>
+    <div class="dot">Costos de recuperación</div>
+    <div class="dot">Salarios perdidos parciales</div><br>
 
-A medida que las tasas de seguro de Workers Compensation continúan aumentando, también lo hacen los costos operativos que disminuyen su capacidad para prosperar. Los factores más importantes a considerar al colocar cualquier negocio con una compañía de seguros son la solidez, el manejo de reclamos, el servicio y el precio de la póliza. Al ubicar su negocio con una compañía segura y de precio competitivo, minimiza la posibilidad de reducciones de personal y maximiza su potencial de crecimiento.
-          
-          </p></div>
+<p>Si un empleado muere, Workers Comp cubrirá los costos y beneficios del funeral a la familia del trabajador. Dependiendo de las leyes estatales y los requisitos del contrato.</p>
+
+
+<?php include('../../blog-menu-es.php');?>
+
+
       
-      <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
+      </div> <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
 </body>
  <?php include('../../footer-menu-es.php');?>
 </html>

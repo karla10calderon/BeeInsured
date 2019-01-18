@@ -1,11 +1,11 @@
 <!doctype html>
-<html amp lang="es">
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Contacta a un agente de BeeInsured para una cotización</title>
-   <link rel="canonical" href="https://www.beeinsured.co/es/contact">
-    <link rel="alternate" hreflang="en" href="https://www.beeinsured.co/contact">
+    <title>Contact your BeeInsured Agent for your quote</title>
+   <link rel="canonical" href="https://www.beeinsured.co/contact">
+    <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/contacto">
    <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="Contact us Today to get your quote and start with the Insurance Service that you need"><meta name="keywords" content="Insurance Service California, California Insurance, Los Angeles Insurance Agency"><meta name="author" content="BeeInsured">
@@ -51,86 +51,39 @@
 <body>
     <amp-user-notification layout="nodisplay"
   id="amp-user-notification1"><p>
-  We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
+  We use technical and analytics cookies to<br> ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification>
     <!--SEGUMIENTO DE ANALYTICS -->
-<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?>
-<amp-img src="https://www.beeinsured.co/img/carrousel/call-beeinsured-desktop.jpg" width="1920" height="395" layout="responsive" alt="Chat with us" title="Chat with an agent"></amp-img>
-<div class="title-section"><h1>Contacto</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/about-us">Nosotros /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/contact" class="active">Contacto</a></li></ol>
+<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/carrousel/call-beeinsured-desktop.jpg" width="1920" height="395" layout="responsive" alt="Chat with us" title="Chat with an agent"></amp-img>
+<div class="title-section"><h1>Contacto</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/contact" class="active">Contacto</a></li></ol>
 
 
     
     <div class="contactus">
-        <div class="hijo">
-            <p class="section">Llámenos</p>
-            <div class="info"><amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
-                <ul><li>562-473-4080</li><li>1-844-468-7400</li></ul></div><br>
-            
-            <div class="info"><amp-img src="https://www.beeinsured.co/img/msn.png" height="40" width="40"></amp-img><ul><li>info@beeinsured.co</li><li>Fax: 562-473-4074</li><li><b>Lic #0I32333</b></li></ul></div>
-            
-            <p class="section">Horario:</p>
-            <div class="info"><ul><li>Lunes - Jueves: 9:00 am to 6:00 pm</li><li>Viernes: 9:00 am to 4:00 pm</li></ul></div>
-        </div>
-
-<div class="hijo"><p class="section">¡Obtenga una cotización!</p>
-            <form method="post"
-  action-xhr="https://panel.beeinsured.co/api/addRequest"
-  target="_top"
-class="getquote">
-  <div class="jobform">
-    <input type="text"
-      name="name"
-      placeholder="Name"
-      required>
-      <input type="text"
-      name="name"
-      placeholder="Last Name"
-      required>
-    <input type="email"
-      name="email"
-      placeholder="Email"
-      required>
-      <input type="phone"
-      name="phone"
-      placeholder="Phone"
-      required>
-  </div> 
-  <input type="submit"
-    value="Send">
-  <div submit-success>
-    <template type="amp-mustache">
-      Success! Thanks {{name}}
-     
-    </template>
-  </div>
-  <div submit-error>
-    <template type="amp-mustache">
-   Error.
-    </template>
-  </div>
-</form>
-</div>        
+      <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
+            <p class="section">1 844 468 7400</p>
     </div>
-     <div class="contactus ultimo">
-    <div class="hijo">
-             <p class="section">¿Tiene cita?<br>Siga nuestra dirección</p>
-        </div>
-   </div>
+    
+    <p class="servicesform">
+Por favor complete el siguiente formulario para
+brindar un servicio rápido y eficiente</p>
+    
+    <?php include('../quote-general-es.php');?>
+ <p class="servicesadd"><b>Dirección</b></p>
+    <div class="dir"><amp-img src="/img/map-icon.png" width="45" height="52"></amp-img><p>17777 Center Court Drive N, Suite 710<br>Cerritos CA 90703</p></div>
+  
 <amp-iframe width="630" height="520"
     sandbox="allow-scripts allow-same-origin"
     class="mapa"
     layout="responsive"
-    src=" https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3199.9377977115596!2d-118.06318838494946!3d33.86947643822417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd313f80727aa3%3A0xb1f4e37c6756aab6!2sKYC+Insurance+Services%2C+LLC!5e0!3m2!1ses!2smx!4v1527868194456"> 
+    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13251.133382296599!2d-118.061231!3d33.869474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7ad391422bd4dba!2sBeeInsured+Insurance+Services!5e0!3m2!1sen!2smx!4v1546468267002"> 
     </amp-iframe>
-         <div class="dir">
-             <amp-img src="/img/map-icon.png" width="45" height="52"></amp-img>
-         <p class="section">17777 Center Court Drive N, Suite 600<br>
-Cerritos CA 90703</p>
-             </div>
-    <div class="slogan">
-        <p>Steps that build your future</p>
-    </div>
+          <p class="servicesform"><b>Horario de oficina: <br><br>
+        Lunes a Jueves:</b> 9:00 am to 6:00 pm <b>PST<br>
+        Viernes:</b>  9:00 am to 4:00 pm <b>PST</b>
+    </p>
+   <br><br>
   <button id="scrollToTopButton"
   on="tap:top-page.scrollTo(duration=200)"
   class="scrollToTop">⌃</button>

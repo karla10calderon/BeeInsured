@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/10-ways-business-customers.jpg" width="1680" height="570" alt="Ways my business can get more customers!" title=" Ways my business can get more customers!" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/10-ways-business-customers.jpg" width="1680" height="570" alt="Ways my business can get more customers!" title=" Ways my business can get more customers!" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/business-get-more-customers" class="active">Ways my business can get more customers!</a></li>

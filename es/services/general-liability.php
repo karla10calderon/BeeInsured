@@ -56,121 +56,25 @@
   id="amp-user-notification1"><p>
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?><amp-img src="https://www.beeinsured.co/img/esp-servicios/safety.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>General Liability</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/general-liability" class="active">General Liability</a></li></ol>
+</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/safety.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>General Liability</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/general-liability" class="active">General Liability</a></li></ol>
  
-      <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img>
-        <div class="formulario"><!--Responsabilidad General Quote-->
-    <form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-         <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/general-liability">English</a></div>
-        <input type="text" name="type" value="quote" style="display:none"/>
-    <fieldset>
-        <label>
-            <input type="text" name="nombre" placeholder="Nombre" required>
-        </label>`
-        <br>
-        <label>
-            <input type="text" name="apellido" placeholder="Apellido" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="email" placeholder="Email" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefono" placeholder="Télefono" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefonoCasa" placeholder="Télefono Casa" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="direccion" placeholder="Dirección" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ciudad" placeholder="Ciudad" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="estado" placeholder="Estado" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="codigoPostal" placeholder="Código Postal" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="propietario" placeholder="Propietario" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="nombreNegocio" placeholder="Nombre del negocio" required>
-        </label>
-        <br>
-        <div class="options">
-            <select name="entity" id="status">
-                <option value="INC">INC</option>
-                <option value="Individual">Individual</option>
-                <option value="LLC">LLC</option>
-                <option value="Otro">Otro</option>
-            </select>
-            <label for="entity" class="opt">Entidad</label>
-        </div>
-        <br>
-        <label>
-            <input type="text" name="taxIdNumero" placeholder="Tax ID Número" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ventasAnuales" placeholder="Ventas brutas anuales" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="asegurado" placeholder="¿Está asegurado? Si es afirmativo, mencione a la compañía" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="nominaAnual" placeholder="Nómina anual" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="numeroEmpleados" placeholder="Número de empleados" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Número de licencia de contratista" required>
-        </label>
-        <br>
-        <input type="submit" value="Enviar">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Envío exitoso.</template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
-    </div>
-</form>
-    </div></div>
-    <div class="info"><p>
-        El seguro de <b>General Liability</b> puede cubrir: <br><br>
-1. Gastos para reparar en un negocio.<br>
-2. Gastos para reemplazar la propiedad del cliente que está dañada en una empresa.<br>
-3. Errores profesionales.<br>
-4. Daño intencional. <br>
-5. Lesión corporal y responsabilidad por daños a la propiedad <br>
-6. Lesiones personales y publicitarias.<br>
-7. Tarifas legales <br>
-8. Pagos médicos<br><br>
-● Productos completados operaciones<br>
-● Daño a los locales alquilados a usted<br>
-<br><br>
- Todas las empresas deben protegerse de accidentes o lesiones que puedan ocurrir en sus negocios. La cobertura de seguro de responsabilidad civil general puede proteger a su empresa de estos gastos inesperados, por lo que es esencial que comprenda lo que cubre y lo que no cubre.
-    
+
+    <div class="center">
+<p>Toda empresa o negocio tiene la responsabilidad de hacerse cargo en caso de daños o lesiones a terceros. Si en <strong class="bold">su negocio</strong> se encuentra realizando una reparación y uno de sus clientes al entrar a su establecimiento resulta herido por alguna mala instalación, <strong class="bold">General Liability cubrirá los gastos médicos de su cliente herido</strong>, una posible demanda y el daño causado a la propiedad que renta para su negocio. </p><br><br>
         
+<h2 class="sub">¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
+
+<?php include('../quote-general-es.php');?>  
+
+<h2 class="sub">¿Qué cubre el Seguro de General Liabilty?</h2><br>
+<div class="dot">Demandas legales de terceros</div>
+<div class="dot">Gastos médicos por lesiones corporales</div>
+<div class="dot">Daños a la propiedad</div>
         
-        </p></div>
+<?php include('../../blog-menu-es.php');?>
+</div>
     
     
-  <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../../footer-menu.php');?>
+  <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../../footer-menu-es.php');?>
 </html>

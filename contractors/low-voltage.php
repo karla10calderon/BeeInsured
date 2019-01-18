@@ -62,7 +62,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/contractors/Contractor-HighVoltage-BeeInsured.jpg" width="1680" height="570" alt="Low Voltage in california" title="Low Voltage in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-HighVoltage-BeeInsured.jpg" width="1680" height="570" alt="Low Voltage in california" title="Low Voltage in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" >Contractors /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/contractors/low-voltage" class="active">Low Voltage by BeeInsured</a></li>

@@ -99,7 +99,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/20-truck.jpg" width="1680" height="570" alt="builders risk insurance" title="The things that you need to know about truck insurance?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/20-truck.jpg" width="1680" height="570" alt="builders risk insurance" title="The things that you need to know about truck insurance?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/things-need-know-about-truck-insurance" class="active">The things that you need to know about truck insurance</a></li>

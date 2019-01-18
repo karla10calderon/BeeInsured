@@ -98,7 +98,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/3-is-workers-california.jpg" width="1680" height="570" alt=" What You Have To Know Before Getting Insuredin California" title=" What You Have To Know Before Getting Insured " layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/3-is-workers-california.jpg" width="1680" height="570" alt=" What You Have To Know Before Getting Insuredin California" title=" What You Have To Know Before Getting Insured " layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/workers-compensation-required-california" class="active">Is workers’ compensation insurance required in California?</a></li>

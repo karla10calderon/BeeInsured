@@ -55,100 +55,33 @@
   id="amp-user-notification1"><p>
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?><amp-img src="https://www.beeinsured.co/img/esp-servicios/homeowner.jpg" width="1680" height="570" layout="responsive" title="Homeowners insurance service" alt="Homeowners Insurance Service, get your quote"></amp-img><div class="title-section"><h1>Homeowners</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/personal-lines">Personal Lines /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/homeowners" class="active">Homeowners</a></li></ol><div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario"><!--HOMEOWNERS-->
-    <form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-         <div class="espacio"><a class="langform" href="https://www.beeinsured.co/es/services/homeowners">English</a></div>
-        <input type="text" name="type" value="quote" style="display:none"/>
-    <fieldset>
-        <label>
-            <input type="text" name="name" placeholder="Nombre" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="lastName" placeholder="Apellido" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="email" placeholder="Email" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="phone" placeholder="Teléfono" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="birthDate" placeholder="Fecha de nacimiento" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="address" placeholder="Dirección" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="city" placeholder="Ciudad" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="socialSecurityNumber" placeholder="Número de Seguro social" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="houseInformation" placeholder="Información de la casa" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="roofType" placeholder="Tipo de techo" required>
-        </label>
-        <br>
-        <div class="options">
-            <select name="ownerType" id="status">
-                <option value="Owner Ocupancy">Dueño</option>
-                <option value="Owner Renter">Rentero</option>
-            </select>
-            <label for="ownerType" class="opt">Eliga el tipo de propietario</label>
-        </div>
-        <br>
-        <label>
-            <input type="text" name="personalProperty" placeholder="Propiedad Personal" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="houseValue" placeholder="Valor de la propiedad" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="houseDimensions" placeholder="Dimensiones de la casa (pie cuadrado)" required>
-        </label>
-        <br>
-        <div class="options">
-            <select name="houseStatus" id="status">
-                <option value="Own">Dueño</option>
-                <option value="Paying">Pagando</option>
-            </select>
-            <label for="houseStatus" class="opt">¿Dueño de la casa o pagando?</label>
-        </div>
-        <br>
-        <label>
-            <input type="text" name="lastMonthsModifications" placeholder="Algunas modificaciones en los últimos meses, si es así, especifique">
-        </label>
-        <br>
-        <input type="submit" value="Send">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Envío exitoso.</template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
-    </div>
-</form>
+</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/homeowner.jpg" width="1680" height="570" layout="responsive" title="Homeowners insurance service" alt="Homeowners Insurance Service, get your quote"></amp-img><div class="title-section"><h1>Homeowners</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/homeowners" class="active">Homeowners</a></li></ol>
     
-    </div></div>
 
-    <div class="info"><p> 
-        <b>Homeowner</b> está diseñado para protegerlo de cosas que pueden dañar su hogar, sus pertenencias o perjudicarle financieramente. Cubre daños de viento/granizo, incendios, rayos, robos y más.<br> Además, cubre las lesiones que ocurren en su propiedad y las demandas en su contra, como que alguien lo haya demandado porque se lesionó en su casa.<br><br>
+    <div class="center">
+        <p>Home insurance es también conocido como HO-3 policy. No espere a tener una mala experiencia y mantenga a salvo su hogar del vandalismo u otros daños que puedan perjudicarle financieramente así como sus bienes personales.<br><br>
+    
+    
+ ¡El seguro de Home Insurance ayuda a proteger su inversión!</p>
+<h2 class="sub"> ¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
+        
+ <?php include('../quote-general-es.php');?>
+ <h2 class="sub">¿Qué cubre el seguro de Home Insurance?</h2><br>
 
-Ésta póliza de seguro es diferente de la garantía de un hogar. Una garantía para el hogar es un contrato que establece reparaciones o reemplazos de sistemas y electrodomésticos como hornos, calentadores de agua, lavadoras / secadoras y piscinas. Estos contratos generalmente expiran después de un cierto periodo de tiempo, generalmente 12 meses y no son obligatorios para tener una hipoteca. <br>Si bien el seguro para propietarios de viviendas no cubre los daños que resultan de un mantenimiento deficiente o un desgaste inevitable, la garantía del hogar cubre dichos problemas.   
-        </p></div>
+    <div class="dot">Su vivienda (construcciones adicionales a ella)
+</div>
+    <div class="dot">Lesiones que ocurren en la propiedad
+</div>
+    <div class="dot">Demandas por huéspedes
+</div>
+    <div class="dot">Daños por incendios, granizo, rayos.
+</div>
+    <div class="dot">Vandalismo/Robo
+</div>  <div class="dot">Bienes personales
+</div>
+          <?php include('../../blog-menu-es.php');?>
+    </div>
 
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
-</body><?php include('../../footer-menu.php');?></html>
+ 
+</body><?php include('../../footer-menu-es.php');?></html>

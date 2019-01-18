@@ -1,3 +1,4 @@
-<a href="https://app.purechat.com/w/beeinsured" target="_blank"><div class="chat">
-    <p>Chat with an agent <amp-img src="https://www.beeinsured.co/img/chat.png" width="26" height="23"></amp-img></p>
-    </div> </a>
+
+<div class="chat"><a href="https://app.purechat.com/w/beeinsured" target="_blank">
+<amp-img src="https://www.beeinsured.co/img/chat.png" width="75" height="75" layout="responsive"></amp-img></a>
+</div>

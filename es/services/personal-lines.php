@@ -1,12 +1,12 @@
 <!doctype html>
-<html amp lang="es">
+<html amp lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Personal Lines by BeeInsured</title>
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical"  href="https://www.beeinsured.co/es/servicios/seguros-personales">
-    <link rel="alternate" hreflang="en" href="https://www.beeinsured.co/services/personal-lines">
+    <link rel="canonical"  href="https://www.beeinsured.co/services/personal-lines">
+    <link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/seguros-personales">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <meta name="description" content="#">
     <meta name="keywords" content="Personal Insurance federation of california">
@@ -40,8 +40,6 @@
     src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
  <!--GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <!--PARALLAX -->
-    <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
 <!--ACORDION FORMULARIO-->
      <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
     <!--MUSTACHE FORM-->
@@ -55,11 +53,18 @@
       <style amp-custom><?php readfile( getcwd() . "../../../styles.css"); ?></style>
     </head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics><amp-user-notification layout="nodisplay"
   id="amp-user-notification1"><p>
-  Recolectamos datos y analíticas para garantizar que le brindemos la mejor experiencia en nuestro sitio web.</p>
+  We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?>
-    <div class="title-section"><h1>Personal Lines </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/personal-lines" class="active">Personal Lines</a></li></ol>
-<!--BUSINESS LOANS--><a href="https://www.beeinsured.co/services/personal-auto"><div class="services"><amp-img src="https://www.beeinsured.co/img/services/personal-auto-baner.png" width="940" height="570" sizes="(max-width: 1100px) 100vw, (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img><div class="texto"><amp-img src="https://www.beeinsured.co/img/services/personal-auto.png" width="60" height="60"></amp-img><h2>Personal Auto</h2><br><p>All of the Insurance companies we represent provide a wide range of auto Insurance products at a fair price.Your price gets even better if you qualify for any of our available discounts.</p></div></div></a>
-<!--INSURANCE SERVICES--><a href="https://www.beeinsured.co/services/homeowners.php"><div class="services reverse"><amp-img amp-fx="fade-in-scroll" src="https://www.beeinsured.co/img/services/homeowners-baner.png" width="940" height="570" sizes="(max-width: 1100px) 100vw, 
-            (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img><div class="texto"><amp-img src="https://www.beeinsured.co/img/services/homeowner.png" width="60" height="60"></amp-img><h2>Homeowners</h2><br><p>Homeowner insurance is a form of property insurance that covers losses and damages to an individual's house and to assets in the home.</p></div></div></a>       
-<?php include('../../quote-general.php');?><button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../../footer-menu.php');?></html>
+</amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?>
+    <div class="title-section"><h1>Personal Lines </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Servicios /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/personal-lines" class="active">Seguros Personales</a></li></ol>
+    
+    <div class="espaciocontractors perlines">
+   
+        <a href="https://www.beeinsured.co/es/services/personal-auto" class='square-box'><div class='square-content'><amp-img  src="https://www.beeinsured.co/img/services/new-icon/personal-auto.png" width="150" height="150" layout="responsive" alt="Personal Auto Insurance by BeeInsured" title="Personal Auto Insurance by BeeInsured" ></amp-img><div><h2 class="contratistas">Auto Personal</h2></div></div></a> <a href="https://www.beeinsured.co/es/services/homeowners" class='square-box'><div class='square-content'><amp-img src="https://www.beeinsured.co/img/services/new-icon/homeowner.png" width="150" height="150" layout="responsive" alt="Homeowners by BeeInsured" title="Homeowners bye BeeInsured" ></amp-img><div>
+        
+       
+<h2 class="contratistas">Homeowners</h2></div></div>
+</a>
+    </div>  
+         
+<?php include('../quote-general-es.php');?><button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../../footer-menu-es.php');?></html>

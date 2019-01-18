@@ -99,7 +99,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/7-thing-commercial.jpg" width="1680" height="570" alt="Things about commercial vehicle Insurance" title=" Things you probably did not know about commercial vehicle coverages" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/7-thing-commercial.jpg" width="1680" height="570" alt="Things about commercial vehicle Insurance" title=" Things you probably did not know about commercial vehicle coverages" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/things-did-not-know-commercial-vehicle-coverages" class="active">Things you probably did not know about commercial vehicle coverages</a></li>

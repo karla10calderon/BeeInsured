@@ -56,117 +56,40 @@
   id="amp-user-notification1"><p>
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?>
-  <amp-img src="https://www.beeinsured.co/img/esp-servicios/commercial-vehicle.jpg" width="1680" height="570" layout="responsive"></amp-img>    
-<div class="title-section"><h1>Commercial Vehicle</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-vehicle" class="active">Commercial Vehicle</a></li></ol>
-     <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario"><!--Commercial Vehicle-->
-    <form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-         <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/commercial-vehicle">English</a></div>
-        <input type="text" name="type" value="quote" style="display:none"/>
-    <fieldset>
-        <label>
-            <input type="text" name="name" placeholder="Nombre" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="lastName" placeholder="Apellido" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="email" placeholder="Email" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefono" placeholder="Teléfono" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefonoCasa" placeholder="Teléfono Casa" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="direccion" placeholder="Dirección" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ciudad" placeholder="Ciudad" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="estado" placeholder="Estado" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="codigoPostal" placeholder="Código Postal" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="propietario" placeholder="Propietario" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="nombreNegocio" placeholder="Nombre de negocio" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="tiempoNegocio" placeholder="Años en negocio" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="cargaVehiculo" placeholder="¿Qué está llevando el vehículo?" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="conductores" placeholder="¿Cuántos conductores?" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Número de licencia de contratista" required>
-        </label>
-        <br>
-        <div class="options">
-            <select name="currentPolicy" id="status">
-                <option value="Si">Si</option>
-                <option value="No">No</option>
-            </select>
-            <label for="seguroActual" class="opt">¿Están asegurados?</label>
-        </div>
-        <br>
-        <input type="submit" value="Enviar">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Envío exitoso.</template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
-    </div>
-</form>
+</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/commercial-vehicle.jpg" width="1680" height="570" layout="responsive"></amp-img>    
+<div class="title-section"><h1>Commercial Vehicle</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-vehicle" class="active">Commercial Vehicle</a></li></ol>
+
     
-    </div></div>
-    
-    <div class="info"><p> 
+    <div class="center"><p> 
+Los <strong class="bold">vehículos de uso comercial</strong> son parte de la productividad de muchas empresas sean chicas, medianas o grandes y forman parte importante del patrimonio de un negocio. Si se llegan a <strong class="bold">descomponer o dañar pueden significar grandes pérdidas para su compañía</strong>, no sólo pérdidas económicas o de mercancía sino también humanas.<br><br>
         
-        Cuando eres dueño de una empresa, tiene mucho que proteger, y la cobertura de seguro adecuada puede ser importante para su éxito continuo, es por eso que en BeeInsured trabajamos arduamente para encontrar lo mejor en seguros con tarifas más bajas para sus vehículos comerciales <br><br>
-
-        <b>Cobertura de responsabilidad civil por lesiones corporales:</b> paga por lesiones corporales o muerte como resultado de un accidente por el cual usted tiene la culpa y en la mayoría de los casos le brinda una defensa legal.
+Es indispensable que las personas a cargo de un negocio contraten el seguro adecuado para sus unidades de negocio.
 <br><br>
-        <b>Cobertura de responsabilidad por daños a la propiedad: </b>le brinda protección si su vehículo daña accidentalmente la propiedad de otra persona y en la mayoría de los casos le proporciona una defensa legal.<br><br>
-Límite único combinado (CSL): las políticas de responsabilidad suelen ofrecer límites separados que se aplican a las reclamaciones por lesiones corporales por daños a la propiedad. Una política combinada de límites únicos tiene el mismo monto en dólares de cobertura por ocurrencia cubierta, ya sea por lesiones corporales o daños a la propiedad, una persona o varias. <br><br>
+¡No espere a que ocurra una pérdida! Proteja ahora sus recursos.</p>
+<h2 class="sub">¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
+<?php include('../quote-general-es.php');?>
+        
+        
+<h2 class="sub">¿Qué cubre el Seguro de Commercial Vehicle?</h2><br>
+<div class="dot">Daños a la carga</div>
+<div class="dot">Robo Total y parcial</div>
+        <div class="dot">Gastos Médicos</div>
+        <div class="dot">Asistencia de Viaje</div>
+        <div class="dot">Protección legal</div>
+        <div class="dot">Responsabilidad Civil</div>
+        <div class="dot">Responsabilidad Civil Ecológica</div>
+        <div class="dot">Maniobras de carga y descarga</div>
+        <div class="dot">Daños Materiales parciales y totales</div>
 
-     <b>Pagos médicos, cobertura sin lesiones o lesiones personales: </b>generalmente paga los gastos médicos del conductor y los pasajeros de su vehículo incurridos como resultado de un accidente cubierto, independientemente de la culpa.
-<br><br>
-     <b>Cobertura completa de daños físicos: </b>paga por daños a su vehículo por robo, vandalismo, inundación, incendio y otros peligros cubiertos.<br><br>
-        <b> Cobertura de colisión:</b> paga por daños a su vehículo cuando golpea o es golpeado por otro objeto 
-<br>
-    <b>Cobertura de carga y descarga:</b> levantar una mercancía es un trabajo pesado y agotador. Por lo tanto, es bueno saber que tiene cobertura de responsabilidad en caso de que cargar o descargar un vehículo cubierto resulte en lesiones o accidentes.<br><br>
-Cobertura para vehículos que alquila o pide prestado. <br><br>
+<?php include('../../blog-menu-es.php');?>
 
-Cobertura para empleados que usan sus automóviles para negocios.<br><br>
 
         
-        </p></div>
+    </div>
     
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
+ 
 </body>
  <?php include('../../footer-menu-es.php');?>
 </html>

@@ -56,104 +56,30 @@
   id="amp-user-notification1"><p>
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?>
-<amp-img src="https://www.beeinsured.co/img/esp-servicios/tool.jpg" width="1680" height="570" layout="responsive"></amp-img>
-    <div class="title-section"><h1>Tool & Equipment </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/inland-marine-tool" class="active">Tool & equipment</a></li></ol>
-<div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario"><!--Inland Quote-->
-    <form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-         <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/inland-marine-tool">English</a></div>
-        <input type="text" name="type" value="quote" style="display:none"/>
-    <fieldset>
-        <label>
-            <input type="text" name="name" placeholder="Nombre" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Last Name" placeholder="Apellido" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="Email" placeholder="Email" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Phone" placeholder="Teléfono" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Office Contents" placeholder="Contenidos en oficinas" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Miscellaneous Tools ($1,500 in value and under)" placeholder="Herramientas varias ($ 1,500 en valor y menos)" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Computer Systems - Equipment" placeholder="Sistemas de Computación - Equipo" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Computer Systems - Data and Media" placeholder="Sistemas informáticos: datos y medios" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Computer Systems - Extra Expense" placeholder="Sistemas informáticos: gasto adicional" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Scheduled Equipment" placeholder="Equipo programado" required>
-        </label>
-        <p class="note">El equipo valorado en $ 1,500 y menos debe cubrirse como Herramientas variadas</p>
-        <br>
-        <label>
-            <input type="text" name="Installation Floater" placeholder="Floater de instalación" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Rented/Leased Equipment" placeholder="Equipo alquilado / arrendado" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Número de licencia de contratista" required>
-        </label>
-        <br>
-        <input type="submit" value="Enviar">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Envío exitoso.</template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
-    </div>
-</form> </div></div>
+</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?>
+<amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/tool.jpg" width="1680" height="570" layout="responsive"></amp-img>
+    <div class="title-section"><h1>Tool & Equipment </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/inland-marine-tool" class="active">Tool & equipment</a></li></ol>
+
+
     
-    
-    <div class="info"><p> 
-        El Seguro de <b>Tool and equipment</b> comúnmente incluye cobertura para los siguientes tipos de propiedad:<br><br>
+    <div class="center">
+    <p> Alguna vez ha extraviado o le han robado equipo y herramientas de trabajo? Desde las herramientas manuales más pequeñas hasta equipos más grandes como soldadores, pistolas de clavos, generadores y otros artículos de alto valor son una inversión, los costos para reemplazarlos puede sumar rápida y considerablemente si sus herramientas son robadas o dañadas.<br><br>
 
-● Propiedad en tránsito, como herramientas y suministros del contratista<br>
-● Equipos móviles, como carretillas elevadoras, excavadoras, azadas de cadenas, mantenedores, cargadores<br>
-● Equipo informático y datos, como software de contabilidad, datos de seguimiento de clientes potenciales, políticas, procedimientos y otros activos electrónicos.<br>
-● Daño, pérdida, destrucción, robo.<br><br>
+Las herramientas así como el equipo de trabajo son una inversión. ¡Protéjase ahora!</p>
+        <h2 class="sub">¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
 
-Desde las herramientas manuales más pequeñas hasta equipos más grandes como soldadores, pistolas de clavos, generadores y otros artículos de alto valor, los costos de reemplazo pueden sumar rápidamente si sus herramientas son robadas o dañadas. Con la cobertura de herramientas y equipos, su inversión en estos activos está protegida.<br><br>
+ <?php include('../quote-general-es.php');?>
+        
+         <h2 class="sub">¿Qué cubre el Seguro de Tool & Equipment?</h2><br>
+        <div class="dot"><strong class="bold">Propiedad en tránsito:</strong> Como herramientas y suministros del contratista.</div>
+        <div class="dot"><strong class="bold">Equipos móviles:</strong> Como carretillas elevadoras, excavadoras, azadas de cadenas, mantenedores, cargadores.</div>
+        <div class="dot"><strong class="bold">Equipo informático y datos:</strong> Como software de contabilidad, datos de seguimiento de clientes potenciales, políticas, procedimientos y otros activos electrónicos.</div>
+        <div class="dot"><strong class="bold">Daño</strong>, pérdida, destrucción, robo.</div><br>
+ 
+        
+        <?php include('../../blog-menu-es.php');?>
+        </div>
 
-La cobertura de <b>Tool and equipment</b> es ideal para:<br><br>
-● Trabajadores de la construcción<br>
-● Carpinteros<br>
-● Fontaneros<br>
-● Limpiadores<br>
-● Electricistas<br>
-● Empresas de paisajismo<br>
-● Empresas de pintura<br>
-● Manitas<br>
-● Yesero<br>
-● Albañil<br>
-● Jardinero<br>
-● Constructor<br>
-● Pintor y decorador<br>
-● Y mucho más <br>
-        </p></div>
-
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body>
-<?php include('../../footer-menu.php');?></html>
+ </body>
+<?php include('../../footer-menu-es.php');?></html>

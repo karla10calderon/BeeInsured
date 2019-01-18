@@ -1,9 +1,9 @@
 <!doctype html>
-<html amp lang="en">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>Bee Insured, Error</title>    
+    <title>BeeInsured, Error</title>    
     <link rel="canonical" href="https://www.beeinsured.co/errors/error.php">
     <link rel="alternate" hreflang="es"href="https://www.beeinsured.co/es/errors/error.php">
     <link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon">
@@ -15,47 +15,33 @@
     <link rel="author" href=" https://plus.google.com/109911843397009123579/posts"/>
 <link rel="publisher" href="https://plus.google.com/109911843397009123579"/>
     <!-- Schema.org markup for Google+ -->
-<meta itemprop="name" content="Bee Insured Error Page">
+<meta itemprop="name" content="BeeInsured Error Page">
 <meta itemprop="description" content="Something went wrong">
 <meta itemprop="image" content="https://www.beeinsured.co/img/Logo.png">
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="Bee Insured Error page">
-    <meta name="twitter:creator" content="Bee Insured">
-    <meta name="twitter:title" content="Bee Insured, Steps that build your future">
+    <meta name="twitter:site" content="BeeInsured Error page">
+    <meta name="twitter:creator" content="BeeInsured">
+    <meta name="twitter:title" content="BeeInsured, Steps that build your future">
     <meta name="twitter:description" content="Something went wrong">
     <!-- Twitter summary card with large image must be at least 300x150px -->
     <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/index-tw-card.jpg">
-    <meta name="twitter:image:alt" content="Bee Insured - Insurance Services">
+    <meta name="twitter:image:alt" content="BeeInsured - Insurance Services">
     <!--FACEBOOK CARDS-->
 <meta property="og:url"                content="https://www.beeinsured.co"/>
 <meta property="og:type"               content="website"/>
-<meta property="og:title"              content="Bee Insured, Steps that build your future" />
+<meta property="og:title"              content="BeeInsured, Steps that build your future" />
 <meta property="og:description"        content="Something went wrong" />
 <meta property="og:image"              content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />    
   <meta name="geo.region" content="US-CA" />
 <meta name="geo.placename" content="cerritos" />
 <meta name="geo.position" content="33.8686023;-118.0612772" />
 <meta name="ICBM" content="33.8686023, -118.0612772" />
-<!--GOOGLE ANALYTICS-->
- <script async custom-element="amp-analytics"
-    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>  
-    <!--GOOGLE FONTS -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-     <!--ACORDION FORMULARIO-->
-     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-      <!--CALL TRACKING-->
-<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
-    <!--BACK TO TOP-->  
-    <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
-    <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-    <!--SEARCH BOX-->
-    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
-   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
-<style amp-custom>
-    a{text-decoration:none;color:#000}body{background-color:#f3ebdb}.back{display:flex;align-items:center;justify-content:space-around;flex-direction:row;flex-wrap:wrap;margin-top:350px;padding-bottom:100px;margin-left:15px;margin-right:15px}.texto{text-align:center;font-family:'Open Sans'}.texto .error{font-size:105px;font-weight:700}.texto .wrong{font-size:24px;font-weight:100}
-   .content amp-accordion h4,.menu-desktop li a,.menu-responsive,.nav2 .lang a,.nav2 .searchboxelements input[type=search],.top .contact p{font-family:'Open Sans'}.content,.menu-desktop li:hover ul a{box-shadow:0 8px 16px 0 rgba(0,0,0,.5)}.content,.top .contact{right:0;position:absolute}*{padding:0;margin:0}.top{background-color:#EDA921;text-align:center;align-items:center;position:relative}.top amp-img{margin:15px}.top .contact{top:0;padding-right:80px;list-style:none;display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-around;align-items:center;margin-top:15px}.menu-desktop li,.top .contact li{display:inline-block}.top .contact amp-img{margin-right:10px}.top .contact p{font-size:18px;font-weight:100;color:#000;text-align:left}.top .contact li{float:left}.menu-desktop{width:100%;height:60px;background-color:#000}.menu-desktop ul{list-style-type:none;position:absolute}.menu-desktop .barra{width:110px;padding-left:5px;padding-right:5px}.menu-desktop .nav{padding-left:4%}.menu-desktop li a{display:block;min-width:130px;height:60px;text-align:center;line-height:50px;font-size:18px;color:#fff;text-decoration:none}.nav2 .lang a,.nav2 .searchboxelements input[type=search]{font-size:16px}.menu-desktop li:hover a{color:#EDA921}.menu-desktop li:hover ul a{background:#214460;color:#fff;height:40px;line-height:40px;text-align:left}.content,footer,footer .follow,footer .follow ul{text-align:center}.menu-desktop li:hover ul a:hover{background:#EDA921;color:#fff}.menu-desktop li ul{display:none;z-index:1}.menu-desktop li ul li{display:block;float:none}.menu-desktop li ul li a{min-width:100px;padding:0 20px}.hidden:hover,.menu-desktop ul li a:hover+.hidden{display:block}.menu-desktop .column{float:left;width:250px}.nav2{float:right;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-items:center}.nav2 .lang a{text-decoration:none;color:#fff;font-weight:700;margin-left:5px;margin-right:5px}.nav2 .lang a:active,.nav2 .lang a:focus,.nav2 .lang a:hover{color:#eda921}.nav2 .searchboxelements{display:inline-block;margin:10px;padding-right:6%}.nav2 .searchboxelements input[type=search]{background-image:url(/img/search.png);background-position:3px 3px;background-repeat:no-repeat;padding-left:38px;height:40px;box-sizing:border-box;border:none;border-radius:5px;background-color:#fff;color:#000;font-weight:100}.content amp-accordion h4{font-weight:400}.menu-responsive{background:#000;height:50px;width:100%}.menu-responsive .hamburger{float:right;background-color:#000;color:#fff;margin-right:25px;border:0;font-size:36px;outline:0}.menu-responsive .hamburger:active,.menu-responsive .hamburger:focus,.menu-responsive .hamburger:hover,.menu-responsive li:hover{color:#eda921}.content{display:none;background-color:#000;width:60%;top:167px;z-index:1000;list-style:none}.content a{float:none;color:#fff;padding:10px;text-decoration:none;display:block;border-bottom:solid .5px #2c2c2c;border-top:solid .5px #2c2c2c}.content li:active,.content li:focus,.content li:hover{background-color:#eda921;color:#000;transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease;-o-transition:all .4s ease}.content amp-accordion section ul{background-color:#214460}.content amp-accordion h4{font-size:16px;color:#fff}amp-accordion section:not([expanded]) h4, amp-accordion section[expanded] h4{border:none;border-bottom:solid 1px rgba(0,0,0,.5);height:40px;background-color:#000;margin-top:8px}i{border:solid #eda921;border-width:0 3px 3px 0;display:inline-block;padding:3px;margin:4px}.down{transform:rotate(45deg);-webkit-transform:rotate(45deg)}.menu-responsive:active .content,.menu-responsive:focus .content,.menu-responsive:hover .content{display:block}.menu-responsive .searchboxelements{display:inline-block}.menu-responsive .searchboxelements input[type=search]{background-image:url(/img/search.png);background-position:5px 5px;background-repeat:no-repeat;padding-left:45px;height:50px;font-family:'Open Sans';box-sizing:border-box;border:none;font-size:16px;background-color:#fff;color:#000;min-width:610px}footer a,footer p{color:#fff;font-family:'Open Sans';font-size:14px;font-weight:100;text-decoration:none}footer,footer .info{width:100%;background-color:#000}footer{min-height:200px}footer .follow{padding:55px}footer .follow li{display:inline-block;padding:15px}footer .info{min-height:100px}footer .info .statement{padding:25px}footer .info .statement a{font-weight:700}@media (max-width:575.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:576px) and (max-width:767.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:768px) and (max-width:1049.98px){.menu-desktop,.top .contact{display:none}}@media (min-width:1050px) and (max-width:1199.98px){.menu-responsive{display:none}}@media (min-width:1200px){.menu-responsive{display:none}}     
+<style>
+     a{text-decoration:none;color:#000}body{background-color:#f3ebdb}.back{display:flex;align-items:center;justify-content:space-around;flex-direction:row;flex-wrap:wrap;margin-top:350px;padding-bottom:100px;margin-left:15px;margin-right:15px}.texto{text-align:center;font-family:'Open Sans'}.texto .error{font-size:105px;font-weight:700}.texto .wrong{font-size:24px;font-weight:100}
+      *{padding:0;margin:0; font-family: 'Open Sans';}a{text-decoration:none;color:#000}.servicetext{color:#fff;font-size:25px}.menu-desktop li:hover ul a{box-shadow:0 8px 16px 0 rgba(0,0,0,.5)}.top .contact{right:0;position:absolute}.top .contact{top:0;padding-right:80px;list-style:none;display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-around;align-items:center;margin-top:15px}.menu-desktop li,.top .contact li{display:inline-block}.top .contact amp-img{margin-right:10px}.top .contact .phonenumber{font-size:25px;font-weight:700;color:#000;text-align:left}.top .contact li{float:left}.menu-desktop{width:100%;height:60px;background-color:#000}.menu-desktop ul{list-style-type:none;position:absolute}.menu-desktop .barra{width:110px;padding-left:5px;padding-right:5px}.menu-desktop .nav{padding-left:4%}.menu-desktop li a{display:block;min-width:130px;height:60px;text-align:center;line-height:50px;font-size:18px;color:#fff;text-decoration:none}.menu-desktop li:hover a{color:#EDA921}.menu-desktop li:hover ul a{background:#214460;color:#fff;height:40px;line-height:40px;text-align:left}.menu-desktop li:hover ul a:hover{background:#EDA921;color:#fff}.menu-desktop li ul{display:none;z-index:100}.menu-desktop li ul li{display:block;float:none}.menu-desktop li ul li a{min-width:100px;padding:0 20px}.hidden:hover,.menu-desktop ul li a:hover+.hidden{display:block}.menu-desktop .column{float:left;width:250px}.top{position:relative}.top{text-align:center}.top{background-color:#eda921;align-items:center}.top amp-img{margin:15px}/*MENU RESPONSIVE*/.menu-responsive{width:100%;height:80px;background-color:#eda921;position:fixed;z-index:100;display:flex; flex-wrap:nowrap;flex-direction:row;align-items:center;justify-content:space-between;-webkit-box-shadow:8px 8px 7px -5px rgba(0,0,0,.4);-moz-box-shadow:8px 8px 7px -5px rgba(0,0,0,.4);box-shadow:8px 8px 7px -5px rgba(0,0,0,.4)}.menu-responsive .primero{width:25%;height:50px;display:flex;flex-wrap:nowrap;flex-direction:row;align-items:center;justify-content:flex-end}.menu-responsive .primero:active,.menu-responsive .primero:focus,.menu-responsive .primero:hover{cursor:pointer}.menu-responsive .primero .hamburger:hover .pantalla-menu{display:block}.menu-responsive .primero .hamburger{width:60%;height:80px;margin-top:45px}.menu-responsive .primero .hamburger amp-img{max-width:40px;margin-top:3px}.menu-responsive .primero .idioma{width:30%;height:30px;text-align:center}.menu-responsive .primero .idioma amp-img{max-width: 20px; display: block; margin-left: auto; margin-right: auto;}.menu-responsive .primero .idioma p{font-weight:700;font-size:12px;}.menu-responsive .segundo{width:40%;height:80px}.menu-responsive .segundo .logo{max-width:180px;display:block;margin-left:auto;margin-right:auto;margin-top: 15px;}.menu-responsive .tercero{text-align:center;width:28%;height:50px;font-size:14px; margin-top: 5px;}.menu-responsive .tercero .call{font-weight:700}/*ESPACIO DESPLEGABLE*/.pantalla-menu{width:100%;background-color:#214460;position:absolute;top:80px;left:0;padding:25px;-webkit-box-shadow:8px 8px 7px -5px rgba(0,0,0,.6);-moz-box-shadow:8px 8px 7px -5px rgba(0,0,0,.6);box-shadow:8px 8px 7px -5px rgba(0,0,0,.6);display:none}.pantalla-menu .contenido-responsive{font-size:24px;list-style:none;width:85%}.pantalla-menu .contenido-responsive .texto{color:#fff}.pantalla-menu .contenido-responsive .cajas .hidden a{color:#ccc}.pantalla-menu .contenido-responsive a:active,.pantalla-menu .contenido-responsive a:focus,.pantalla-menu .contenido-responsive a:hover{color:#eda921;font-weight:700;transition:all .6s ease;-webkit-transition:all .6s ease;-moz-transition:all .6s ease;-o-transition:all .6s ease}.pantalla-menu .contenido-responsive .cajas{border-bottom:1px solid #ccc;padding-bottom:10px;padding-top:10px;border-width:80%}.pantalla-menu .contenido-responsive .cajas .hidden{list-style:none;display:none}.pantalla-menu .contenido-responsive .cajas .hidden li{font-size:18px}.pantalla-menu .contenido-responsive .cajas:active .hidden,.pantalla-menu .contenido-responsive .cajas:focus .hidden,.pantalla-menu .contenido-responsive .cajas:hover .hidden{display:block}/*MENU DESK*/.nav2 .seleclang{border-radius: 12px;}.nav2 .seleclang p{font-size: 31px;font-weight: 700;color: #000;padding: 9px;}.nav2{float:right;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:center; align-items:center;}h3{text-align:left}/*MENU DE SERVICIOS*//*CONTRACTORS*/h3{text-align:left}footer,footer .follow,footer .follow ul{text-align:center}footer a,footer p{text-decoration:none;font-size:14px;font-weight:100}.group a,footer a,footer p{color:#fff}h3,h5{text-align:left}footer,footer .info{width:100%;background-color:#000}footer{min-height:200px;display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-around;align-items:center}footer .follow{padding:55px}footer .follow li{display:inline-block;padding:15px}footer .info{min-height:100px}footer .info .statement{padding:25px}footer .info .statement a{font-weight:700}footer .info .statement p{text-align:center;font-size:16px}.group a{font-weight:100}.group{width:100%;display:block;margin-right:auto;margin-left:auto}.group .titulo a{font-weight:700;color:#eda921;font-size:16px}h5{font-size:14px}.group ul{display:inline-block;margin:20px}.group2{padding:0;margin:0}/*COOKIES NOTIFICACION*/amp-user-notification{background-color:#ccc;opacity:.9}/*BACK TO TOP*/.scrollToTop{color:#fff;z-index:200;position:fixed;margin-bottom:55px;transform:translate(-50%,-50%);font-size:1.4em;box-shadow:0 1px 1.5px 0 rgba(0,0,0,.12),0 1px 1px 0 rgba(0,0,0,.24);width:50px;height:50px;border-radius:100px;border:none;outline:0;background:#767D83;bottom:25px;right:3px;opacity:0;visibility:hidden}/*MEDIAQUERIES*/@media (min-width:1050px) and (max-width:1199.98px){.menu-responsive{display:none}}@media (min-width:1200px){.menu-responsive{display:none}}@media (min-width:1049.98px) and (max-width:1543px){.top .contact{right:-55px}.top .contact li{display:inline;float:left}.top .contact amp-img{margin-right:5px;max-width:20px;max-height:20px}.top .contact .phonenumber,.top .contact .servicetext{font-size:16px}}@media (max-width:1049.98px){.menu-desktop,.top{display:none}}
+  
 </style>
     </head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>
   <header><?php include ('../menu.php'); ?></header>
@@ -94,11 +80,8 @@ return d}function e(e,i,r){var s,a=function(t){for(var e=0,i=s.length;e<i;){if(s
         autoplay: true,
         animationData: animationData
     };
-
     var anim;
-
     anim = lottie.loadAnimation(params);
-
 </script>
     </div>
     <div class="texto">
@@ -107,5 +90,5 @@ return d}function e(e,i,r){var s,a=function(t){for(var e=0,i=s.length;e<i;){if(s
         </div>
 </div>
     </body>
-<?php include ('../footer.php');?>
+<?php include ('../footer-menu.php');?>
 </html>

@@ -155,9 +155,9 @@
 <a href=" https://www.beeinsured.co/es/contractors/sheet-metal" class="square-box contract">
     <div class='square-content'><amp-img src="https://www.beeinsured.co/img/services/new-icon/contractors/sheet.png" width="150" height="150" layout="responsive" alt="Sheet Metal Contractors by BeeInsured" title="Insurance Services for Sheet Metal Contractors" ></amp-img><div><h2 class="contratistas">Metal de hoja</h2></div></div>   <h4 class="descrip">Selecciona, corta, da forma, fabrica e instala láminas de metal como cornisas, tapajuntas.</h4>
 </a>
-     <a href="https://www.beeinsured.co/services/commercial-insurance" class="square-box contract">
+     <a href="https://www.beeinsured.co/es/services" class="square-box contract">
     <div class='square-content'>
-       <amp-img src="https://www.beeinsured.co/img/services/new-icon/contractors/landscape.png" width="150" height="150" layout="responsive" alt="Landscape Contractors by BeeInsured" title="Insurance Services for Landscape Contractors" ></amp-img>
+       <amp-img src="https://www.beeinsured.co/img/services/new-icon/contractors/landscape.png" width="150" height="150" layout="responsive" alt="Contractors by BeeInsured" title="Insurance Services" ></amp-img>
  <div><h2 class="contratistas">Otros</h2></div></div>
            <h4 class="descrip"> </h4>
 </a>
@@ -172,7 +172,7 @@
 -->  
     </div>
     
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
+ 
 </body>
 <?php include('../footer-menu-es.php');?>
 </html>

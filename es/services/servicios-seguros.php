@@ -79,7 +79,7 @@
     layout="nodisplay">
   </amp-position-observer>
 </div>
-<?php include('../menu.php');?>
+<?php include('../menu-es.php');?>
     <div class="title-section">
             <h1>Servicios de seguros
                  
@@ -90,7 +90,7 @@
         <li><a href="/services/servicios-seguros" class="active">Servicios de seguros</a></li>
     </ol>
 
-  <amp-img src="../../es/img/carrousel/service-5.jpg" width="1920" height="395" layout="responsive" title="#"></amp-img>
+  <amp-img class="oculto" src="../../es/img/carrousel/service-5.jpg" width="1920" height="395" layout="responsive" title="#"></amp-img>
     <div class="intro">
        <!--  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo conLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con</p> -->
        

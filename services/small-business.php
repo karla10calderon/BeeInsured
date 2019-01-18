@@ -56,147 +56,29 @@
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu.php');?>
-    <amp-img src="https://www.beeinsured.co/img/services/new-banner/small-business.jpg" width="1680" height="570" layout="responsive" title="Small Business"></amp-img>
-    <div class="title-section"><h1>Small Business </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/small-business" class="active">Small Business </a></li></ol>
+    <amp-img class="oculto"  src="https://www.beeinsured.co/img/services/new-banner/small-business.jpg" width="1680" height="570" layout="responsive" title="Small Business"></amp-img>
+    <div class="title-section"><h1>Small Business </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/small-business" class="active">Small Business </a></li></ol>
     
-    <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-quote.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario">
-<!--FORMULARIO CORTO DE CONTACTO-->
-       <!--SMALL BUSINESS-->
-<form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-    <div class="espacio"><a class="langform" href="https://www.beeinsured.co/es/services/small-business">En Español</a></div>
-    <input type="text" name="type" value="quote" style="display:none" />
-       <div class="options" style="display:none">
-            <select name="insurance" id="status">
-                <option value="Small Business">Small Business</option>
-            </select>
-        </div>
-    
-    <fieldset>
-        <label>
-            <input type="text" name="name" placeholder="Name" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="businessName" placeholder="Business' Name" required>
-        </label>
-        <br><div class="options"><select name="entity" id="status">
-        <option value="INC">INC</option>
-        <option value="Individual">Individual</option>
-        <option value="LLC">LLC</option>
-        <option value="Other">Other</option></select>
-        <label for="entity" class="opt">Entity?</label></div>
-        <br>
-        <label>
-            <input type="text" name="address" placeholder="Address" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="city" placeholder="City" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="state" placeholder="State" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="zipCode" placeholder="Zip Code" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="email" placeholder="Email" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="fax" placeholder="Fax" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="phone" placeholder="Phone" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="taxIdNumber" placeholder="Tax ID Number" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="yearBuilt" placeholder="Year Built" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="DOB" placeholder="DOB" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="annualSales" placeholder="Annual Sales" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="propertyValue" placeholder="Property Value and merchandise value?" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="lastTimeBuilding" placeholder="Last time building was remodel (Type of remodel)?" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="sqfBuilding" placeholder="SQF of Building" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="typeRoof" placeholder="Type of Roof" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="otherTenant" placeholder="Other Tenant" required>
-        </label>
+
+    <div class="center">
+        <div class="boxheader">Small business insurance helps cover the costs of liability and property damage claims.</div>
         
-        <br>
-        <label>
-            <input type="text" name="currentlyInsured" placeholder="Currently Insured? If yes, please list carrier" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Contractor Lic Number" required>
-        </label>
-         <br><div class="options"><select name="constructionType" id="status">
-        <option value="Frame">Frame</option>
-        <option value="Metal">Metal</option>
-        <option value="Masonry">Masonry</option>
-        <option value="Concrete">Concrete</option></select>
-        <label for="entity" class="opt">Construction Type?</label></div>
-        <br>
-        <label>
-            <input type="text" name="yearsInBusiness" placeholder="Years in Business" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="typeCoverage" placeholder="Type of coverage desired" required>
-        </label>
-           <br>
-        <label>
-            <input type="text" name="DescriptionOperation" placeholder="Description of Operation" required>
-        </label>
-        <br>
-        <input type="submit" value="Send">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Subscription successful! </template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Subscription failed! </template>
-    </div>
-</form></div></div>
-    <div class="info"><p><strong>Small business insurance</strong> helps cover the costs of liability and property damage claims. It can also replace lost income if your business is temporarily unable to operate because of a covered incident. Because small business insurance encompasses an array of different coverages, most small business insurance policies can be tailored to fit your business’s unique needs. This way, you can add the protection you need and avoid paying for coverages your business won’t use.<br><br>
-    From brick-and-mortar shops to contractors on the go, <strong>we insure most types of small businesses</strong> such as:<br><br>
-Stores<br>
-Garages<br>
-Restaurants<br>
-Manufacturers<br>
-Janitors<br>
-Beauty Salons<br>
-HVAC Services<br>
-Consultants<br>
-And many more<br>
-</p></div>
+        <?php include('../quote-general.php');?>
+        
+        <p> It can also replace lost income if your business is temporarily unable to operate because of a covered incident. Because small business insurance encompasses an array of different coverages, most small business insurance policies can be tailored to fit your business’s unique needs.<br><br> 
+            
+        <h2 class="sub">This way, you can add the protection you need and avoid paying for coverages your business won’t use.</h2><br>
+       <p>    
+    From brick-and-mortar shops to contractors on the go, <strong class="bold">we insure most types of small businesses</strong> such as:</p> <br><br>
+            
+            <div class="dot">Stores</div>
+            <div class="dot">Garages</div>
+            <div class="dot">Restaurants</div>
+            <div class="dot">Manufacturers</div>
+            <div class="dot">Janitors</div>
+            <div class="dot">Beauty Salons</div>
+            <div class="dot">HVAC Services</div>
+            <div class="dot">Consultants</div>
+</div>
     
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../footer-menu.php');?></html>
+ </body><?php include('../footer-menu.php');?></html>

@@ -37,25 +37,154 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <!--ACORDION FORMULARIO-->
      <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-      <!--PARALLAX-->
-      <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
     <!--BACK TO TOP-->
     <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
     <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
     <!--SEARCH BOX-->
     <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-  <style amp-custom><?php readfile( getcwd() . "../../styles.css"); ?></style></head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics><amp-user-notification layout="nodisplay" id="amp-user-notification1"><p>We use technical and analytics cookies to ensure that we give you the best experience on our website.</p><button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button></amp-user-notification><?php include ('../chat.php');?><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?><div class="title-section"><h1>Nosotros</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/about-us" class="active">Nosotros</a></li></ol><div class="services reverse"><amp-img amp-fx="fade-in-scroll" src="https://www.beeinsured.co/img/kevin.jpg" width="1597" height="950"  sizes="(max-width: 1100px) 100vw,(max-width: 1050px) 75vw, 1200px"></amp-img><div class="texto"><h2>Presidente CEO y fundador</h2><br><p>Kevin Arita comenzó su carrera en la industria de seguros y servicios financieros en los suburbios de Los Ángeles, California, en 2007. Rápidamente se convirtió en el mejor agente dentro del primer año de su carrera. Con determinación y pasión por los negocios, construyó KYC Insurance Services, LLC., el 23 de mayo del 2015.</p></div></div>
-    <div class="services"><amp-img src="https://www.beeinsured.co/img/about-us-48.png" width="1946" height="1173"  sizes="(max-width: 1100px) 100vw, (max-width: 940px) 75vw, 1200px" layout="responsive"></amp-img><div class="texto"><amp-img src="/img/LogoBee%20Insured-OrangeandBlack.png" width="915" height="299" layout="responsive" ></amp-img><p><br>
-KYC Insurance Services, LLC., hoy es formalmente BeeInsured Insurance Services como nueva marca. BeeInsured se formó en abril del 2018 con el respaldo de KYC Insurance Services, LLC., para satisfacer las necesidades de la industria de la construcción y también brindando protección de seguros de calidad a diversas industrias. Nuestro compromiso es asegurar que cada cliente tenga un claro entendimiento de sus necesidades de seguro, la cobertura que necesita y la póliza que están comprando. Estamos enfocados en el cliente a largo plazo, que nos ve no solo como una agencia de seguros, sino también como socio en sus asuntos comerciales y personales. </p></div></div><div class="services reverse"><amp-img amp-fx="fade-in-scroll" src="https://www.beeinsured.co/img/about-us-49.png" width="1920" height="714"  sizes="(max-width: 1100px) 100vw,(max-width: 1050px) 75vw, 1200px" layout="responsive"></amp-img><div class="texto"><p>BeeInsured Insurance Services se enfoca en la relación entre agentes y clientes, asegurando la satisfacción del cliente por encima de todo. BeeInsured es una agencia de seguros de servicio completo, capaz de manejar las necesidades de seguros personales y comerciales de los clientes.
-<br><br>
-      <b> Misión:</b> Nuestra misión es contribuir al desarrollo personal y la calidad de vida de los diferentes grupos de contratistas que ofrecen nuestros servicios, anticipando sus necesidades y posicionándonos entre la competencia.<br><br>
-     <b> Visión:</b>Ser la compañía de referencia con el mejor servicio y efectividad en el estado de California.<br><br>
-      <b>Valores:</b> • Comunicación • Respeto • Servicio íntegro y de calidad • Desarrollo personal y profesional • La seguridad del cliente es primero
-<br><br>
-      <b>Filosofía:</b> Calidad de vida.
-      
-      </p></div></div><button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
+    
+  <style amp-custom><?php readfile( getcwd() . "../../styles.css"); ?></style></head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics><amp-user-notification layout="nodisplay" id="amp-user-notification1"><p>We use technical and analytics cookies to ensure that we give you the best experience on our website.</p><button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button></amp-user-notification><?php include ('../chat.php');?><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?>
+    
+    <amp-img class="oculto" src="https://www.beeinsured.co/img/offices.jpg" width="1597" height="570" layout="responsive"></amp-img>
+    
+    <div class="title-section"><h1>Nosotros</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/about-us" class="active">Nosotros</a></li></ol>
+    <!--IMAGEN DE LAS OFICINAS -->
+    
+    <div class="center">
+       <p> BeeInsured se formó para atender las necesidades y demandas de la industria de la construcción. También nos centramos en la relación entre agentes y clientes, garantizando la satisfacción del cliente por encima de todo. BeeInsured es una agencia de seguros de servicio completo capaz de manejar las necesidades de seguros personales y comerciales de los clientes. <br> <br> <br> </p>
+        
+        <h2 class = "sub"> Valores de la compañía </h2> <br>
+        
+       <p> <strong class = "bold"> Misión: </strong> Contribuir al desarrollo personal y la calidad de vida de los diferentes grupos de contratistas que ofrecen nuestros servicios, anticipando sus necesidades y posicionándonos entre la competencia. </p> <br>
+
+ <p> <strong class = "bold"> Visión: </strong> Sea la compañía de referencia con el mejor servicio y la mejor eficacia en el estado de California. </p> <br>
+
+<p> <strong class = "bold"> Filosofía: </strong> Calidad de vida. </p> <br>
+
+<p> <strong class = "bold"> Valores fundamentales: </strong> </p> <div class = "dot"> Comunicación </div> <div class = "dot"> Respeto </div> <div class = "dot"> Servicio de integridad y calidad </div> <div class = "dot"> Desarrollo personal y profesional </div> <div class = "dot"> La seguridad del cliente es lo primero </div> <br> <br>
+   
+        
+        
+        <h1> Nuestro equipo </h1>
+ <div class = "center">
+            <amp-img src = "https://www.beeinsured.co/img/kevin.jpg" width = "1597" height = "950" layout = "responsive"> </amp-img>
+         <br>
+<p class = "name"> Kevin Arita </p>
+<p class = "job"> LIC # 0H99834 <br> CEO </p> <br> <br>
+
+<p> Comenzó su carrera en la industria de seguros y servicios financieros en los suburbios de Los Ángeles, California, en 2007, y rápidamente se convirtió en el mejor agente dentro del primer año de su carrera. Con pura determinación y pasión por los negocios, pudo construir KYC Insurance Services, LLC., El 23 de mayo de 2015. <br> <br> Ahora KYC Insurance Services, LLC es formalmente BeeInsured Insurance Services, como nueva marca. BeeInsured se formó en abril de 2018 con el respaldo de KYC Insurance Services, LLC. para satisfacer las necesidades de la industria de la construcción, aunque también brindamos protección de seguros de calidad a una variedad de industrias.</p>        
+        <div class="ourteam">
+<div class="person">
+        <amp-img src="https://www.beeinsured.co/img/david-bass.jpg" width="250" height="250" ></amp-img>
+        <p class="name">David Bass</p>
+        <p class="job">Underwriting &<br>Accounting Manager</p>
+    </div>      
+
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/jair-rodriguez.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Jair Rodríguez</p>
+        <p class="job">Customer Service <br>Manager</p>
+    </div>
+      <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/nidia-arita.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Nidia Arita</p>
+        <p class="job">Underwriting Assistance</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/kimberly-romero.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Kimberly Romero</p>
+        <p class="job">Customer Service</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/paty-castaneda.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Patty Castañeda</p>
+        <p class="job">Customer Service</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/kiara-baltazar.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Kiara Baltazar</p>
+        <p class="job">Customer Service</p>
+    </div>
+       <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/lailani.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Lailani Norn</p>
+        <p class="job">Customer Service</p>
+    </div>
+
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/sylvia-alfonso.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Sylvia Alfonso</p>
+        <p class="job"> LIC# 0H33363<br>Personal Lines Broker</p>
+    </div>
+
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/sandra-cardena.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Sandra Cardeña</p>
+        <p class="job">LIC# 0I05418<br>Insurance Broker</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/henry.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Henry Vela</p>
+        <p class="job">LIC# 0H02374<br>Insurance Broker</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/jose-herrera.jpg" width="250" height="250" ></amp-img>
+        <p class="name">José Herrera</p>
+        <p class="job">LIC# 0K67212<br>Insurance Broker</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/jiena.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Jiena Sem</p>
+        <p class="job">LIC# 0I90089<br>Insurance Broker</p>
+    </div>
+    <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/yamir.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Yamir Alvarez</p>
+        <p class="job">LIC#0H22980<br>Insurance Broker</p>
+    </div>
+     <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/juan-orozco.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Juan Orozco</p>
+        <p class="job">LIC# 0M31778<br>Insurance Broker</p>
+    </div>
+            
+            
+            
+            
+             <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/mk-01.png" width="250" height="250" ></amp-img>
+        <p class="name">Yngri Matson</p>
+        <p class="job">VP Marketing & Advertising</p>
+    </div>
+            
+             <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/mk-02.png" width="250" height="250" ></amp-img>
+        <p class="name">Cassandra Villagómez</p>
+        <p class="job">Marketing Supervisor</p>
+    </div>
+            
+              <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/mk-03.png" width="250" height="250" ></amp-img>
+        <p class="name">Karla Calderón</p>
+        <p class="job">Website Designer</p>
+    </div>
+             <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/mk-04.png" width="250" height="250" ></amp-img>
+        <p class="name">Alan Robert</p>
+        <p class="job">Animator</p>
+    </div>
+        </div>       
+        
+        </div>
+        
+        
+        
+        
+        
+        </div>
+        
+
 </body>
 <?php include('../footer-menu-es.php');?>
 </html>

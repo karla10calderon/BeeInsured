@@ -101,7 +101,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/blog/26-engine-failure.jpg" width="1680" height="570" alt=" california auto insurance covers" title="Will auto insurance cover engine failure?" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/blog/26-engine-failure.jpg" width="1680" height="570" alt=" california auto insurance covers" title="Will auto insurance cover engine failure?" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/blog" >Blog /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/blog/auto-insurance-cover-engine-failure" class="active">Will auto insurance cover engine failure?</a></li>

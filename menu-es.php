@@ -1,34 +1,39 @@
+<!--ANUNCIO DE COOKIES -->
+<amp-user-notification layout="nodisplay"
+  id="amp-user-notification1">
+  We use technical and analytics cookies to ensure that we give you the best experience on our website.
+  <button on="tap:amp-user-notification1.dismiss">Accept</button>
+</amp-user-notification>
+<!--SEGUMIENTO DE ANALYTICS -->
+<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>
+ <!--BACK TO TOP -->
+<div id="top-page"></div> <amp-animation id="showAnim" layout="nodisplay"> <script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script> </amp-animation> <amp-animation id="hideAnim" layout="nodisplay"> <script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script> </amp-animation><div id="marker"> <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"> </amp-position-observer></div>    
+
 <div class="top">
     <ul class="contact">
-         <li>
-            <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="35" width="35"></amp-img>
-        </li>
-        <li><p class="servicetext">Cotizaciones:</p>
-<amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
-<a class="phonenumber" href="tel:18444687400">1 844 828 2280</a>
-</amp-call-tracking>
-            
-        </li>
-        <li class="lineavertical"></li>
-        
+    <div class="nav2">
+        <div class="seleclang"><a href="https://www.beeinsured.co">
+        <li><amp-img src="https://www.beeinsured.co/img/lang.png" height="35" width="35"></amp-img></li>
+        <li><p class="servicetext">English</p>
+     </li></a></div>
+        </div>
         <li>
             <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="35" width="35"></amp-img>
         </li>
-        <li><p class="servicetext">Oficina:</p>
+        <li><p class="servicetext">¡Llame ahora!</p>
 <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
- <a  class="phonenumber"href="tel:18444687400">1 844 468 7400</a>
+ <a  class="phonenumber"href="tel:18444687400">844 468 7400</a>
 </amp-call-tracking>
-         
-        </li>
+     </li>
     </ul>
-    <a href="https://www.beeinsured.co">
+    <a href="https://www.beeinsured.co/es/">
         <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="BeeInsured Steps that build your future" title="Logo BeeInsured" height="83" width="252"></amp-img>
     </a>
 </div>
 <div class="menu-desktop">
     <ul class="nav">
-        <li class="barra"><a href="https://www.beeinsured.co/es">Inicio</a></li>
-        <li><a href="https://www.beeinsured.co/es/services/insurance-services" class="barra">Seguros</a>
+        <li class="barra"><a href="https://www.beeinsured.co/es/">Inicio</a></li>
+        <li><a href="https://www.beeinsured.co/es/services" class="barra">Seguros</a>
             <ul class="hidden">
                 <div class="column">
                     <li><a href="https://www.beeinsured.co/es/services/workers-compensation">Workers Compensation</a></li>
@@ -48,99 +53,59 @@
  <li><a href="https://www.beeinsured.co/es/contractors" class="barra">Contratistas</a>
             <ul class="hidden">
                 <div class="column">
-                    <li><a href="https://www.beeinsured.co/es/contractors/general-contractor">Contratista general </a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/roofing">Techo</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/tree-service">Paisajista</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/concrete">Concreto</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/painting-decorating">Pintura y decoración</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/general-contractor">Contratistas generales</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/roofing">Roofing</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/tree-service">Tree Service</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/concrete">Concrete</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/painting-decorating">Paiting & Decorating</a></li>
                     <li><a href="https://www.beeinsured.co/es/contractors/hv-ac">HV-AC</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/electrical">Eléctrico</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/plumbing">Plomería</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/electrical">Electrical</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/plumbing">Plumbing</a></li>
                     <li><a href="https://www.beeinsured.co/es/contractors/drywall">Drywall</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/masonry">Albañilería</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/masonry">Masonry</a></li>
                 </div>
                 <div class="column">
-                    <li><a href="https://www.beeinsured.co/es/contractors/low-voltage">Baja Tensión</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/carpentry-framing">Carpintería y Enmarcado</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/cabinets-millwork">Gabinetes y carpintería</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/tile">Lozeta</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/floor-covering">Revestimiento de pisos</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/fire-protection">Protección de incendios</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/glazing">Esmaltar</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/refrigeration">Refrigeración</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/sheet-metal">Metal de hoja</a></li>
-<!--                    <li><a href="https://www.beeinsured.co/es/contractors/">Other</a></li>-->
+                    <li><a href="https://www.beeinsured.co/es/contractors/low-voltage">Low Voltage</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/carpentry-framing">Carpentry-Framing</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/cabinets-millwork">Cabinets & Millwork</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/tile">Tile</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/floor-covering">Floor Covering</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/fire-protection">Fire Protection</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/glazing">Glazing</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/refrigeration">Refrigeration</a></li>
+                    <li><a href="https://www.beeinsured.co/es/contractors/sheet-metal">Sheet Metal</a></li>
                 </div>
             </ul>
         </li>
 
         <li class="barra"><a href="https://www.beeinsured.co/es/services/certificates">Certificados</a></li>
-        <li class="barra"><a href="https://www.beeinsured.co/es/contact">Contacto</a>
+<!--
+        <li class="barra"><a href="https://www.beeinsured.co/es/contact">Contáctanos</a>
             <ul class="hidden">
                 <div class="column">
                     <li><a href="https://www.beeinsured.co/es/job-opportunities">Bolsa de trabajo</a></li>
                     <li><a href="https://www.beeinsured.co/es/our-partners">Nuestros socios</a></li>
                     <li><a href="https://www.beeinsured.co/es/about-us">Nosotros</a></li>
-                    <li><a href="https://www.beeinsured.co/es/our-team">Equipo</a></li>
+
                 </div>
             </ul>
         </li>
-<li class="barra blog"><a href="https://www.beeinsured.co/es/blog">Blog</a></li>
-         <li class="redirec"><a href="https://www.beeinsured.co/">English</a></li>
-    </ul>
-    <div class="nav2">
-     <!-- Language input
-     <div class="lang">
-        <form 
-            method="post" 
-            action-xhr="/functions/setCookie" 
-            target="_top">
-            <input type="text" name="lang" value="es" style="visibility: hidden;position: absolute;">
-            <input
-                type="submit" 
-                value="Español"
-                class="ampstart-btn caps"
-                />
-        </form> -->
-        <!--<a href="../index.php">English</a>-->
-    </div>
-    <!-- Language input -->
-    <!--    <div class="lang"><a href="https://www.beeinsured.co/es/es.php">Español</a></div>
-
-        <form class="searchbox" action="" target="_top" method="get">
-            <div class="searchboxelements">
-                <input type="search" placeholder="Search..." name="googlesearch">
-            </div>
-        </form>   </div>
 -->
- 
+       <li class="barra blog"><a href="https://www.beeinsured.co/es/blog">Blog</a></li>
+    </ul>
+   
 </div>
 <!--MENU RESPONSIVO-->
 <div class="menu-responsive">
-    <button class="hamburger">☰</button>
-    <ul class="content">
-<!--
-        <form class="searchbox" action="" target="_top">
-            <div class="searchboxelements">
-                <input type="search" placeholder="Search..." name="googlesearch">
-            </div>
-        </form>
---> <li> <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
-                <a href="tel:18444687400"><b>Cotizaciones:</b> 1 844 828 2280</a>
-</amp-call-tracking>
-        </li>
-            
-         <li>   
-         <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
-             <a href="tel:18444687400"><b>Oficina:</b> 1 844 468 7400</a>
-</amp-call-tracking>
-            
-        </li>
-        <li><a href="https://www.beeinsured.co/es">Inicio</a></li>
-        <amp-accordion animate>
-            <section>
-                <h4>Seguros <i class="down"></i></h4>
-                <ul>
+    <div class="primero">
+        <div class="hamburger">
+            <amp-img  src="https://www.beeinsured.co/img/hamburger-search-menu.png" width="40" height="32" layout="responsive"></amp-img>
+<!--FULL SCREEN MENU-->   
+<div class="pantalla-menu">
+<ul class="contenido-responsive">
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es">Inicio</a></li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/services">Servicios de seguros</a>
+    <ul class="hidden">
                     <li><a href="https://www.beeinsured.co/es/services/workers-compensation">Workers Compensation</a></li>
                     <li><a href="https://www.beeinsured.co/es/services/general-liability">General Liability</a></li>
                     <li><a href="https://www.beeinsured.co/es/services/commercial-vehicle">Commercial Vehicle</a></li>
@@ -148,51 +113,46 @@
                     <li><a href="https://www.beeinsured.co/es/services/small-business">Small Business</a></li>
                     <li><a href="https://www.beeinsured.co/es/services/inland-marine-tool">Tool & Equipment</a></li>
                     <li><a href="https://www.beeinsured.co/es/services/excess-umbrellahttps://www.beeinsured.co/es/contractors/">Excess & Umbrella</a></li>
-                    <li><a href="https://www.beeinsured.co/es/services/personal-lines">Personal Lines</a></li>
+                    <li><a href="https://www.beeinsured.co/es/services/personal-auto">Personal Auto</a></li>
+                    <li><a href="https://www.beeinsured.co/es/services/homeowners">Homeowners</a></li>
                 </ul>
-            </section>
-        </amp-accordion>
-          <amp-accordion animate>
-            <section>
-                <h4>Contratistas <i class="down"></i></h4>
-                <ul>
-                    <li><a href="https://www.beeinsured.co/es/contractors/general-contractor">Contratista general </a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/roofing">Techo</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/tree-service">Paisajista</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/concrete">Concreto</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/painting-decorating">Pintura y decoración</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/hv-ac">HV-AC</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/electrical">Eléctrico</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/plumbing">Plomería</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/drywall">Drywall</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/masonry">Albañilería</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/low-voltage">Baja Tensión</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/carpentry-framing">Carpintería y Enmarcado</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/cabinets-millwork">Gabinetes y carpintería</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/tile">Lozeta</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/floor-covering">Revestimiento de pisos</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/fire-protection">Protección de incendios</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/glazing">Esmaltar</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/refrigeration">Refrigeración</a></li>
-                    <li><a href="https://www.beeinsured.co/es/contractors/sheet-metal">Metal de hoja</a></li>
-                </ul>
-            </section>
-        </amp-accordion>
-        
-        
-        <li><a href="https://www.beeinsured.co/es/services/certificates">Certificados</a></li>
-        <amp-accordion animate>
-            <section>
-                <h4>Contacto <i class="down"></i></h4>
-                <ul>
-                    <li><a href="https://www.beeinsured.co/es/job-opportunities">Bolsa de trabajo</a></li>
+    </li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/services/certificates">Certificados</a></li>
+    <!--<li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/contact">Contáctanos</a>
+    <ul class="hidden">
+                     <li><a href="https://www.beeinsured.co/es/job-opportunities">Bolsa de trabajo</a></li>
                     <li><a href="https://www.beeinsured.co/es/our-partners">Nuestros socios</a></li>
                     <li><a href="https://www.beeinsured.co/es/about-us">Nosotros</a></li>
                     <li><a href="https://www.beeinsured.co/es/our-team">Equipo</a></li>
                 </ul>
-            </section>
-        </amp-accordion>
-<li><a href="https://www.beeinsured.co/es/blog">Blog</a></li>
-          <li><a href="https://www.beeinsured.co/">English</a></li>
-    </ul>
+    
+    
+    </li>
+    -->
+    
+    <!--DROPDOWN MENU-->  
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/contractors">Contratistas</a></li>
+    <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/blog">Blog</a></li>
+</ul>
 </div>
+        </div>
+        
+  <div class="idioma">
+      <a href="https://www.beeinsured.co/" title="BeeInsured en Inglés">
+    <amp-img src="https://www.beeinsured.co/img/lang.png" height="20" width="20" layout="responsive"></amp-img><p>ENG</p>
+        </a>
+</div>
+    </div>
+    <div class="segundo">
+     <a href="https://www.beeinsured.co/es/">
+        <amp-img class="logo" src="https://www.beeinsured.co/img/Logo-BeeInsured.png" alt="BeeInsured Steps that build your future" title="Logo BeeInsured" height="65" width="200" layout="responsive"></amp-img>
+    </a>
+    </div>
+    <div class="tercero">
+   <p >¡Llame ahora!</p>
+<amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
+ <a class="call" href="tel:18444687400">844 468 7400</a>
+</amp-call-tracking>
+    </div>
+</div>
+

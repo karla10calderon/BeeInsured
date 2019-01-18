@@ -55,134 +55,28 @@
   id="amp-user-notification1"><p>
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?><amp-img src="https://www.beeinsured.co/img/esp-servicios/small-business.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>Small Business </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/small-business" class="active">Small Business </a></li></ol>
-<div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario">
-<!--FORMULARIO CORTO DE CONTACTO-->
-       <!--SMALL BUSINESS-->
-<form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-    <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/small-business">English</a></div>
-    <input type="text" name="type" value="quote" style="display:none" />
-    <fieldset>
-        <label>
-            <input type="text" name="nombre" placeholder="Nombre" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="negocio" placeholder="Nombre del negocio" required>
-        </label>
-        <br><div class="options"><select name="entity" id="status">
-        <option value="INC">INC</option>
-        <option value="Individual">Individual</option>
-        <option value="LLC">LLC</option>
-        <option value="Other">Other</option></select>
-        <label for="entity" class="opt">¿Entidad?</label></div>
-        <br>
-        <label>
-            <input type="text" name="direccion" placeholder="Dirección" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ciudad" placeholder="Ciudad" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="estado" placeholder="Estado" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="codigoPostal" placeholder="Código postal" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="email" placeholder="Email" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="fax" placeholder="Fax" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefono" placeholder="Teléfono" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="taxIdNumero" placeholder="Tax ID Número" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="fechaConstruccion" placeholder="Año de construcción" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="DOB" placeholder="DOB" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ventasAnuales" placeholder="Ventas anuales" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="valorPropiedad" placeholder="Valor de propiedad y mercancía" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ultimaRemodelacion" placeholder="Ultima remodelación (Tipo de remodalación)" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="sqfConstruccion" placeholder="SQF de construcción" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="tipoTecho" placeholder="Tipo de techo" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="otroSocio" placeholder="Otro socio" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Asegurado" placeholder="¿Actualmente asegurado? De ser afirmativo, mencione al portador" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Número de licencia de contratista" required>
-        </label>
-         <br><div class="options"><select name="tipoConstrucción" id="status">
-        <option value="Marco">Marco</option>
-        <option value="Metal">Metal</option>
-        <option value="Albañilería">Albañilería</option>
-        <option value="Concreto">Concreto</option></select>
-        <label for="entity" class="opt">Tipo de construcción</label></div>
-        <br>
-        <label>
-            <input type="text" name="yearsInBusiness" placeholder="Años en negocio" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="typeCoverage" placeholder="Tipo de covertura deseada" required>
-        </label>
-           <br>
-        <label>
-            <input type="text" name="descripcionOperacion" placeholder="Descripción de la operación" required>
-        </label>
-        <br>
-        <input type="submit" value="Enviar">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Suscripción exitosa! </template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Suscripción fallida, por favor intente de nuevo.</template>
-    </div>
-</form></div></div>
+</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/small-business.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>Small Business </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/small-business" class="active">Small Business </a></li></ol>
+
     
-    <div class="info"><p>
-        El seguro de <b>Small Business</b> incluye un seguro de ingresos comerciales, a veces llamado seguro de interrupción del negocio. Esto compensa al propietario de una empresa por la pérdida de ingresos después de un desastre. Los desastres normalmente interrumpen las operaciones y pueden forzar a una empresa a abandonar sus instalaciones. El seguro de ingresos comerciales también cubre el gasto adicional en que puede incurrir si una empresa debe operar fuera de una ubicación temporal.<br><br>
+<div class="center"><p>¡El mejor seguro para su <strong class="bold">pequeña empresa se encuentra en BeeInsured!</strong> Si usted tiene un negocio pequeño con menos de 100 empleados o está pensando en emprender debe saber que cada negocio tiene la responsabilidad de proteger a su mercancía, instalaciones, personal, cubrir accidentes y daños a terceros. <br><br>     
+    ¡Emprenda con su seguro de Small Business!</p>
+<h2 class="sub">¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
+    
+        
+        <?php include('../quote-general-es.php');?>
+       <h2 class="sub">¿Qué cubre el Seguro de Small Business?</h2><br>
 
-Para cubrir los riesgos específicos asociados con un negocio, se pueden agregar una variedad de coberturas adicionales al <b>Small Business</b> básico. Por ejemplo, si una empresa tiene un cartel al aire libre, <b>Small Business</b> no lo cubre a menos que la cobertura se agregue específicamente por una prima adicional. Si una empresa depende del comercio electrónico, el propietario puede agregar cobertura para los ingresos perdidos y los gastos adicionales en caso de que la capacidad de la empresa para llevar a cabo el comercio electrónico se frene o se detenga debido a un virus informático o un hacker.
-<br><br>
-Solo las pequeñas y medianas empresas que cumplen ciertos criterios son elegibles para <b>Small Business</b>. Los factores que las aseguradoras consideran incluyen el tamaño de las instalaciones, los límites de responsabilidad requeridos, el tipo de negocio y el alcance de la actividad fuera del sitio. Las primas para las políticas de <b>Small Business</b> se basan en los factores más la ubicación del negocio, la estabilidad financiera, la construcción del edificio, las características de seguridad y los riesgos de incendio.
-
-        </p></div>    
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../../footer-menu.php');?></html>
+        <div class="dot">Daños a terceros</div>
+        <div class="dot">Eventos naturales</div>
+        <div class="dot">Maquinaria y equipos.</div>
+        <div class="dot">Mobiliario y adaptaciones del local.</div>
+        <div class="dot">Mercancía, materia prima, artículos en producción y productos terminados en inventario.</div>
+        <div class="dot">Cobertura de Efectos Personales y Propiedad de Terceros</div>
+        <div class="dot">Seguro de interrupción de negocios </div>
+        <div class="dot">Seguro para requisitos de leyes locales y ordenanzas </div>
+        
+        
+<?php include('../../blog-menu-es.php');?>
+</div>    
+ </body><?php include('../../footer-menu-es.php');?></html>

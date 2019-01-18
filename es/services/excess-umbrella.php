@@ -55,71 +55,22 @@
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div>
-  <?php include('../../menu.php');?><amp-img src="/img/esp-servicios/building.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>Excess and Umbrella </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/excess-umbrella" class="active">Excess and Umbrella </a></li></ol>
+  <?php include('../../menu-es.php');?><amp-img class="oculto" src="/img/esp-servicios/building.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>Excess and Umbrella </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/excess-umbrella" class="active">Excess and Umbrella </a></li></ol>
 
-<div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario">
-<!--FORMULARIO CORTO DE CONTACTO-->
-       <!--EXCESS & UMBRELLA-->
-<form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-    <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/excess-umbrella">English</a></div>
-    <input type="text" name="type" value="quote" style="display:none" />
-    <fieldset>
-        <label>
-            <input type="text" name="Nombre" placeholder="Nombre" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Apellido" placeholder="Apellido" required>
-        </label>
-         <br>
-        <label>
-            <input type="email" name="Email" placeholder="Email" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="Telefono" placeholder="Teléfono" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="servicio" placeholder="Servicio" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="productoRequerido" placeholder="¿Para qué producto lo requiere?" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="coberturaCompania" placeholder="¿Qué cobertura y nombre de la compañía tiene?" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="requrimiento" placeholder="¿Por cuántos millones lo requiere?" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="declaraciones" placeholder="Página de declaraciones" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="contractorLicNumero" placeholder="Número de Lincencia de contratista" required>
-        </label>
-        
-        <input type="submit" value="Send">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Suscripción exitosa! </template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Suscripción fallida, por favor intente de nuevo.</template>
-    </div>
-</form> </div></div>
-    <div class="info"><p>
-        
-        
-        <b>Excess</b> <br>El seguro de responsabilidad civil (GL) es una cobertura que aumenta los límites de su póliza de responsabilidad civil general / responsabilidad profesional. Una política de exceso se basa en su política principal y proporciona la misma cobertura que la primaria. Si tiene un reclamo en el que agota sus límites subyacentes de seguro, su política de exceso se reanudará donde lo dejó.
-        <br> <br> <br>
-        <b>Umbrella</b> <br>El seguro de responsabilidad civil <b>"Umbrella"</b> es muy similar al seguro de responsabilidad civil excedente. La diferencia es que una póliza de seguro paraguas cubre más de una línea de cobertura. Bajo el programa SARPG, <b>"Umbrella Policy"</b>  se basa en su responsabilidad general / Responsabilidad profesional, Cobertura de automóviles comerciales y Cobertura de compensación para trabajadores. 
+    <div class="center"><p>Esta póliza de seguro protege de pérdidas catastróficas en su negocio. Comprende varios seguros de responsabilidad tales como Commercial Auto y General Liability. Umbrella insurance permite que con el Seguro de Excess incremente el límite de las coberturas de las pólizas anteriores. 
+</p><br><br>
+        <h2 class="sub"> ¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
 
         
-        </p></div>
-    <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button></body><?php include('../../footer-menu.php');?></html>
+<?php include('../quote-general-es.php');?>
+   
+        <h2 class="sub"> ¿Qué cubre el Seguro de Excess & Umbrella?</h2><br>
+
+<div class="dot">Cobertura de General Liability </div>
+<div class="dot">Cobertura de Employer's Liability</div>
+<div class="dot">Commercial Auto / Auto Insurance</div>
+      <?php include('../../blog-menu-es.php');?>
+    
+</div>
+ </body><?php include('../../footer-menu-es.php');?></html>

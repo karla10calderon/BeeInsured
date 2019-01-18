@@ -64,7 +64,7 @@
     
 <?php include('../menu.php');?>
     
-  <amp-img src="https://www.beeinsured.co/img/contractors/Contractor-Flooring-BeeInsured.jpg" width="1680" height="570" alt="Floor Covering in california" title="Floor Covering in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-Flooring-BeeInsured.jpg" width="1680" height="570" alt="Floor Covering in california" title="Floor Covering in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contractors" >Contractors /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/contractors/floor-covering" class="active">Floor Covering by BeeInsured</a></li>

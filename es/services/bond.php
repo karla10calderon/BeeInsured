@@ -28,97 +28,35 @@
   id="amp-user-notification1"><p>
   We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu.php');?>
-  <amp-img src="https://www.beeinsured.co/img/esp-servicios/bond.jpg" width="1680" height="570" layout="responsive" title="Bond Insurance" alt="Get your bond quote"></amp-img>
-    <div class="title-section"><h1>Surety Bond</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/insurance-services">Insurance Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/commercial-insurance">Commercial Insurance /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/bond" class="active">Surety Bond</a></li></ol>
+</amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?> <amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/bond.jpg" width="1680" height="570" layout="responsive" title="Bond Insurance" alt="Get your bond quote"></amp-img>
+    <div class="title-section"><h1>Surety Bond</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio  /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/bond" class="active">Surety Bond</a></li></ol>
 
- <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-formulario.png" width="571" height="358" layout="responsive"></amp-img><div class="formulario"><!--Bond Quote-->
-      <form method="post" action-xhr="https://panel.beeinsured.co/api/addRequest" target="_top" class="quote">
-           <div class="espacio"><a class="langform" href="https://www.beeinsured.co/services/bond">English</a></div>
-          <input type="text" name="type" value="quote" style="display:none"/>
-    <fieldset>
-        <label>
-            <input type="text" name="nombre" placeholder="Nombre" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="apellido" placeholder="Apellido" required>
-        </label>
-        <br>
-        <label>
-            <input type="email" name="Email" placeholder="Email" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefono" placeholder="Teléfono" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="telefonoCasa" placeholder="Teléfono Casa" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="direccion" placeholder="Dirección" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="ciudad" placeholder="Ciudad" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="estado" placeholder="Estado" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="codigoPostal" placeholder="Código Postal" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="nombreCompania" placeholder="Nombre de la compañía" required>
-        </label>
-         <br>
-        <label>
-            <input type="text" name="contractorLicNumber" placeholder="Número de licencia de contratista" required>
-        </label>
-        <br>
-        <div class="options">
-            <select name="Entity?" id="status">
-                <option value="INC">INC</option>
-                <option value="Individual">Individual</option>
-                <option value="LLC">LLC</option>
-                <option value="Other">Otro</option>
-            </select>
-            <label for="Entity?" class="opt">Entidad</label>
-        </div>
-        <br>
-        <label>
-            <input type="text" name="Personal Indemnitor" placeholder="Indemnizador personal" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Social Security Number" placeholder="Número de seguro social" required>
-        </label>
-        <br>
-        <label>
-            <input type="text" name="Date of Birth" placeholder="Fecha de nacimiento (MM/DD/AAAA)" required>
-        </label>
-        <br>
-        <input type="submit" value="Enviar">
-    </fieldset>
-    <div submit-success>
-        <template type="amp-mustache">Envío exitoso.</template>
-    </div>
-    <div submit-error>
-        <template type="amp-mustache">Envío fallido, intente de nuevo.</template>
-    </div></form></div></div>
-    <div class="info"><p>
-Las diferentes clases de bonos de garantía satisfacen diferentes necesidades de fianzas.<br>BeeInsured Tiene muchos años de experiencia en el servicio a contratistas y empresas, grandes y pequeñas, que nos da una comprensión completa de los contratos necesarios para ayudar a su empresa a crecer.<br> Nos ocupamos solo de las garantías más confiables, y contamos con un historial comprobado de colocar bonos para propietarios de empresas y contratistas nuevos en el trabajo vinculado a los bonos más difíciles para trabajos peligrosos para propietarios con inexperiencia en proyectos más grandes y aquellos con dificultades financieras.<br><br>
-        <b>Bono del contratista:</b> Los contratistas en California deben publicar bonos de garantía de $ 15,000. Al publicar la fianza de un contratista, los directores (contratistas) se comprometen a cumplir con las disposiciones de la División 3, Capítulo 9 del Código de Negocios y Profesiones. <br>El bono protege a las partes perjudicadas de pérdidas financieras hasta el monto total del bono si el principal incumple la letra de la ley y los términos del contrato de fianza. El principal debe reembolsar a la fianza por todos los daños pagados.
-Estos bonos permanecen en plena vigencia hasta que se cancelen. <br>El fiador puede cancelar la fianza de acuerdo con las disposiciones de las Secciones 996.310 del Código de Procedimiento Civil. <br>La licencia del solicitante o número de solicitud y clasificación (s) son necesarios para la suscripción.
+    <div class="center">
+      
+    <p>Si un deudor no cumple con su acreedor, quien da la fianza deberá asumir la deuda.  Para ello, el seguro de <strong class="bold">Bond, es un contrato entre el fiador, el acreedor y la afianzadora</strong> la cual se compromete a garantizar el cumplimiento de obligaciones económicas contraídas por una persona física o moral ante otra persona física o moral privada o pública, en caso de que aquella no cumpliere. Funciona como aval.
+<br><br>
+        ¡Respáldese ahora con Bond!</p>
+<h2 class="sub">¡Obtenga su cotización GRATIS AHORA!</h2>
+<p>En BeeInsured le estamos esperando.</p>
+        
+<?php include('../quote-general-es.php');?>
+        
+<h2 class="sub">¿Qué cubre el Seguro de Bond?</h2><br>
 
-      
-      
-      </p></div>
+<div class="dot">Mantenimiento de Oferta</div>
+        <div class="dot">Cumplimiento de Contrato</div>
+        <div class="dot">Fondos de Reparo</div>
+        <div class="dot">Anticipo para acopio de materiales</div>
+        <div class="dot">Anticipo financiero</div>
+        <div class="dot">Admisión Temporaria</div>
+        <div class="dot">Habilitación de Depósito Aduanero</div>
+        <div class="dot">Servicios Portuarios</div>
+        <div class="dot">Servicios Turísticos – Inmobiliarias</div>
+        <div class="dot">Permiso de Minería</div>
+        
+
+<?php include('../../blog-menu-es.php');?>
+</div>
 <button id="scrollToTopButton"
   on="tap:top-page.scrollTo(duration=200)"
   class="scrollToTop">⌃</button>

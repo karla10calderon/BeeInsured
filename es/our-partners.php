@@ -61,18 +61,124 @@
 <div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script>
 </amp-animation>
 <amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation>
-<div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?><div class="title-section"><h1>Nuestros socios</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/about-us">Nosotros /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/our-partners" class="active">Nuestros socios</a></li></ol><div class="services"><h2 class="wework">Trabajamos arduamente para ofrecerle la tarifa más baja en su póliza</h2></div>
-    <amp-carousel class="partnerscarrousel" width="1260" height="320" layout="responsive" type="slides" autoplay delay="2000">
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-1.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-2.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-3.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-4.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-5.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-6.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-7.png" width="1260" height="320" layout="responsive" ></amp-img>
-        <amp-img src="https://www.beeinsured.co/img/carrousel/partners/partners-8.png" width="1260" height="320" layout="responsive" ></amp-img>    </amp-carousel>
-
-    <amp-img src="https://www.beeinsured.co/img/our-partners.png" width="1260" height="320" alt="#" title="#" layout="responsive"></amp-img><button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
+<div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?> <amp-img  class="oculto" src="https://www.beeinsured.co/img/our-partners.png" width="1260" height="320" alt="#" title="#" layout="responsive"></amp-img>
+    
+    <div class="title-section"><h1>Nuestros socios</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/our-partners" class="active">Nuestros socios</a></li></ol>
+    
+    <div class="center"><p>Para brindar un servicio superior, mantenemos una excelente relación con nuestros socios que tienen años de experiencia en el campo de los seguros. En lugar de desarrollar y vender servicios, nuestro objetivo es trabajar a partir de las necesidades y expectativas de los clientes.</p></div>
+   
+    
+    
+   <amp-carousel id="carousel-with-preview"
+   width="250" height="180" type="slides" layout="responsive">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-01.jpg" width="50" height="50" layout="responsive" ></amp-img>
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-02.jpg" width="50" height="50"  layout="responsive"></amp-img> 
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-03.jpg" width="180" height="180" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-04.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-05.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-06.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-07.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-08.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-09.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-10.jpg" width="50" height="50"layout="responsive"  ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-11.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-12.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-13.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-14.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-15.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-16.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-17.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-18.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-19.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-20.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-21.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-22.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-23.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-24.jpg" width="50" height="50" layout="responsive" ></amp-img>
+         <amp-img src="https://www.beeinsured.co/img/partners/partners-25.jpg" width="50" height="50"  layout="responsive"></amp-img>
+         
+         
+  </amp-carousel>
+  <div class="carousel-preview">
+    <button on="tap:carousel-with-preview.goToSlide(index=0)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-01.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=1)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-02.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=2)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-03.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=3)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-04.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=4)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-05.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=5)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-06.jpg" width="50" height="50"></amp-img>
+    </button> 
+      <button on="tap:carousel-with-preview.goToSlide(index=6)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-07.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=7)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-08.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=8)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-09.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=9)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-10.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=10)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-11.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=11)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-12.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=12)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-13.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=13)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-14.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=14)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-15.jpg" width="50" height="50"></amp-img>
+    </button> 
+      <button on="tap:carousel-with-preview.goToSlide(index=15)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-16.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=16)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-17.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=17)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-18.jpg" width="50" height="50"></amp-img>
+    </button>
+  <button on="tap:carousel-with-preview.goToSlide(index=18)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-19.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=19)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-20.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=20)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-21.jpg" width="50" height="50"></amp-img>
+    </button>
+      
+      <button on="tap:carousel-with-preview.goToSlide(index=21)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-22.jpg" width="50" height="50"></amp-img>
+    </button>
+  <button on="tap:carousel-with-preview.goToSlide(index=22)">
+     <amp-img src="https://www.beeinsured.co/img/partners/partners-23.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=23)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-24.jpg" width="50" height="50"></amp-img>
+    </button>
+    <button on="tap:carousel-with-preview.goToSlide(index=24)">
+      <amp-img src="https://www.beeinsured.co/img/partners/partners-25.jpg" width="50" height="50"></amp-img>
+    </button>
+  </div>
+    
+<button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
 </body>
 <?php include('../footer-menu-es.php');?>
 </html>

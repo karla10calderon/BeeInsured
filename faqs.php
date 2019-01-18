@@ -16,8 +16,8 @@
 <meta itemprop="description" content="Here some answers to the commun questions about insurance services, learn more about with BeeInsured">
 <meta itemprop="image" content="https://www.beeinsured.co/img/fb/bond-fb-card.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="Bee Insured">
-<meta name="twitter:creator" content="Bee Insured">
+<meta name="twitter:site" content="BeeInsured">
+<meta name="twitter:creator" content="BeeInsured">
 <meta name="twitter:title" content="Insurance FAQ's by BeeInsured">
 <meta name="twitter:description" content="Here some answers to the commun questions about insurance services, learn more about with BeeInsured">
 <meta name="twitter:image" content="https://www.beeinsured.co/img/tw/bond-tw-card.jpg">
