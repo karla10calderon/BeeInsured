@@ -88,16 +88,14 @@
         <li class="barra"><a href="https://www.beeinsured.co/contact">Contact</a>
             <ul class="hidden">
                 <div class="column">
-                    <li><a href="https://www.beeinsured.co/job-opportunities">Job Opportunities</a></li>
+                    <li><a href="https://www.beeinsured.co/job-opportunities">Careers</a></li>
                     <li><a href="https://www.beeinsured.co/our-partners">Our Partners</a></li>
                     <li><a href="https://www.beeinsured.co/about-us">About Us</a></li>
                 </div>
             </ul>
         </li>
-       <li class="barra blog"><a href="https://www.beeinsured.co/blog">Blog</a></li>
-<!--          <li class="barra blog"><a href="https://www.beeinsured.co/faqs">FAQ's</a></li>-->
+       <li class="barra blog"><a href="https://www.beeinsured.co/blog">Blog</a></li><!--<li class="barra blog"><a href="https://www.beeinsured.co/faqs">FAQ's</a></li>-->
     </ul>
-   
 </div>
 <!--MENU RESPONSIVO-->
 <div class="menu-responsive">
@@ -125,7 +123,7 @@
     <li class="cajas"><a class="texto" href="https://www.beeinsured.co/services/certificates">Certificates</a></li>
     <li class="cajas"><a class="texto" href="https://www.beeinsured.co/contact">Contact Us</a>
     <ul class="hidden">
-                     <li><a href="https://www.beeinsured.co/job-opportunities">Job Opportunities</a></li>
+                     <li><a href="https://www.beeinsured.co/job-opportunities">Careers</a></li>
                     <li><a href="https://www.beeinsured.co/our-partners">Our Partners</a></li>
                     <li><a href="https://www.beeinsured.co/about-us">About Us</a></li>
                 </ul>

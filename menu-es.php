@@ -79,7 +79,7 @@
         </li>
 
         <li class="barra"><a href="https://www.beeinsured.co/es/services/certificates">Certificados</a></li>
-<!--
+
         <li class="barra"><a href="https://www.beeinsured.co/es/contact">Contáctanos</a>
             <ul class="hidden">
                 <div class="column">
@@ -90,7 +90,7 @@
                 </div>
             </ul>
         </li>
--->
+
        <li class="barra blog"><a href="https://www.beeinsured.co/es/blog">Blog</a></li>
     </ul>
    
@@ -118,17 +118,17 @@
                 </ul>
     </li>
     <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/services/certificates">Certificados</a></li>
-    <!--<li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/contact">Contáctanos</a>
+   <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/contact">Contáctanos</a>
     <ul class="hidden">
                      <li><a href="https://www.beeinsured.co/es/job-opportunities">Bolsa de trabajo</a></li>
                     <li><a href="https://www.beeinsured.co/es/our-partners">Nuestros socios</a></li>
                     <li><a href="https://www.beeinsured.co/es/about-us">Nosotros</a></li>
-                    <li><a href="https://www.beeinsured.co/es/our-team">Equipo</a></li>
+              
                 </ul>
     
     
     </li>
-    -->
+  
     
     <!--DROPDOWN MENU-->  
     <li class="cajas"><a class="texto" href="https://www.beeinsured.co/es/contractors">Contratistas</a></li>

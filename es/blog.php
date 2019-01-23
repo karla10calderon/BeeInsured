@@ -29,73 +29,89 @@
     
      <br>    <br>
    <ol class="breadcrumbs espacio"><li><a href="https://www.beeinsured.co/es">Inicio/&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/blog" class="active">Blog</a></li></ol>
+    
+    
+    
      <div class="espacioblog">
          
-         <a href="https://www.beeinsured.co/es/blog/debes-saber-antes-asegurarte" class="nuevoblog">
-           <amp-img src="https://www.beeinsured.co/img/blog/1-things-should-know.jpg" class="fotoblog" width="1680" height="570" layout="responsive"></amp-img>
+         <a  href="https://www.beeinsured.co/es/blog/debes-saber-antes-asegurarte" class="nuevoblog">
+           <amp-img  src="https://www.beeinsured.co/img/blog/1-things-should-know.jpg" class="fotoblog" width="1680" height="570" layout="responsive"></amp-img>
              <div class="footpage">
                  <div class="titulos">
-        <p class="tituloblog">Esto es lo que debes saber antes de asegurarte.</p>
-         <p class="bodyblog">El seguro es un producto financiero vendido por las compañías de seguros para protegerlo a usted y (o) a su propiedad contra el riesgo de pérdida, daño o robo.</p><p class="read">Leer más...</p>
+        <p class="tituloblog">Esto es lo que debes saber antes de asegurarte</p>
+         <p class="bodyblog">El seguro es un producto financiero vendido por las compañías de seguros para protegerlo a usted y (o) a su propiedad contra el riesgo de pérdida, daño o robo. </p><p class="read">Leer más...</p>
          </div>
-        </div>
+
+                 </div>
          </a>
          
-    
-    <div class="blogprimer">
-        <h4 class="moreblog">Lee más de nosotros:</h4>
-    
-        <div class="blogmenu">
-     
-             <a href="https://www.beeinsured.co/es/blog/por-que-comprar-seguro-auto-comercial" class="noteblog">
-        <amp-img src="https://www.beeinsured.co/img/blog/grid/8-why-buy-commercial.jpg"  width="225" height="217" layout="responsive"></amp-img>
-         <p class="tituloblog">¿Por qué comprar un seguro de auto comercial?</p>
-        <p class="bodyblog">El seguro de vehículos comerciales es muy importante para cuidar nuestros vehículos, pero hay límites en la cobertura. </p>
- </a>
-           <a href="https://www.beeinsured.co/es/blog/debes-saber-general-liability" class="noteblog">
-  
-        <amp-img src="/img/blog/grid/6-general-liability.jpg" class="fotoblog" width="225" height="217" layout="responsive"></amp-img>
-        <p class="tituloblog">Debes saber esto de General Liability</p>
-         <p class="bodyblog">El seguro de responsabilidad civil general lo protege a usted y a su organización...</p>
-        </a>
-       <a href="https://www.beeinsured.co/es/blog/workers-compensation-requerido-california" class="noteblog">
-     
-       <amp-img src="https://www.beeinsured.co/img/blog/grid/3-is-workers-california.jpg" width="225" height="217"  layout="responsive"></amp-img>
-           <p class="tituloblog">¿Se requiere Workers' Compensation en California?</p>
-          <p class="bodyblog">Todos los empleadores de mano de obra en California deben tener beneficios de seguro...
-</p>
-        </a>
-        
-        <a href="https://www.beeinsured.co/es/blog/por-que-comprar-poliza-general-liability" class="noteblog">
-        <amp-img src="https://www.beeinsured.co/img/blog/grid/4-general.jpg"  width="225" height="217" layout="responsive"></amp-img>
-         <p class="tituloblog">¿Por qué comprar una póliza de general liability?</p>
-        <p class="bodyblog">El seguro de responsabilidad general protege a una empresa contra daños a la propiedad...</p>
- </a>
-    
-        <a href="https://www.beeinsured.co/es/blog/cosas-no-sabias-cobertura-vehiculos-comerciales" class="noteblog">
-  
-        <amp-img src="https://www.beeinsured.co/img/blog/grid/5-things-commercial.jpg" class="fotoblog" width="225" height="217" layout="responsive"></amp-img>
-        <p class="tituloblog">Cosas que probablemente no sabias de cobertura vehículo comercial</p>
-         <p class="bodyblog">El seguro de vehículos comerciales es una póliza de daños físicos y coberturas de responsabilidad civil por montos, situaciones y usos no cubiertos por una póliza de automóvil personal.</p>
-        </a>
-       
-        <a href="https://www.beeinsured.co/es/blog/cosas-que-necesitas-saber-seguro-camiones" class="noteblog">
-        <amp-img src="https://www.beeinsured.co/img/blog/grid/7-thing-commercial.jpg"  width="225" height="217" layout="responsive"></amp-img>
-         <p class="tituloblog">Cosas que necesitas saber sobre los seguros para camiones</p>
-        <p class="bodyblog">El seguro de camiones comerciales proporciona un seguro de responsabilidad civil para los transportistas que transportan la carga de otros y se utiliza en el caso de que la carga se destruya</p>
- </a>
-       
-    
-    
-    </div>
-        
-        
-        </div>
-    
+         
+           
+   <div class="gridblog"> 
+         <div class="blognota">
+             <a href="https://www.beeinsured.co/es/blog/workers-compensation-requerido-california" class="cuadronotas"><div class="uno">
+      <amp-img src="https://www.beeinsured.co/img/blog/vertical/workers.jpg" class="fotoblog" width="154" height="167" layout="responsive"></amp-img></div>
       
-  <?php include('../aside-menu-es.php');?>   
-    
+        <div class="dos"> <p class="tituloblog">¿Se requiere Workers' Compensation en California?</p>
+         <p class="bodyblognota">Todos los empleadores de mano de obra en California deben tener</p><p class="read">Leer más...</p></div> 
+        </a>
     </div>
+         
+      <div class="blognota">
+             <a href="https://www.beeinsured.co/es/blog/cosas-no-sabias-cobertura-vehiculos-comerciales" class="cuadronotas"><div class="uno">
+      <amp-img src="https://www.beeinsured.co/img/blog/vertical/cover-commercial-vehicle.jpg" class="fotoblog" width="154" height="167" layout="responsive"></amp-img></div>
+      
+        <div class="dos"> <p class="tituloblog">Cosas que probablemente no sabias de cobertura vehículo comercial</p>
+         <p class="bodyblognota">El seguro de vehículos comerciales es una póliza de daños físico</p><p class="read">Leer más...</p></div> 
+        </a>
+    </div> 
+             
+          
+      <div class="blognota">
+             <a href="https://www.beeinsured.co/es/blog/debes-saber-general-liability" class="cuadronotas"><div class="uno">
+      <amp-img src="https://www.beeinsured.co/img/blog/vertical/general.jpg" class="fotoblog" width="154" height="167" layout="responsive"></amp-img></div>
+      
+        <div class="dos"> <p class="tituloblog">Debes saber esto de General Liability</p>
+         <p class="bodyblognota">El seguro de responsabilidad civil general lo protege</p><p class="read">Leer más...</p></div> 
+        </a>
+    </div>         
+            
+         <div class="blognota">
+             <a href="https://www.beeinsured.co/es/blog/conoce-seguro-bond" class="cuadronotas"><div class="uno">
+      <amp-img src="https://www.beeinsured.co/img/blog/vertical/bond.jpg" class="fotoblog" width="154" height="167" layout="responsive"></amp-img></div>
+      
+        <div class="dos"> <p class="tituloblog">Conoce bien tu seguro de bond antes de firmar</p>
+         <p class="bodyblognota">Una fianza de licencia de contratista es un tipo</p><p class="read">Leer más..</p></div> 
+        </a>
+    </div>
+             
+             
+             
+             
+             
+             
+          
+         </div>
+            <?php include('../aside-menu-es.php');?>   
+         </div> 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+          
+
+    
+    
+
 
 </body>
   <?php include('../footer-menu-es.php');?>

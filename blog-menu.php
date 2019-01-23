@@ -1,4 +1,5 @@
 <div class="center"> 
+
     <p>Read more about us:</p>
     <br>
     <div class="gridindex"> 

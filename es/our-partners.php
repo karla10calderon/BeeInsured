@@ -61,11 +61,14 @@
 <div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script>
 </amp-animation>
 <amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation>
-<div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?> <amp-img  class="oculto" src="https://www.beeinsured.co/img/our-partners.png" width="1260" height="320" alt="#" title="#" layout="responsive"></amp-img>
+<div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?> <amp-img  class="oculto" src="https://www.beeinsured.co/img/our-partners.jpg" width="1680" height="570" alt="#" title="#" layout="responsive"></amp-img>
     
     <div class="title-section"><h1>Nuestros socios</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/our-partners" class="active">Nuestros socios</a></li></ol>
     
-    <div class="center"><p>Para brindar un servicio superior, mantenemos una excelente relación con nuestros socios que tienen años de experiencia en el campo de los seguros. En lugar de desarrollar y vender servicios, nuestro objetivo es trabajar a partir de las necesidades y expectativas de los clientes.</p></div>
+    <div class="center"><p>La excelente relación con nuestros socios,
+quienes tienen muchos años de experiencia
+en el área de seguros, nos ayuda a ofrecer un
+servicio de primera calidad a nuestro cliente.</p></div>
    
     
     

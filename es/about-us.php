@@ -68,10 +68,10 @@
         
         <h1> Nuestro equipo </h1>
  <div class = "center">
-            <amp-img src = "https://www.beeinsured.co/img/kevin.jpg" width = "1597" height = "950" layout = "responsive"> </amp-img>
+             <amp-img  src="https://www.beeinsured.co/img/kevin.png" width="944" height="570" layout="responsive"></amp-img>
          <br>
 <p class = "name"> Kevin Arita </p>
-<p class = "job"> LIC # 0H99834 <br> CEO </p> <br> <br>
+<p class = "job"><b>CEO</b> <br>LIC # 0H99834 </p><br>
 
 <p> Comenzó su carrera en la industria de seguros y servicios financieros en los suburbios de Los Ángeles, California, en 2007, y rápidamente se convirtió en el mejor agente dentro del primer año de su carrera. Con pura determinación y pasión por los negocios, pudo construir KYC Insurance Services, LLC., El 23 de mayo de 2015. <br> <br> Ahora KYC Insurance Services, LLC es formalmente BeeInsured Insurance Services, como nueva marca. BeeInsured se formó en abril de 2018 con el respaldo de KYC Insurance Services, LLC. para satisfacer las necesidades de la industria de la construcción, aunque también brindamos protección de seguros de calidad a una variedad de industrias.</p>        
         <div class="ourteam">
@@ -141,7 +141,7 @@
     <div class="person">
         <amp-img src="https://www.beeinsured.co/img/yamir.jpg" width="250" height="250" ></amp-img>
         <p class="name">Yamir Alvarez</p>
-        <p class="job">LIC#0H22980<br>Insurance Broker</p>
+        <p class="job">LIC#0H22980<br>Agency Manager</p>
     </div>
      <div class="person">
         <amp-img src="https://www.beeinsured.co/img/juan-orozco.jpg" width="250" height="250" ></amp-img>

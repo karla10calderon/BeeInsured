@@ -62,8 +62,7 @@
 </amp-animation>
 <amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation>
 <div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('menu.php');?>
-      <amp-img  class="oculto" src="https://www.beeinsured.co/img/our-partners.png" width="1260" height="320" alt="#" title="#" layout="responsive"></amp-img>
-    
+    <amp-img  class="oculto" src="https://www.beeinsured.co/img/our-partners.jpg" width="1680" height="570" alt="#" title="#" layout="responsive"></amp-img>
     <div class="title-section"><h1>Our Partners</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/our-partners" class="active">Our Partners</a></li></ol>
     
     <div class="center"><p>To provide superior service, we maintain great relationship with our partners who have years of experience in the insurance field. Instead of developing and selling services, working from customer needs and expectations it's our goal.</p></div>

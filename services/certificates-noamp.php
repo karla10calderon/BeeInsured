@@ -129,7 +129,7 @@
                         <br>
                          <p class="final-note"><b>Only PDF files, max size 5M</b></p>
                        <label>
-                          <input type="file" name="file"  accept="application/pdf" required/>
+                          <input type="file" name="file" required/>
                         </label>
                         <br><br>
                         

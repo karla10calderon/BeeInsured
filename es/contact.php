@@ -55,21 +55,88 @@
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification>
     <!--SEGUMIENTO DE ANALYTICS -->
-<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/carrousel/call-beeinsured-desktop.jpg" width="1920" height="395" layout="responsive" alt="Chat with us" title="Chat with an agent"></amp-img>
+<amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/contact.jpg" width="1680" height="570" layout="responsive" alt="Chat with us" title="Chat with an agent"></amp-img>
 <div class="title-section"><h1>Contacto</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/contact" class="active">Contacto</a></li></ol>
 
 
     
     <div class="contactus">
       <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
-            <p class="section">1 844 468 7400</p>
+            <p class="section">844 468 7400</p>
     </div>
     
     <p class="servicesform">
 Por favor complete el siguiente formulario para
 brindar un servicio rápido y eficiente</p>
     
-    <?php include('../quote-general-es.php');?>
+<div class="formulario">
+<!--FORMULARIO CORTO DE CONTACTO-->
+       <form method="post"
+    action-xhr="https://panel.beeinsured.co/api/addRequest"
+    target="_top"
+    class="quote">
+    <fieldset>
+      <label>
+        <input type="text"
+          name="name"
+          placeholder="Nombre *"
+          required>
+      </label>
+      <br>
+      <label>
+        <input type="email"
+          name="Email"
+          placeholder="Correo*"
+          required>
+      </label>
+      <br>
+      <label>
+         <input type="text"
+          name="Phone"
+          placeholder="Teléfono *"
+          required>
+      </label>
+  <br>
+       <div class="options">
+            <select name=“Service” id="status">
+               
+                <option value=“WorkersComp”>Workers Compensation</option>
+                
+                <option value=“GeneralLiability”>General Liability</option>
+                
+                <option value=“CommercialVehicle”>Commercial Vehicle</option>
+                
+                <option value=“Bond”>Bond</option>
+                
+                <option value=“SmallBusiness”>Small Business</option>
+                
+                <option value=“ToolEquipment”>Tool & Equipment</option>
+                
+                <option value=“ExcessUmbrella”>Excess & Umbrella</option>
+                <option value=“Homeowners”>Homeowners</option>
+                <option value=“PersonalAuto”>Personal Auto</option>
+                <option value=“Certificates”>Certificates</option>
+                <option value=“Other”>
+                Other</option>
+           </select> 
+             
+        </div>
+         <br><p class="note">* Información requerida</p>
+      <input type="submit"
+        value="Enviar">
+    </fieldset>
+    <div submit-success>
+      <template type="amp-mustache">
+        Subscription successful!
+      </template>
+    </div>
+    <div submit-error>
+      <template type="amp-mustache">
+        Subscription failed!
+      </template>
+    </div>
+  </form></div>
+    
  <p class="servicesadd"><b>Dirección</b></p>
     <div class="dir"><amp-img src="/img/map-icon.png" width="45" height="52"></amp-img><p>17777 Center Court Drive N, Suite 710<br>Cerritos CA 90703</p></div>
   
