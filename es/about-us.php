@@ -74,50 +74,49 @@
 <p class = "job"><b>CEO</b> <br>LIC # 0H99834 </p><br>
 
 <p> Comenzó su carrera en la industria de seguros y servicios financieros en los suburbios de Los Ángeles, California, en 2007, y rápidamente se convirtió en el mejor agente dentro del primer año de su carrera. Con pura determinación y pasión por los negocios, pudo construir KYC Insurance Services, LLC., El 23 de mayo de 2015. <br> <br> Ahora KYC Insurance Services, LLC es formalmente BeeInsured Insurance Services, como nueva marca. BeeInsured se formó en abril de 2018 con el respaldo de KYC Insurance Services, LLC. para satisfacer las necesidades de la industria de la construcción, aunque también brindamos protección de seguros de calidad a una variedad de industrias.</p>        
-        <div class="ourteam">
+          <div class="ourteam">
+             <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/jair-rodriguez.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Jair Rodríguez</p>
+        <p class="job">COO</p>
+    </div>
 <div class="person">
         <amp-img src="https://www.beeinsured.co/img/david-bass.jpg" width="250" height="250" ></amp-img>
         <p class="name">David Bass</p>
         <p class="job">Underwriting &<br>Accounting Manager</p>
     </div>      
-
-    <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/jair-rodriguez.jpg" width="250" height="250" ></amp-img>
-        <p class="name">Jair Rodríguez</p>
-        <p class="job">Customer Service <br>Manager</p>
-    </div>
-      <div class="person">
+<div class="person">
         <amp-img src="https://www.beeinsured.co/img/nidia-arita.jpg" width="250" height="250" ></amp-img>
         <p class="name">Nidia Arita</p>
         <p class="job">Underwriting Assistance</p>
     </div>
+            
+         <div class="person">
+        <amp-img src="https://www.beeinsured.co/img/paty-castaneda.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Patty Castañeda</p>
+        <p class="job">Customer Service<br>Supervisor</p>
+    </div>    
     <div class="person">
         <amp-img src="https://www.beeinsured.co/img/kimberly-romero.jpg" width="250" height="250" ></amp-img>
         <p class="name">Kimberly Romero</p>
         <p class="job">Customer Service</p>
     </div>
-    <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/paty-castaneda.jpg" width="250" height="250" ></amp-img>
-        <p class="name">Patty Castañeda</p>
-        <p class="job">Customer Service</p>
-    </div>
+   
     <div class="person">
         <amp-img src="https://www.beeinsured.co/img/kiara-baltazar.jpg" width="250" height="250" ></amp-img>
         <p class="name">Kiara Baltazar</p>
         <p class="job">Customer Service</p>
     </div>
-       <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/lailani.jpg" width="250" height="250" ></amp-img>
-        <p class="name">Lailani Norn</p>
-        <p class="job">Customer Service</p>
-    </div>
-
-    <div class="person">
+     <div class="person">
         <amp-img src="https://www.beeinsured.co/img/sylvia-alfonso.jpg" width="250" height="250" ></amp-img>
         <p class="name">Sylvia Alfonso</p>
         <p class="job"> LIC# 0H33363<br>Personal Lines Broker</p>
     </div>
-
+<div class="person">
+        <amp-img src="https://www.beeinsured.co/img/yamir.jpg" width="250" height="250" ></amp-img>
+        <p class="name">Yamir Alvarez</p>
+        <p class="job">LIC#0H22980<br>Sales Supervisor</p>
+    </div>
     <div class="person">
         <amp-img src="https://www.beeinsured.co/img/sandra-cardena.jpg" width="250" height="250" ></amp-img>
         <p class="name">Sandra Cardeña</p>
@@ -138,43 +137,34 @@
         <p class="name">Jiena Sem</p>
         <p class="job">LIC# 0I90089<br>Insurance Broker</p>
     </div>
-    <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/yamir.jpg" width="250" height="250" ></amp-img>
-        <p class="name">Yamir Alvarez</p>
-        <p class="job">LIC#0H22980<br>Agency Manager</p>
-    </div>
      <div class="person">
         <amp-img src="https://www.beeinsured.co/img/juan-orozco.jpg" width="250" height="250" ></amp-img>
         <p class="name">Juan Orozco</p>
         <p class="job">LIC# 0M31778<br>Insurance Broker</p>
-    </div>
-            
-            
-            
-            
+    </div>  
              <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/mk-01.png" width="250" height="250" ></amp-img>
+        <amp-img src="img/mk-01.png" width="250" height="250" ></amp-img>
         <p class="name">Yngri Matson</p>
         <p class="job">VP Marketing & Advertising</p>
     </div>
             
              <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/mk-02.png" width="250" height="250" ></amp-img>
+        <amp-img src="img/mk-02.png" width="250" height="250" ></amp-img>
         <p class="name">Cassandra Villagómez</p>
         <p class="job">Marketing Supervisor</p>
     </div>
             
               <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/mk-03.png" width="250" height="250" ></amp-img>
+        <amp-img src="img/mk-03.png" width="250" height="250" ></amp-img>
         <p class="name">Karla Calderón</p>
         <p class="job">Website Designer</p>
     </div>
              <div class="person">
-        <amp-img src="https://www.beeinsured.co/img/mk-04.png" width="250" height="250" ></amp-img>
+        <amp-img src="img/mk-04.png" width="250" height="250" ></amp-img>
         <p class="name">Alan Robert</p>
         <p class="job">Animator</p>
     </div>
-        </div>       
+        </div>         
         
         </div>
         

@@ -65,124 +65,39 @@
     <amp-img  class="oculto" src="https://www.beeinsured.co/img/our-partners.jpg" width="1680" height="570" alt="#" title="#" layout="responsive"></amp-img>
     <div class="title-section"><h1>Our Partners</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/our-partners" class="active">Our Partners</a></li></ol>
     
-    <div class="center"><p>To provide superior service, we maintain great relationship with our partners who have years of experience in the insurance field. Instead of developing and selling services, working from customer needs and expectations it's our goal.</p></div>
+    <div class="center"><p>To provide superior service, we maintain great relationship with our partners who have years of experience in the insurance field. Instead of developing and selling services, working from customer needs and expectations it's our goal.</p>
    
     
     
-   <amp-carousel id="carousel-with-preview"
-   width="250" height="180" type="slides" layout="responsive">
-      <amp-img src="img/partners/partners-01.jpg" width="50" height="50" layout="responsive" ></amp-img>
-     <amp-img src="img/partners/partners-02.jpg" width="50" height="50"  layout="responsive"></amp-img> 
-         <amp-img src="img/partners/partners-03.jpg" width="180" height="180" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-04.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-05.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-06.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         <amp-img src="img/partners/partners-07.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         <amp-img src="img/partners/partners-08.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-09.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         <amp-img src="img/partners/partners-10.jpg" width="50" height="50"layout="responsive"  ></amp-img>
-         <amp-img src="img/partners/partners-11.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-12.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         <amp-img src="img/partners/partners-13.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-14.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         <amp-img src="img/partners/partners-15.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-16.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-17.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-18.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         <amp-img src="img/partners/partners-19.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-20.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-21.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-22.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-23.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-24.jpg" width="50" height="50" layout="responsive" ></amp-img>
-         <amp-img src="img/partners/partners-25.jpg" width="50" height="50"  layout="responsive"></amp-img>
-         
-         
+
+      <amp-carousel width="320" height="200" layout="responsive" type="slides" autoplay delay="3000">
+    <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-1.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+    <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-2.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+    <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-3.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+    <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-4.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+    <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-5.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img><amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-6.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+    <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-7.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+     <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-8.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+     <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-9.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+     <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-10.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-11.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-12.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-13.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-14.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-15.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-16.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>  
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-17.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-18.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-19.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-20.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-21.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-22.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-23.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img> 
+      <amp-img src="https://www.beeinsured.co/img/carrousel/partners/p-24.png" width="320" height="200" layout="responsive" alt="Partners with BeeInsured"></amp-img>  
   </amp-carousel>
-  <div class="carousel-preview">
-    <button on="tap:carousel-with-preview.goToSlide(index=0)">
-     <amp-img src="img/partners/partners-01.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=1)">
-      <amp-img src="img/partners/partners-02.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=2)">
-      <amp-img src="img/partners/partners-03.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=3)">
-     <amp-img src="img/partners/partners-04.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=4)">
-      <amp-img src="img/partners/partners-05.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=5)">
-      <amp-img src="img/partners/partners-06.jpg" width="50" height="50"></amp-img>
-    </button> 
-      <button on="tap:carousel-with-preview.goToSlide(index=6)">
-     <amp-img src="img/partners/partners-07.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=7)">
-      <amp-img src="img/partners/partners-08.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=8)">
-      <amp-img src="img/partners/partners-09.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=9)">
-     <amp-img src="img/partners/partners-10.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=10)">
-      <amp-img src="img/partners/partners-11.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=11)">
-      <amp-img src="img/partners/partners-12.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=12)">
-     <amp-img src="img/partners/partners-13.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=13)">
-      <amp-img src="img/partners/partners-14.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=14)">
-      <amp-img src="img/partners/partners-15.jpg" width="50" height="50"></amp-img>
-    </button> 
-      <button on="tap:carousel-with-preview.goToSlide(index=15)">
-     <amp-img src="img/partners/partners-16.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=16)">
-      <amp-img src="img/partners/partners-17.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=17)">
-      <amp-img src="img/partners/partners-18.jpg" width="50" height="50"></amp-img>
-    </button>
-  <button on="tap:carousel-with-preview.goToSlide(index=18)">
-     <amp-img src="img/partners/partners-19.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=19)">
-      <amp-img src="img/partners/partners-20.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=20)">
-      <amp-img src="img/partners/partners-21.jpg" width="50" height="50"></amp-img>
-    </button>
-      
-      <button on="tap:carousel-with-preview.goToSlide(index=21)">
-      <amp-img src="img/partners/partners-22.jpg" width="50" height="50"></amp-img>
-    </button>
-  <button on="tap:carousel-with-preview.goToSlide(index=22)">
-     <amp-img src="img/partners/partners-23.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=23)">
-      <amp-img src="img/partners/partners-24.jpg" width="50" height="50"></amp-img>
-    </button>
-    <button on="tap:carousel-with-preview.goToSlide(index=24)">
-      <amp-img src="img/partners/partners-25.jpg" width="50" height="50"></amp-img>
-    </button>
-  </div>
     
     
-    
-    
-    
-    
+    </div>
 
   <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)" class="scrollToTop">⌃</button>
 </body>

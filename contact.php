@@ -58,14 +58,7 @@
 <amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('menu.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/contact.jpg" width="1680" height="570" layout="responsive" alt="Chat with us" title="Chat with an agent"></amp-img>
 <div class="title-section"><h1>Contact</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/contact" class="active">Contact</a></li></ol>
 
-
-    
-    <div class="contactus">
-      <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
-            <p class="section">844 468 7400</p>
-    </div>
-    
-    <p class="servicesform">Please complete the form below to
+<p class="servicesform">Please complete the form below to
 provide quick and efficient service.</p>
     
 
@@ -134,7 +127,7 @@ provide quick and efficient service.</p>
          Subscription successful!
       </template>
     </div>
-  </form></div><p class="servicesadd"><b>Address</b></p>
+  </form></div><p class="servicesform"><b>Address</b></p>
     <div class="dir"><amp-img src="https://www.beeinsured.co/img/map-icon.png" width="45" height="52"></amp-img><p>17777 Center Court Drive N, Suite 710<br>Cerritos CA 90703</p></div>
   
 <amp-iframe width="630" height="520"
@@ -143,7 +136,7 @@ provide quick and efficient service.</p>
     layout="responsive"
     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13251.133382296599!2d-118.061231!3d33.869474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7ad391422bd4dba!2sBeeInsured+Insurance+Services!5e0!3m2!1sen!2smx!4v1546468267002"> 
     </amp-iframe>
-          <p class="servicesform"><b>Office Hours: <br><br>
+          <p class="servicesform"><b>Office Hours: <br>
         Monday to Thursday:</b> 9:00 am to 6:00 pm <b>PST<br>
         Friday:</b>  9:00 am to 4:00 pm <b>PST</b>
     </p>

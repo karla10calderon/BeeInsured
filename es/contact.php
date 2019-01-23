@@ -58,14 +58,7 @@
 <amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?><amp-img class="oculto" src="https://www.beeinsured.co/img/contact.jpg" width="1680" height="570" layout="responsive" alt="Chat with us" title="Chat with an agent"></amp-img>
 <div class="title-section"><h1>Contacto</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/contact" class="active">Contacto</a></li></ol>
 
-
-    
-    <div class="contactus">
-      <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="40" width="40"></amp-img>
-            <p class="section">844 468 7400</p>
-    </div>
-    
-    <p class="servicesform">
+ <p class="servicesform">
 Por favor complete el siguiente formulario para
 brindar un servicio rápido y eficiente</p>
     
@@ -137,8 +130,8 @@ brindar un servicio rápido y eficiente</p>
     </div>
   </form></div>
     
- <p class="servicesadd"><b>Dirección</b></p>
-    <div class="dir"><amp-img src="/img/map-icon.png" width="45" height="52"></amp-img><p>17777 Center Court Drive N, Suite 710<br>Cerritos CA 90703</p></div>
+ <p class="servicesform"><b>Dirección</b></p>
+    <div class="dir"><amp-img src="https://www.beeinsured.co/img/map-icon.png" width="45" height="52"></amp-img><p>17777 Center Court Drive N, Suite 710<br>Cerritos CA 90703</p></div>
   
 <amp-iframe width="630" height="520"
     sandbox="allow-scripts allow-same-origin"
@@ -146,7 +139,7 @@ brindar un servicio rápido y eficiente</p>
     layout="responsive"
     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13251.133382296599!2d-118.061231!3d33.869474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7ad391422bd4dba!2sBeeInsured+Insurance+Services!5e0!3m2!1sen!2smx!4v1546468267002"> 
     </amp-iframe>
-          <p class="servicesform"><b>Horario de oficina: <br><br>
+          <p class="servicesform"><b>Horario de oficina: <br>
         Lunes a Jueves:</b> 9:00 am to 6:00 pm <b>PST<br>
         Viernes:</b>  9:00 am to 4:00 pm <b>PST</b>
     </p>

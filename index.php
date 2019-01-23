@@ -199,7 +199,6 @@
                 Other</option>
            </select></div>
         <br><p class="note">* Required information</p>
-        
       <input type="submit"
         value="Send">
     </fieldset>

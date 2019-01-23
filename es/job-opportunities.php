@@ -5,7 +5,7 @@
       <style amp-custom><?php readfile( getcwd() . "../../styles.css"); ?></style></head><body><!-- Google Tag Manager --> <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics><amp-user-notification layout="nodisplay" id="amp-user-notification1"><p> We use technical and analytics cookies to ensure that we give you the best experience on our website.</p><button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button> </amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?>  <amp-img class="oculto" src="https://www.beeinsured.co/img/careers.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>Bolsa de trabajo</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es/">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/job-opportunities" class="active">Bolsa de trabajo</a></li></ol>
     
 <div class="center">
-<h2 class="sub">¡Sé parte de nuestro equipo de trabajo!</h2><br>
+
 <p>En BeeInsured nos enfocamos en brindarle soporte a nuestros clientes con sus seguros<br><br>
 
    Requerimientos:</p>
@@ -15,11 +15,17 @@
 <p>
 Excelente ambiente con oportunidades de crecimiento. Ofrecemos salario mas comisiones y bonificaciones.
 <br><br>
-</p>    
-</div>
+</p>  
+       
     
-   <p class="servicesadd"><b>Aplique ahora</b></p>
+    
+</div>
+    <div class="block"> <h2 class="sub">¡Sé parte del equipo!</h2>
+    <p class="servicesform"><b>Aplique ahora</b></p></div>
+   
+       
     <div class="cotizacion"><div class="formulario">
+     
 <!--FORMULARIO CORTO DE CONTACTO-->
        <form method="post"
     action-xhr="https://panel.beeinsured.co/api/addRequest"
