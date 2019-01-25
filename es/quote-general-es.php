@@ -51,7 +51,7 @@
              
         </div>
          <br><p class="note">* Información requerida</p>
-      <input type="submit"
+      <input type="submit" id="sendForm"
         value="Enviar">
     </fieldset>
     <div submit-success>

@@ -199,7 +199,7 @@
                 Other</option>
            </select></div>
         <br><p class="note">* Required information</p>
-      <input type="submit"
+      <input type="submit" id="sendForm"
         value="Send">
     </fieldset>
     <div submit-success>

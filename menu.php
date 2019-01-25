@@ -5,11 +5,17 @@
   <button on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification>
 
-
 <!--SEGUMIENTO DE ANALYTICS -->
 <amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>
  <!--BACK TO TOP -->
 <div id="top-page"></div> <amp-animation id="showAnim" layout="nodisplay"> <script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script> </amp-animation> <amp-animation id="hideAnim" layout="nodisplay"> <script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script> </amp-animation><div id="marker"> <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"> </amp-position-observer></div>  
+<!--GOOGLE TAG MANAGER-->
+<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-N4M9LC4&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+<!--FB PIXEL AMP-->
+<amp-pixel src="https://www.facebook.com/tr?id=204381543737344&ev=PageView&noscript=1" layout="nodisplay"></amp-pixel>
+
+
+
 
 
 <div class="top">
@@ -26,7 +32,7 @@
         <li>
             <amp-img src="https://www.beeinsured.co/img/Black-Phone-Icon.png" height="35" width="35"></amp-img>
         </li>
-        <li><p class="servicetext">Call Us Now!</p>
+        <li id="call-us-now"><p class="servicetext">Call Us Now!</p>
 <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
  <a  class="phonenumber"href="tel:18444687400">844 468 7400</a>
 </amp-call-tracking>
@@ -150,5 +156,5 @@
     <div class="tercero">
    <p >Call Us Now!</p>
 <amp-call-tracking config="https://www.beeinsured.co/calltracking.json">
- <a class="call" href="tel:18444687400">844 468 7400</a>
+ <a class="call" id="call-mob" href="tel:18444687400">844 468 7400</a>
 </amp-call-tracking></div></div>
