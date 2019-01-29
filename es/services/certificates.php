@@ -12,7 +12,7 @@
   <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
 </amp-user-notification><?php include ('../../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics><div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation><div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../../menu-es.php');?>    <amp-img class="oculto" src="https://www.beeinsured.co/img/certs-new.jpg" width="1680" height="570" layout="responsive"></amp-img><div class="title-section"><h1>Certificates </h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es/">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/services/certificates" class="active">Certificates</a></li></ol>
     
- <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-certificate.png" width="571" height="358" layout="responsive" alt="Get your quote today with BeeInsured" title="Get your quote today with BeeInsured"></amp-img><div class="formulario"><!--FORMULARIO CERTFICIATES-->  
+ <div class="cotizacion"><amp-img src="https://www.beeinsured.co/img/john-certificado.png" width="571" height="358" layout="responsive" alt="Get your quote today with BeeInsured" title="Get your quote today with BeeInsured"></amp-img><div class="formulario"><!--FORMULARIO CERTFICIATES-->  
     <form method="post"
         id="requestForm"
      action-xhr="https://panel.beeinsured.co/api/addRequest"
@@ -172,9 +172,13 @@ cualquiera de los términos y condiciones de la política</label>
           required>
       </label>
       <br>
-       <p class="note">Si su contrato requiere un endoso asegurado adicional programado, por favor bríndenos el nombre legal exacto de la entidad que se va a enumerar</p>
-    <!--FALTA BOTON DE SUBIR DOCUMENTOS-->
-      <br>
+     
+         
+                         <p class="final-note"><b>Solo archivos en PDF, peso máximo 5M</b></p>
+                       <label>
+                          <input type="file" name="file"/>
+                        </label>
+                        <br><br>
         <p class="final-note">La sección 7159 del Código de Negocios y Profesiones de California estipula todas las disposiciones contractuales
 requisitos para las obras públicas y que mencionan los elementos de seguro que se abordarán
 en cada proyecto. <br>

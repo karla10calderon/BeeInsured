@@ -26,22 +26,22 @@
             <ul>
                 <li>
                     <a href="https://www.facebook.com/BeeInsured-2141655912734790" target="_blank">
-                        <amp-img src="https://www.beeinsured.co/img/social-media/Facebook-BeeInsured-White.png" alt="" height="40" width="40"></amp-img>
+                        <amp-img src="https://www.beeinsured.co/img/social-media/Facebook-BeeInsured-White.png" alt="Follow BeeInsured on social media" height="40" width="40"></amp-img>
                     </a>
                 </li>
                 <li>
                     <a href="https://twitter.com/InsuredBee" target="_blank">
-                        <amp-img src="https://www.beeinsured.co/img/social-media/Twitter-BeeInsured-White.png" alt="" height="40" width="40"></amp-img>
+                        <amp-img src="https://www.beeinsured.co/img/social-media/Twitter-BeeInsured-White.png" alt="Follow BeeInsured on social media" height="40" width="40"></amp-img>
                     </a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/beeinsured.co/" target="_blank">
-                        <amp-img src="https://www.beeinsured.co/img/social-media/Instagram-BeeInsured-White.png" alt="" height="40" width="40"></amp-img>
+                        <amp-img src="https://www.beeinsured.co/img/social-media/Instagram-BeeInsured-White.png" alt="Follow BeeInsured on social media" height="40" width="40"></amp-img>
                     </a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/channel/UCGG4rRxffLhfGBH7lPffdtQ?sub_confirmation=1" target="_blank">
-                        <amp-img src="https://www.beeinsured.co/img/social-media/Youtube-BeeInsured-White.png" alt="" height="40" width="40"></amp-img>
+                        <amp-img src="https://www.beeinsured.co/img/social-media/Youtube-BeeInsured-White.png" alt="Follow BeeInsured on social media" height="40" width="40"></amp-img>
                     </a>
                 </li>
             </ul>

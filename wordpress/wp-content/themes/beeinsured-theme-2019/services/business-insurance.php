@@ -1,0 +1,27 @@
+<!doctype html>
+<html amp lang="en"><head><meta charset="utf-8"><script async src="https://cdn.ampproject.org/v0.js"></script><title>Business Insurance Service by BeeInsured</title><link rel="icon" href="https://www.beeinsured.co/img/favicon.ico" type="image/x-icon"><link rel="canonical" href="https://www.beeinsured.co/services/business-insurance"><link rel="alternate" hreflang="es" href="https://www.beeinsured.co/es/services/business-insurance"><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><meta name="description" content="Business Insurance services by BeeInsured provides you the right Insurance at the lower cost."><meta name="keywords" content="business insurance california, small business insurance, business insurance quote, Business insurance Los angeles"><meta name="author" content="BeeInsured"><link rel="author" href="https://plus.google.com/109911843397009123579/posts"/><link rel="publisher" href="https://plus.google.com/109911843397009123579"/><meta itemprop="name" content="Business Insurance Service by BeeInsured"><meta itemprop="description" content="Business Insurance services by BeeInsured provides you the right Insurance at the lower cost."><meta itemprop="image" content="https://www.beeinsured.co/img/tw/business-tw-card.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="BeeInsured"><meta name="twitter:creator" content="BeeInsured"><meta name="twitter:title" content="Bond Insurance Quote by BeeInsured"><meta name="twitter:description" content="Business Insurance services by BeeInsured provides you the right Insurance at the lower cost."><meta name="twitter:image" content="https://www.beeinsured.co/img/tw/business-tw-card.jpg"><meta name="twitter:image:alt" content="bond services of california, California Insurance Services, security bond insurance"><meta property="og:url" content="https://www.beeinsured.co/services/business-insurance"/><meta property="og:type" content="website"/><meta property="og:title" content="Bond Insurance Quote by BeeInsured"/><meta property="og:description" content="Business Insurance services by BeeInsured provides you the right Insurance at the lower cost."/><meta property="og:image" content="https://www.beeinsured.co/img/fb/business-fb-card.jpg"/><meta property="og:site_name" content="BeeInsured"/>
+     <?php readfile( getcwd() . "../../ampset.php"); ?>
+      <style amp-custom><?php readfile( getcwd() . "../../style.css"); ?></style></head><body>
+    
+    <?php include('../menu.php');?>
+    <?php include('../chat.php');?>
+    
+<amp-img  class="oculto" src="https://www.beeinsured.co/img/services/business-insurance-banner.jpg" width="1680" height="570" layout="responsive" title="Business Insurance" alt="Business Insurance Service"></amp-img>
+<div class="title-section"><h1>Business Insurance</h1></div>
+   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co">Home /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services.php">Services /&nbsp;</a></li><li><a href="https://www.beeinsured.co/services/business-insurance" class="active">Business Insurance</a></li></ol>
+
+<div class="center"><p>When you <strong>own a business</strong>, you have a lot to protect, and the right insurance coverage can be important to your continued success, thats why in BeeInsured we work hard to find the best in <strong>insurance with lower </strong>rates for your business.<br><br></p>
+    
+    <?php include('../quote-general.php');?>
+    
+    <p>
+    Insurers often combine a number of insurance coverages into a package that is sold as a single contract. The most common policy for small businesses is the Businessowners Policy (BOP).<br><br>
+The BOP combines coverage for all major property and liability insurance risks as well as many additional coverages into one package policy suitable for most small businesses. The term “BOP” specifically refers to insurance policy language developed (and revised as needed) by experts at ISO. ISO provides sample insurance policy language, research and a variety of other products to insurance companies.
+<br><br>
+The BOP includes business income insurance, sometimes called business interruption insurance. This compensates a business owner for income lost following a disaster. Disasters typically disrupt operations and may force a business to vacate its premises. Business income insurance also covers the extra expense that may be incurred if a business must operate out of a temporary location.<br>
+To cover specific risks associated with a business, a variety of additional coverages may be added to the basic BOP. For example, if a business has an outdoor sign, the BOP doesn’t cover it unless coverage is specifically added for an additional premium. If a business relies on electronic commerce, the owner can add coverage for lost income and extra expenses in the event the ability of the business to conduct e-commerce is slowed down or stopped due to a computer virus or hacker.<br><br>
+
+Only small- to medium-sized businesses that meet certain criteria are eligible for a BOP. Factors insurers consider include the size of the premises, the required limits of liability, the type of business and the extent of offsite activity. Premiums for BOP policies are based on those factors plus business location, financial stability, building construction, security features and fire hazards.<br><br>
+
+    </p></div>
+ </body><?php include('../footer-menu.php');?></html>
