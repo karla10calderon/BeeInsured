@@ -19,7 +19,7 @@
 </head>
 <body>
 <?php include('../../menu-es.php');?>
-  <amp-img src="/img/contractors/Contractor-SheetMetal-BeeInsured.jpg" width="1680" height="570" alt="Sheet Metal in california" title="Sheet Metal in california by BeeInsured" layout="responsive"></amp-img>
+  <amp-img class="oculto" src="https://www.beeinsured.co/img/contractors/Contractor-SheetMetal-BeeInsured.jpg" width="1680" height="570" alt="Sheet Metal in california" title="Sheet Metal in california by BeeInsured" layout="responsive"></amp-img>
     
   <ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/contractors" >Contratistas /&nbsp;</a></li>
     <li><a href="https://www.beeinsured.co/es/contractors/sheet-metal" class="active">Metal de hoja by BeeInsured</a></li>
@@ -67,14 +67,8 @@
 </a>
      <a href="https://www.beeinsured.co/es/services/inland-marine-tool" class='square-box'>
     <div class='square-content'><amp-img src="https://www.beeinsured.co/img/services/new-icon/tool.png" width="150" height="150" layout="responsive" alt="Tool & Equipment by BeeInsured" title="Tool & Equipment for Contractors" ></amp-img><div><h2 class="contratistas">Equipo y herramienta</h2></div></div>
-</a>       
-<a href="https://www.beeinsured.co/es/services/excess-umbrella" class='square-box'>
-    <div class='square-content'><amp-img src="https://www.beeinsured.co/img/services/new-icon/excess.png" width="150" height="150" layout="responsive" alt="Excess & Umbrella by BeeInsured" title="Excess & Umbrella for Contractors" ></amp-img><div><h2 class="contratistas">Excess & Umbrella</h2></div></div>
-</a> 
-    </div>  
-        
-  
-  <!--SOCIAL SHARE-->
+</a><a href="https://www.beeinsured.co/es/services/excess-umbrella" class='square-box'>
+    <div class='square-content'><amp-img src="https://www.beeinsured.co/img/services/new-icon/excess.png" width="150" height="150" layout="responsive" alt="Excess & Umbrella by BeeInsured" title="Excess & Umbrella for Contractors" ></amp-img><div><h2 class="contratistas">Excess & Umbrella</h2></div></div></a></div><!--SOCIAL SHARE-->
         <div class="sharingcontent">
             <p class="sharetext">¡Comparte en redes sociales!</p>
        <amp-addthis width="320" height="92" data-pub-id="ra-5be46fd014bddb20" data-widget-id="tm8g"></amp-addthis>

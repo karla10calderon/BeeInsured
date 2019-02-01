@@ -19,7 +19,7 @@
     <div class="nav2">
         <div class="seleclang"><a href="https://www.beeinsured.co">
         <li id="llame-ahora"><amp-img src="https://www.beeinsured.co/img/lang.png" height="35" width="35"></amp-img></li>
-        <li><p class="servicetext">English</p>
+        <li><p class="servicetext" id="eng-desk">English</p>
      </li></a></div>
         </div>
         <li>
@@ -142,7 +142,7 @@
 </div>
         </div>
         
-  <div class="idioma">
+  <div class="idioma" id="eng-mob">
       <a href="https://www.beeinsured.co/" title="BeeInsured en Inglés">
     <amp-img src="https://www.beeinsured.co/img/lang.png" height="20" width="20" layout="responsive"></amp-img><p>ENG</p>
         </a>

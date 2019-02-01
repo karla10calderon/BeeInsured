@@ -33,38 +33,12 @@
 <meta property="og:image" content="https://www.beeinsured.co/img/fb/index-fb-card.jpg" />
 <meta property="og:site_name" content="BeeInsured" />
 <meta property="article:tag" content="California department of Insurance, Insurance Agency in California, Life Insurance Agency, California Insurance Agency, Los Angeles Insurance Agency" />
-<!--ANUNCIO DE COOKIES -->
-<script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
-      <!--GOOGLE ANALYTICS-->
- <script async custom-element="amp-analytics"
-    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
-      <!--CALL TRACKING-->
-<script async custom-element="amp-call-tracking" src="https://cdn.ampproject.org/v0/amp-call-tracking-0.1.js"></script>
-   <!--CAROUSEL-->
-  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script><!--GOOGLE FONTS -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-<!--ACORDION FORMULARIO-->
-     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
-    <!--BACK TO TOP-->
-    <script async custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js"></script>
-    <script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js"></script>
-<!--SEARCH BOX-->
-    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
-   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+ <?php readfile( getcwd() . "../../ampset.php"); ?>
 <style amp-custom><?php readfile( getcwd() . "../../styles.css"); ?></style></head>
-<body>
-    <amp-user-notification layout="nodisplay"
-  id="amp-user-notification1"><p>
-  We use technical and analytics cookies to ensure that we give you the best experience on our website.</p>
-  <button class="aceptar" on="tap:amp-user-notification1.dismiss">Accept</button>
-</amp-user-notification><?php include ('../chat.php');?><!--SEGUMIENTO DE ANALYTICS --><amp-analytics type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-122019596-1"},"triggers":{"trackPageview":{"on":"visible","request":"pageview"}}}</script></amp-analytics>
-<div id="top-page"></div><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"1","visibility":"visible"}]}]}</script>
-</amp-animation>
-<amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{"duration":"200ms","fill":"both","iterations":"1","direction":"alternate","animations":[{"selector":"#scrollToTopButton","keyframes":[{"opacity":"0","visibility":"hidden"}]}]}</script></amp-animation>
-<div id="marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><?php include('../menu-es.php');?>
+<body><?php include('../menu-es.php');?>
     
     
-    <amp-img src="https://www.beeinsured.co/img/esp-servicios/contractors.jpg" width="1680" height="570" alt="Services for contractors in California" title="Insurance Services for Contractors " layout="responsive"></amp-img>
+    <amp-img class="oculto" src="https://www.beeinsured.co/img/esp-servicios/contractors.jpg" width="1680" height="570" alt="Services for contractors in California" title="Insurance Services for Contractors " layout="responsive"></amp-img>
     
     <div class="title-section"><h1>Servicios para contratistas</h1></div><ol class="breadcrumbs"><li><a href="https://www.beeinsured.co/es/">Inicio /&nbsp;</a></li><li><a href="https://www.beeinsured.co/es/contractors" class="active">Contratistas</a></li></ol>
 
@@ -160,19 +134,5 @@
        <amp-img src="https://www.beeinsured.co/img/services/new-icon/contractors/landscape.png" width="150" height="150" layout="responsive" alt="Contractors by BeeInsured" title="Insurance Services" ></amp-img>
  <div><h2 class="contratistas">Otros</h2></div></div>
            <h4 class="descrip"> </h4>
-</a>
-<!--
-        <h3>Did you find your contractor type?
-        Then contact us!</h3>
--->
-<!--
-         <div class="square-box contract" >
-    <div class='square-content'><div><h2 class="contratistas">Others</h2></div></div>
-</div>  
--->  
-    </div>
-    
- 
-</body>
-<?php include('../footer-menu-es.php');?>
+</a></div></body><?php include('../footer-menu-es.php');?>
 </html>
